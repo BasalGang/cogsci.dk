@@ -18,4 +18,4 @@ You can do some of the following:
 ## Other information
 
 Information on writing the documents on this page can be found in the [Contribute](./contribute) section.
-Contact the team [here](./about/contact)
+Contact the team [here](./contact)

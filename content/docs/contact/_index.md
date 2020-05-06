@@ -7,7 +7,7 @@ title: "Contact"
 
 # Contact page
 
-You are always welcome to contact the people responsible for this website or ask if you can join the core development team ([_AU CogSeers_](https://github.com/AUcogseers/)):
+You are always welcome to contact the people responsible for this website or ask if you can join the core development team ([_AU CogSeers_](https://gitlab.com/AUcogseers/)):
 
 - Arnault-Quentin Vermillet
 - Peter Thestrup Waade

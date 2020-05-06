@@ -22,7 +22,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## How to build the site locally
 
-1. Clone this reposititory, `git clone git@github.com:AUcogseers/CogSite.git`
+1. Clone this reposititory, `git clone git@gitlab.com:AUcogseers/CogSite.git`
 2. In the newly cloned folder (`cd CogSite`), download the theme with `git submodule update --init --recursive`
 3. Download the hugo files from within R with `blogdown::install_hugo()`
 4. Build the webpages in R with `blogdown::build_site()`
@@ -55,11 +55,11 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] University courses list under formal stuff
 - [x] Add the Study Café
 - [ ] Set up the blog structure (categories, tags, etc.)
-- [ ] Add a "found a mistake" button --> link to the Issues page on Github
+- [ ] Add a "found a mistake" button --> link to the Issues page on Gitlab
 - [ ] Simplify simplify simplify on the left side - remove third level and reduce reduce
 - [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
 - [ ] Write the markdown tutorial
-- [ ] Write the github tutorial for contributing to the website
+- [ ] Write the gitlab tutorial for contributing to the website
 - [ ] Specificize the contribution pages so it's _very easy_ to contribute
 - [ ] The Time of Content is Upon Us
 - [ ] Write all the teachers: Favorite books etc.

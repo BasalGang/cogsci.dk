@@ -22,7 +22,7 @@ I can write code like this:
 # This is a code block
 WriteBlogPost(new DateTime(DateTime.now()));
 ```
-...though I might want to write other stuff as well. Maybe even [link to some cool stuff](https://github.com/AUcogseers/CogSite/tree/master/content). Or possibly have an image in my cool blog post:
+...though I might want to write other stuff as well. Maybe even [link to some cool stuff](https://gitlab.com/aucogseers/CogSite). Or possibly have an image in my cool blog post:
 
 ![Lazy blog animal](https://lh3.googleusercontent.com/proxy/BOtnst7Dg40zc6JRJtE_UwSVnA8qjGE1nBtH16I1nnBLUTkntpZkq-gTO1l3RSJwnY9rYtYWu1P21_tHnqnkFUKY7_whPwU4K3wTjZNiDH8v6ynMswtM4hUN0bay3RlUMLtCniSuruc2E4UjNwN2qkFvp35T2WPrIvO67bY)
 
