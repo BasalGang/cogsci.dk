@@ -19,7 +19,7 @@ This happens automatically, so all you need to do is commit your content as a ma
 ## Step-by-step answer
 
 1. First, fork the repository by clicking the "Fork" button in the top right on [gitlab](https://gitlab.com/aucogseers/CogSite).
-2. Now you have "your version" at gitlab.com/<yourusername>/CogSite. Clone that, for example with `git clone git@gitlab.com:<yourusername>/CogSite.git`
+2. Now you have "your version" at `https://gitlab.com/<yourusername>/CogSite`. Clone that, for example with `git clone git@gitlab.com:<yourusername>/CogSite.git`
 3. Use the template in the [Example blog post](example-blog-post.md) to create your own post. TODO: How to put your article somewhere else than the blog? 
 4. (Optional) Build the site locally, so you can see your changes in action before sending them live. See the main README on [gitlab](https://gitlab.com/aucogseers/CogSite).
 5. When you're satisfied, commit your changes and push them to the repository.
