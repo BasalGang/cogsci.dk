@@ -162,7 +162,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 |Title + Link |Authors |When |Type | 
 |:------------|:-------|:----|:----|
-|[Predicting mental disorders from transcripts](pdfs/Predicting-mental-disorders-from-transcripts-Ludvig-Olsen-2020.pdf) |Lord Pope the Second |May 2020 |Data Analysis, Synopsis |
+|[Predicting mental disorders from transcripts](pdfs/Predicting-mental-disorders-from-transcripts-Ludvig-Olsen-2020.pdf) |Ludvig Renbo Olsen |May 2020 |Data Analysis, Synopsis |
 
 </br>
 
