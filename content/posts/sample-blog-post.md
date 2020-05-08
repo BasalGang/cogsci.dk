@@ -1,14 +1,12 @@
 ---
 author: "Esben Kran"
 date: 2020-05-05
-linktitle: Sexy link to the sexy post
-title: This is a cool blog post <3
+title: This is a cool blog post
 next: /next-blog-post-name-with-hyphens
 prev: /previous-blog-post-name
 categories: ['Contribute']
-tags: ['beautiful']
-hidden: true
-# description: This is my little description that's very good.
+tags: ['Examples']
+bookHidden: true
 ---
 Here you have a short summary of the blog post.
 
