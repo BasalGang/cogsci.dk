@@ -28,13 +28,9 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 4. Build the webpages in R with `blogdown::build_site()`
 5. Optionally, host a local webserver with `blogdown::serve_site()` and take it back down with `servr::daemon_stop(1)`
 
-### Structure
-
-[THIS IS DEPRECATED, SEE THE "COGSCI SIDESTRUKTUR" DOCUMENT]
-
 ## TO DO
 
-- [ ] Hosting of website
+- [x] Hosting of website
 - [ ] HCI project, Sebastian and Blanka
 - [ ] Write a nice front page
 - [ ] Data storage
@@ -45,7 +41,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
 - [ ] Update the logo link to the actual front page
 - [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title] ([publisher]) -> [description]
-- [ ] Rename the blog to Attention Spotlight or something like that
+- [x] Rename the blog to Attention Spotlight or something like that
 - [ ] Ensure articles for the blog
 - [ ] Reinforced learning front page: Introduction and massive lists of resources
 - [x] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
@@ -56,19 +52,19 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [x] Add the Study Café
 - [ ] Set up the blog structure (categories, tags, etc.)
 - [ ] Add a "found a mistake" button --> link to the Issues page on Gitlab
-- [ ] Simplify simplify simplify on the left side - remove third level and reduce reduce
+- [x] Simplify simplify simplify on the left side - remove third level and reduce reduce
 - [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
-- [ ] Write the markdown tutorial
-- [ ] Write the gitlab tutorial for contributing to the website
-- [ ] Specificize the contribution pages so it's _very easy_ to contribute
+- [x] Write the markdown tutorial
+- [x] Write the gitlab tutorial for contributing to the website
+- [x] Specificize the contribution pages so it's _very easy_ to contribute
 - [ ] The Time of Content is Upon Us
-- [ ] Write all the teachers: Favorite books etc.
+- [x] Write all the teachers: Favorite books etc.
 - [ ] Embedding the calendar
 - [x] Decide a good file structure for the Amazing Lists Of Everything
 - [x] Implement one list as a prototype
 - [x] Implement the hugo-book theme
 - [x] Implement a basic hierarchical structure
-- [ ] Write an example blog post in the "posts" folder
+- [x] Write an example blog post in the "posts" folder
 - [x] Write instructions on shortcodes
 - [x] Write instructions on writing a blog post
 - [x] Write instructions on page settings
