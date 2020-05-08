@@ -114,7 +114,8 @@ Ordered list:
 \3 Text
 ´´´
 
-I might want to write other stuff as well. Maybe even a [link to some cool stuff](https://gitlab.com/aucogseers/CogSite) by writing \[text\](link). To quickly create links from URLs, write `<https://gitlab.com/aucogseers/CogSite>`.
+I might want to write other stuff as well. Maybe even a [link to some cool stuff](https://gitlab.com/aucogseers/CogSite) by writing \[text\](link). To quickly create links from URLs like this <https://gitlab.com/aucogseers/CogSite>, write `<https://gitlab.com/aucogseers/CogSite>`. 
+You can also reference other sections on the post by referring to their titles like this: [Writing in markdown](#writing-in-markdown) `[Writing in markdown](#writing-in-markdown)`
 
 You might also want an image like this in your post:
 
@@ -422,3 +423,7 @@ protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
 Miseratus fonte Ditis conubia.
 {{< /tab >}}
 {{< /tabs >}}
+
+# Software
+
+Search for the markdown extension on VSCODE to make your life much easier when writing markdown. It highlights and helps you automatically create the correct syntax.
