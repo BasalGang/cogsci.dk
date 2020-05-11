@@ -11,8 +11,10 @@ Lasse's fantastic card game corner.
 ## Personally programmed games
 - Esben's [depressed flower](https://esbenkc.itch.io/keep-her-happy)
 
-## List of cool games
-- This cool statistics game
+# Cool games
+# Universal Paperclips Game
+https://www.decisionproblem.com/paperclips/
+
 
 ## Initiatives in the Brain Games
 - CitizenScience
