@@ -192,7 +192,6 @@ Introduction to Statistics with JASP
 Tutorial and code for meta-analysis in R:
 
 
-
 # <br>  STIMULUS AND TASK PROGRAMMING
 
 Psychopy : Resources
