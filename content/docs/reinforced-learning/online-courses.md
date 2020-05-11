@@ -558,3 +558,61 @@ course will also draw from numerous case studies and applications, so that
 you'll also learn how to apply learning algorithms to building smart robots
 (perception, control), text understanding (web search, anti-spam), computer
 vision, medical informatics, audio, database mining, and other areas.
+
+
+STATISTICAL INFERENCE & DATA SCIENCE
+
+Statistical tools for high-throughput data analysis
+
+A Language, not a Letter: Learning Statistics in R 
+
+swirl teaches you R programming and data science interactively, at your own pace, and right in the R console! 
+
+Improving your statistical inferences - Daniёl Lakens, Coursera
+
+Statistics and R- An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
+
+Excellent Tutorials on Linear Mixed Effects and much More - Bodo Winter 
+
+Introduction to Bayesian Statistics
+
+Introduction to Statistics with JASP
+
+Tutorial and code for meta-analysis in R:
+
+Book : R for data scientists
+
+Onenote (My Assembly of R codes) 
+
+A ggplot2 Tutorial for Beautiful Plotting in R
+
+Publication Ready Plots
+
+STIMULUS AND TASK PROGRAMMING
+Psychopy : Resources
+
+Psychopy : Video Intro
+
+Psychopy Builder
+
+Pavlovia (Psychopy In The Sky)
+
+COMPUTATIONAL NEUROSCIENCE & MACHINE LEARNING
+Coursera on Computational Neuroscience
+
+ETH Computational Psychiatry Course - all video lectures and course materials!
+
+Key papers in deep reinforcement learning
+
+Simple Reinforcement Learning with Tensor Flow
+
+Tutorial on reinforcement learning models:
+
+App Development
+Udacity: Flutter Framework 
+
+Flutter : Next Steps 
+
+Flutter : CookBook 
+
+Project ideas 
