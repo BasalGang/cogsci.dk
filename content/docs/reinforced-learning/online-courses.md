@@ -37,7 +37,10 @@ Examples of certificates:
 
 # <br> STATISTICAL INFERENCE & DATA SCIENCE
 
-## https://swirlstats.com/
+## Swirlstats
+- Instructor: [Nick Carchedi](https://nickcarchedi.com/)
+- Link: <https://swirlstats.com/
+- Price: \$0
 swirl teaches you R programming and data science interactively, <br>
 at your own pace, and right in the R console!
 
