@@ -4,17 +4,15 @@ title: "Tools"
 ---
 # <br> Tools
 
-# <br> Github 
+## Github & Gitlab
+software development version control <br>
 
-# Coursera : Introduction to Git and GitHub 
-https://www.coursera.org/learn/introduction-git-github/home/welcome
 
-# Git Branching WalkThrough
-https://learngitbranching.js.org/
+## Zotero 
+Personal Reference Library <br>
 
-# <br> Zotero - Personal Reference Library
+- Zotero : Quick Start
+- https://www.zotero.org/support/quick_start_guide
 
-# Zotero : Quick Start
-https://www.zotero.org/support/quick_start_guide
 
 

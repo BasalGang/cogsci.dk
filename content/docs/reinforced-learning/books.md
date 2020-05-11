@@ -76,7 +76,9 @@ https://www.goodreads.com/book/show/25761655-the-secret-of-our-success <br>
 # Rebekah Brita Baglini
 Algorithms to Live By (Brian Christian and Tom Griffiths) <br>
 https://www.goodreads.com/book/show/25666050-algorithms-to-live-by<br>
+
 The Book of Why (Dana Mackenzie and Judea Pearl) <br>
 https://www.goodreads.com/book/show/36204378-the-book-of-why <br>
+
 The Linguistics Wars (Randy Allen Harris) <br>
 https://www.goodreads.com/book/show/567061.The_Linguistics_Wars <br>
