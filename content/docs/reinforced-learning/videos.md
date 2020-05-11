@@ -1,76 +1,72 @@
 ---
 weight: 10
-title: "ONLINE LEARNING PLATFORMS"
+title: "List of Interesting Videos"
 ---
-# <br> ONLINE LEARNING PLATFORMS
+# <br> List of Interesting Videos
 
-Github tutorials
+## <br> Language
 
-Coursera : Introduction to Git and GitHub 
+## <br> Emotion
 
-Git Branching WalkThrough
+## <br> Neuroscience
 
-Zotero
-Zotero : Quick Start
+## <br> AI
 
-Coursera
-https://www.coursera.org/
+## <br> Consciousness
 
-Take an extra degree with an online course
+<br> Stanislas Dehaene on Consciousness
+Cognitive Neuroscientist and proponent of the Global Workspace Theory Stanislas Dehaene talks about the brain and consciousness
+https://www.youtube.com/watch?v=OmC-9HQqFG0
 
-Codeacademy
-https://www.codecademy.com
+<br> Donald Hoffman: Do we see reality as it is?
+Computational Psychologist Donald Hoffman explains the desktop metaphor and gives an evolutionary argument for us not seeing reality as it is
+https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/up-next
 
-Learn to code
+<br> Donald Hoffman: Computational Theory of Mind
+Computational Psychologist Donald Hoffman
+https://www.youtube.com/watch?v=cUhrK82seVY
 
-MIT 
-OpenCourseware
-https://ocw.mit.edu/index.htm
+<br> Ned Block: Why AI approaches to cognition won’t work for consciousness
+https://www.youtube.com/watch?v=6lHHxcxurhQ&feature=youtu.be
 
-Take An MIT course online
+<br> Daniel Dennett: On our mind, God, and other illusions
+https://www.youtube.com/watch?v=X0ugfVI7UzQ
 
-EDX
-https://www.edx.org/
+<br> Daniel Dennett: The Illusion of Consciousness
+https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness/up-next
 
-Take an extra degree with an online course
+<br> Sam Harris: What is Consciousness
+https://www.youtube.com/watch?v=Vao9HN_FqOE
 
-Udacity
-https://eu.udacity.com/
+<br> Anil Seth: Your Brain Hallucinates Your Conscious Reality
+https://www.youtube.com/watch?v=lyu7v7nWzfo
 
-Take A nanodegree
+<br> Rupert Sheldrake: Is Consciousness Fundamental?
+https://www.youtube.com/watch?v=46kgmgI9fPs
 
-Free 
-Tech-Textbooks
-https://www.freetechbooks.com/
+<br> Frederick Travis: We Create Our Reality
+https://www.youtube.com/watch?v=UlxGBZifk6k
 
-Get your fingers on the best Tech books around
+<br> Michael Gazzaniga: Can Machines be Conscious
+https://www.youtube.com/watch?v=cQ54bOi1kOc
 
-Udemy
-https://www.udemy.com/
+<br> Antonio Damasio: The Quest to Understanding Consciousness
+https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness/up-next
 
-Take an extra degree with an online course
+<br> John Searle: Consciousness and the Brain
+https://www.youtube.com/watch?v=j_OPQgPIdKg
 
-Brilliant
-https://brilliant.org/
+<br> Guilio Tononi on Consciousness and Phi
+https://www.youtube.com/watch?v=huxh9YCL5nM&feature=youtu.be
 
-Brilliant Bite-sized courses for STEM topics
+<br> Christof Koch: One Big Misconception about Consciousness
+https://www.youtube.com/watch?v=YMHGhEw8uOY
 
-Archive
-https://archive.org/
+<br> Mark Solms: Why and How Consciousness Arises
+https://www.youtube.com/watch?v=F7WF5gzPG1k&t=8s
 
-The online library you’ve been looking for. You’ll able to find everything from Dostoevsky to Cognitive Science Intro-books.
+<br> The Chinese Room Experiment (BBC):
+https://www.youtube.com/watch?v=D0MD4sRHj1M
 
-Gutenberg
-http://www.gutenberg.org/
-
-Non-profit digital library offering millions of free books (Almost all the classics)
-
-Digital Book
-Digitalbook
-
-A database of public domain books from places like Librivox, Gutenberg, Open Library, which also includes books from Audible (Get free trials on all their language platforms (Up to 20 books for free)).
-
-LibriVox
-librivox
-
-Non-profit digital volunteer-run initiative that aims to release public domain audiobooks.
+<br> Mary’s Room Thought Experiment:
+https://www.youtube.com/watch?v=mGYmiQkah4o
