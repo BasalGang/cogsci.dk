@@ -32,3 +32,7 @@ https://www.udemy.com/
 ## Brilliant 
 Brilliant Bite-sized courses for STEM topics <br>
 https://brilliant.org/
+
+## Spinning Up 
+An educational resource that makes it easier to learn about deep reinforcement learning (deep RL) <br>
+https://spinningup.openai.com/en/latest/user/installation.html

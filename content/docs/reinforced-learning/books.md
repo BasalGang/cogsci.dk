@@ -18,9 +18,12 @@ LibriVox - Non-profit digital volunteer-run initiative that aims to release publ
 https://librivox.org/
 
 # Meta Books
+
 R for data scientists - This book will teach you how to do data science with R <br>
 https://r4ds.had.co.nz/
 
+A Language, not a Letter: Learning Statistics in R <br>
+https://ademos.people.uic.edu/index.html
 
 # Teacher Recomendations
 

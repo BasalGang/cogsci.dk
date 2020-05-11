@@ -37,12 +37,16 @@ Examples of certificates:
 
 # <br> STATISTICAL INFERENCE & DATA SCIENCE
 
+## https://swirlstats.com/
+swirl teaches you R programming and data science interactively, <br>
+at your own pace, and right in the R console!
+
 ## Coursera : Introduction to Git and GitHub 
 
 - Instructor: [Google](https://www.Google.com)
 - Publisher: [Coursera](https://www.coursera.org)
 - Link: <https://www.coursera.org/learn/introduction-git-github/home/welcome>
-- Price: \$0
+- Price: \$49
 - Time: 5 hours / week, 4 weeks, 20 hours, 1 ECTS
 
 In this course, you’ll learn how to keep track of the different versions of your code
@@ -62,6 +66,62 @@ and collaborate with others in GitHub, where you’ll also start creating your o
 
 In order to follow along and complete the assessments, you’ll need a computer 
 where you can install Git or ask your administrator to install it for you.
+
+## Coursera : Improving your statistical inferences
+
+- Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
+- Publisher: [Coursera](https://www.coursera.org)
+- Link: <https://www.coursera.org/learn/statistical-inferences>
+- Price: \$49
+- Time: 2-4 hours / week, 8 weeks, 26 hours, 1 ECTS
+
+This course aims to help you to draw better statistical inferences from empirical research. 
+First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, 
+Bayes Factors, and likelihood ratios, and how these statistics answer different questions 
+you might be interested in. Then, you will learn how to design experiments where the false 
+positive rate is controlled, and how to decide upon the sample size for your study, for 
+example in order to achieve high statistical power. Subsequently, you will learn how to 
+interpret evidence in the scientific literature given widespread publication bias, for 
+example by learning about p-curve analysis. Finally, we will talk about how to do philosophy 
+of science, theory construction, and cumulative science, including how to perform replication 
+studies, why and how to pre-register your experiment, and how to share your results following 
+Open Science principles. 
+
+In practical, hands on assignments, you will learn how to simulate t-tests to learn which 
+p-values you can expect, calculate likelihood ratio's and get an introduction the binomial 
+Bayesian statistics, and learn about the positive predictive value which expresses the 
+probability published research findings are true. We will experience the problems with optional 
+stopping and learn how to prevent these problems by using sequential analyses. You will 
+calculate effect sizes, see how confidence intervals work through simulations, and practice 
+doing a-priori power analyses. Finally, you will learn how to examine whether the null hypothesis 
+is true using equivalence testing and Bayesian statistics, and how to pre-register a study, 
+and share your data on the Open Science Framework.
+
+All videos now have Chinese subtitles. More than 30.000 learners have enrolled so far! 
+
+If you enjoyed this course, I can recommend following it up with me new course 
+"Improving Your Statistical Questions"
+
+
+## Coursera : Improving your statistical Questions
+
+- Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
+- Publisher: [Coursera](https://www.coursera.org)
+- Link: <https://www.coursera.org/learn/improving-statistical-questions>
+- Price: \$49
+- Time: 1-4 hours / week, 6 weeks, 18 hours, 1 ECTS
+
+This course aims to help you to ask better statistical questions when performing empirical research.
+We will discuss how to design informative studies, both when your predictions are correct, as when 
+your predictions are wrong. We will question norms, and reflect on how we can improve research 
+practices to ask more interesting questions. In practical hands on assignments you will learn techniques 
+and tools that can be immediately implemented in your own research, such as thinking about the smallest 
+effect size you are interested in, justifying your sample size, evaluate findings in the literature while 
+keeping publication bias into account, performing a meta-analysis, and making your analyses computationally 
+reproducible.
+
+If you have the time, it is recommended that you complete my course 'Improving Your Statistical Inferences' 
+before enrolling in this course, although this course is completely self-contained.
 
 
 ## <br>Data Analysis for Social Scientists
@@ -172,38 +232,56 @@ Machine-learning algorithms.
 - Dimensionality reduction
 - Machine-learning algorithms
 
+## Coursera : Statistics and R
 
-Statistical tools for high-throughput data analysis
+- Instructor: [Harvard](https://www.harvard.edu/)
+- Publisher: [Coursera](https://www.coursera.org)
+- Link: <https://www.edx.org/course/statistics-and-r>
+- Price: \$249
+- Time: 2-4 hours / week, 4 weeks, 18 hours, 1 ECTS
 
-A Language, not a Letter: Learning Statistics in R 
+This course teaches the R programming language in the context of statistical 
+data and statistical analysis in the life sciences.
 
-swirl teaches you R programming and data science interactively, at your own pace, and right in the R console! 
+We will learn the basics of statistical inference in order to understand and compute 
+p-values and confidence intervals, all while analyzing data with R code. We provide R 
+programming examples in a way that will help make the connection between concepts and 
+implementation. Problem sets requiring R programming will be used to test understanding 
+and ability to implement basic data analyses. We will use visualization techniques to 
+explore new data sets and determine the most appropriate approach. We will describe robust 
+statistical techniques as alternatives when data do not fit assumptions required by the 
+standard approaches. By using R scripts to analyze data, you will learn the basics of 
+conducting reproducible research.
 
-Improving your statistical inferences - Daniёl Lakens, Coursera
+Given the diversity in educational background of our students we have divided the course 
+materials into seven parts. You can take the entire series or individual courses that interest 
+you. If you are a statistician you should consider skipping the first two or three courses, 
+similarly, if you are biologists you should consider skipping some of the introductory biology 
+lectures. Note that the statistics and programming aspects of the class ramp up in difficulty 
+relatively quickly across the first three courses. We start with simple calculations and 
+descriptive statistics. By the third course will be teaching advanced statistical concepts such 
+as hierarchical models and by the fourth advanced software engineering skills, such as parallel 
+computing and reproducible research concepts.
 
-Statistics and R- An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
-
-Excellent Tutorials on Linear Mixed Effects and much More - Bodo Winter 
-
-Introduction to Bayesian Statistics
-
-Introduction to Statistics with JASP
-
-Tutorial and code for meta-analysis in R:
-
-
-# <br>  STIMULUS AND TASK PROGRAMMING
-
-Psychopy : Resources
-
-Psychopy : Video Intro
-
-Psychopy Builder
-
-Pavlovia (Psychopy In The Sky)
 
 # <br> COMPUTATIONAL NEUROSCIENCE & MACHINE LEARNING
 
+## Computational Neuroscience
+- Instructor: [University of Washington](https://www.washington.edu/)
+- Publisher: [Coursera](https://www.coursera.org)
+- Link: <https://www.coursera.org/learn/computational-neuroscience>
+- Price: \$49
+- Time: 4 hours / week, 8 weeks, 26 hours, 1 ECTS
+
+This course provides an introduction to basic computational methods for understanding what 
+nervous systems do and for determining how they function. We will explore the computational 
+principles governing various aspects of vision, sensory-motor control, learning, and memory. 
+Specific topics that will be covered include representation of information by spiking neurons, 
+processing of information in neural networks, and algorithms for adaptation and learning. 
+We will make use of Matlab/Octave/Python demonstrations and exercises to gain a deeper 
+understanding of concepts and methods introduced in the course. The course is primarily aimed 
+at third- or fourth-year undergraduates and beginning graduate students, as well as professionals 
+and distance learners interested in learning how the brain processes information.
 
 ## Machine Learning with Python: from Linear Models to Deep Learning (eligible)
 
@@ -349,23 +427,6 @@ Learn about current research in machine learning at the MIT CCSE and how it
 might impact your work in the future.
 
 
-# Business Foundations Specialization (eligible)
-
-- Instructor: Wharton School
-- Publisher: [Coursera](https://www.coursera.org/)
-- Link:
-  <https://www.coursera.org/specializations/wharton-business-foundations>
-- Price: \$79 x months
-- Time: 6 months, 12 hours / week, 288 hours, 10 ECTS
-
-In this Specialization, you’ll develop basic literacy in the language of
-business, which you can use to transition to a new career, start or improve your
-own small business, or apply to business school to continue your education. In
-five courses, you’ll learn the fundamentals of marketing, accounting,
-operations, and finance. In the final Capstone Project, you’ll apply the skills
-learned by developing a go-to-market strategy to address a real business
-challenge.
-
 ## Become a Self-Driving Car Engineer (eligible)
 
 - Instructor: Udacity with Mercedes-Benz, NVIDIA, UBER, DiDi, BMW, and McLaren
@@ -394,16 +455,6 @@ array of critical topics, including deep learning, computer vision, sensor
 fusion, localization, controllers, vehicle kinematics, automotive hardware, and
 more. As part of their capstone project, students have the rare opportunity to
 run their code on an actual autonomous vehicle owned by Udacity.
-
-Coursera on Computational Neuroscience
-
-ETH Computational Psychiatry Course - all video lectures and course materials!
-
-Key papers in deep reinforcement learning
-
-Simple Reinforcement Learning with Tensor Flow
-
-Tutorial on reinforcement learning models:
 
 ## Deep Reinforcement Learning (eligible)
 
@@ -447,10 +498,19 @@ Multi-Agent Reinforcement Learning
   involve multiple, interacting agents. These techniques are used in a variety
   of applications,
 
+## Tensorflow : Simple Reinforcement Learning 
+
+- Instructor: [Medium](https://medium.com/)
+- Publisher: [Arthur Juliani](https://www.linkedin.com/in/arthur-juliani-50a38a21/)
+- Link: <https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0>
+- Price: \$0
+- Time: 2 hours / week, 10 weeks, 20 hours, 2.5 ECTS
+
+Reinforcement Learning series
 
 # Philosophy
 
-# Minds and Machines
+## Minds and Machines
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -568,7 +628,7 @@ Devices](https://www.edx.org/course/electronic-materials-devices-mitx-3-15-1x)
 Part 3 - [3.15.3x: Magnetic Materials and
 Devices](https://www.edx.org/course/magnetic-materials-devices-mitx-3-15-3x#!)
 
-# Global Warming Science
+## Global Warming Science
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -586,7 +646,7 @@ why has earth’s climate changed through geologic history?”
 This science course is designed for college sophomores and juniors with some
 preparation in college-level calculus and physics.
 
-# Global Health Informatics to Improve Quality of Care
+## Global Health Informatics to Improve Quality of Care
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -642,3 +702,21 @@ the developing world. Implementing a health information technology project
 requires mulTimeisciplinary teams. Thus, with this course, we hope to bring
 together individuals from a variety of disciplines—computer science, medicine,
 engineering, public health, policy, and business.
+
+
+# Business Foundations Specialization (eligible)
+
+- Instructor: Wharton School
+- Publisher: [Coursera](https://www.coursera.org/)
+- Link:
+  <https://www.coursera.org/specializations/wharton-business-foundations>
+- Price: \$79 x months
+- Time: 6 months, 12 hours / week, 288 hours, 10 ECTS
+
+In this Specialization, you’ll develop basic literacy in the language of
+business, which you can use to transition to a new career, start or improve your
+own small business, or apply to business school to continue your education. In
+five courses, you’ll learn the fundamentals of marketing, accounting,
+operations, and finance. In the final Capstone Project, you’ll apply the skills
+learned by developing a go-to-market strategy to address a real business
+challenge.
