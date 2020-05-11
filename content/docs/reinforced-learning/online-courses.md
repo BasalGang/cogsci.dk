@@ -560,7 +560,10 @@ you'll also learn how to apply learning algorithms to building smart robots
 vision, medical informatics, audio, database mining, and other areas.
 
 
-STATISTICAL INFERENCE & DATA SCIENCE
+##### Categories + Different courses To have added details - Sebastian
+
+
+# <br> STATISTICAL INFERENCE & DATA SCIENCE
 
 Statistical tools for high-throughput data analysis
 
@@ -588,7 +591,7 @@ A ggplot2 Tutorial for Beautiful Plotting in R
 
 Publication Ready Plots
 
-STIMULUS AND TASK PROGRAMMING
+# <br>  STIMULUS AND TASK PROGRAMMING
 Psychopy : Resources
 
 Psychopy : Video Intro
@@ -597,7 +600,7 @@ Psychopy Builder
 
 Pavlovia (Psychopy In The Sky)
 
-COMPUTATIONAL NEUROSCIENCE & MACHINE LEARNING
+# <br> COMPUTATIONAL NEUROSCIENCE & MACHINE LEARNING
 Coursera on Computational Neuroscience
 
 ETH Computational Psychiatry Course - all video lectures and course materials!
@@ -608,7 +611,8 @@ Simple Reinforcement Learning with Tensor Flow
 
 Tutorial on reinforcement learning models:
 
-App Development
+# <br> App Development
+
 Udacity: Flutter Framework 
 
 Flutter : Next Steps 
