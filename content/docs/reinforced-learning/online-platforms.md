@@ -2,75 +2,26 @@
 weight: 10
 title: "ONLINE LEARNING PLATFORMS"
 ---
-# <br> ONLINE LEARNING PLATFORMS
 
-Github tutorials
+# <br> Online Learning Platforms
 
-Coursera : Introduction to Git and GitHub 
-
-Git Branching WalkThrough
-
-Zotero
-Zotero : Quick Start
-
-Coursera
+# Coursera - Take an extra degree with an online course
 https://www.coursera.org/
 
-Take an extra degree with an online course
-
-Codeacademy
+# Codeacademy - Learn to code
 https://www.codecademy.com
 
-Learn to code
-
-MIT 
-OpenCourseware
+# MIT OpenCourseware - Take An MIT course online 
 https://ocw.mit.edu/index.htm
 
-Take An MIT course online
-
-EDX
+# EDX - Take an extra degree with an online course
 https://www.edx.org/
 
-Take an extra degree with an online course
-
-Udacity
+# Udacity - Take A nanodegree
 https://eu.udacity.com/
 
-Take A nanodegree
-
-Free 
-Tech-Textbooks
-https://www.freetechbooks.com/
-
-Get your fingers on the best Tech books around
-
-Udemy
+# Udemy - Take an extra degree with an online course
 https://www.udemy.com/
 
-Take an extra degree with an online course
-
-Brilliant
+# Brilliant - Brilliant Bite-sized courses for STEM topics
 https://brilliant.org/
-
-Brilliant Bite-sized courses for STEM topics
-
-Archive
-https://archive.org/
-
-The online library you’ve been looking for. You’ll able to find everything from Dostoevsky to Cognitive Science Intro-books.
-
-Gutenberg
-http://www.gutenberg.org/
-
-Non-profit digital library offering millions of free books (Almost all the classics)
-
-Digital Book
-Digitalbook
-
-A database of public domain books from places like Librivox, Gutenberg, Open Library, which also includes books from Audible (Get free trials on all their language platforms (Up to 20 books for free)).
-
-LibriVox
-librivox
-
-Non-profit digital volunteer-run initiative that aims to release public domain audiobooks.
