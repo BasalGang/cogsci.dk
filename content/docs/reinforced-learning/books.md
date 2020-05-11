@@ -4,7 +4,7 @@ title: "Books"
 ---
 # <br> Books
 
-## Meta Sites
+# Meta Sites
 
 Archive - Online Archive of almost anything you could imagine<br>
 https://archive.org/
@@ -17,10 +17,14 @@ http://www.gutenberg.org/
 LibriVox - Non-profit digital volunteer-run initiative that aims to release public domain audiobooks. <br>
 https://librivox.org/
 
+# Meta Books
+R for data scientists - This book will teach you how to do data science with R <br>
+https://r4ds.had.co.nz/
 
-## Teacher Recomendations
 
-# Savhannah Schulz
+# Teacher Recomendations
+
+## Savhannah Schulz
 
 The Predictive Mind by Jakob Hohwy <br>
 https://www.goodreads.com/book/show/18012311-the-predictive-mind <br>
@@ -38,7 +42,7 @@ Extra : Time of the Magicians <br>
 https://www.goodreads.com/book/show/51285900-time-of-the-magicians <br>
 This book by Eilenberger is a well researched narrative about four influential thinkers (Wittgenstein, Benjamin, Cassirer and Heidegger) and their lives and philosophies. Interesting background and links. For example, did you know that Heidegger and Hannah Arendt were a couple? 
 
-# Riccardo Fusaroli
+## Riccardo Fusaroli
 The model thinker<br>
 https://www.goodreads.com/en/book/show/39088592 <br>
 What are models? Why should we absolutely use them, whenever doing serious thinking? Why should we absolutely distrust them and pitch them against each other?
@@ -73,7 +77,7 @@ Henrich. The secret of our success <br>
 https://www.goodreads.com/book/show/25761655-the-secret-of-our-success <br>
 
 
-# Rebekah Brita Baglini
+## Rebekah Brita Baglini
 Algorithms to Live By (Brian Christian and Tom Griffiths) <br>
 https://www.goodreads.com/book/show/25666050-algorithms-to-live-by<br>
 

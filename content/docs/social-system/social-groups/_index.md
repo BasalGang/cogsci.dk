@@ -10,7 +10,7 @@ title: "Social groups"
 
 We do cogs on chess boards! Join us please! Pleease?
 
-FB Contact: https://www.facebook.com/anders.haagerup
+FB Contact: https://www.facebook.com/anders.haagerup 
 
 FB group: https://www.facebook.com/groups/347525079305702/
 
