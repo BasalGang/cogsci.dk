@@ -15,44 +15,44 @@ title: "List of Interesting Videos"
 # <br> Consciousness
 
 # Stanislas Dehaene on Consciousness
-Cognitive Neuroscientist and proponent of the Global Workspace Theory Stanislas Dehaene talks about the brain and consciousness.
+Cognitive Neuroscientist and proponent of the Global Workspace Theory Stanislas Dehaene talks about the brain and consciousness.<br>
 https://www.youtube.com/watch?v=OmC-9HQqFG0
 
 # Donald Hoffman: Do we see reality as it is?
-Computational Psychologist Donald Hoffman explains the desktop metaphor and gives an evolutionary argument for us not seeing reality as it is.
+Computational Psychologist Donald Hoffman explains the desktop metaphor and gives an evolutionary argument for us not seeing reality as it is.<br>
 https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is/up-next
 
 # Donald Hoffman: Computational Theory of Mind
-Computational Psychologist Donald Hoffman argues that consciousness can not be explained with a computationalist perspective.
+Computational Psychologist Donald Hoffman argues that consciousness can not be explained with a computationalist perspective.<br>
 https://www.youtube.com/watch?v=cUhrK82seVY
 
 # Ned Block: Why AI approaches to cognition won’t work for consciousness
-Philosopher of Cognitive Science Ned Block argues that modern AI approaches can't answer the hard problem of consciousness
+Philosopher of Cognitive Science Ned Block argues that modern AI approaches can't answer the hard problem of consciousness<br>
 https://www.youtube.com/watch?v=6lHHxcxurhQ&feature=youtu.be
 
 # Daniel Dennett: On our mind, God, and other illusions
 https://www.youtube.com/watch?v=X0ugfVI7UzQ
 
 # Daniel Dennett: The Illusion of Consciousness
-https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness/up-next
+https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness/up-next<br>
 
 # Sam Harris: What is Consciousness
-https://www.youtube.com/watch?v=Vao9HN_FqOE
+https://www.youtube.com/watch?v=Vao9HN_FqOE<br>
 
 # Anil Seth: Your Brain Hallucinates Your Conscious Reality
-https://www.youtube.com/watch?v=lyu7v7nWzfo
+https://www.youtube.com/watch?v=lyu7v7nWzfo<br>
 
 # Rupert Sheldrake: Is Consciousness Fundamental?
-https://www.youtube.com/watch?v=46kgmgI9fPs
+https://www.youtube.com/watch?v=46kgmgI9fPs<br>
 
 # Frederick Travis: We Create Our Reality
-https://www.youtube.com/watch?v=UlxGBZifk6k
+https://www.youtube.com/watch?v=UlxGBZifk6k<br>
 
 # Michael Gazzaniga: Can Machines be Conscious
-https://www.youtube.com/watch?v=cQ54bOi1kOc
+https://www.youtube.com/watch?v=cQ54bOi1kOc<br>
 
 # Antonio Damasio: The Quest to Understanding Consciousness
-https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness/up-next
+https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness/up-next<br>
 
 # John Searle: Consciousness and the Brain
 https://www.youtube.com/watch?v=j_OPQgPIdKg
