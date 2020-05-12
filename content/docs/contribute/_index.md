@@ -9,7 +9,7 @@ title: "Contribute"
 How can you contribute by putting something on this website?
 
 ## Short answer
-Send a pull-request on [gitlab](https://gitlab.com/aucogseers/CogSite)
+Send a pull-request on [gitlab](https://gitlab.com/aucogseers/CogSite) with you content in [markdown](writing-on-the-cogsite.md).
 
 ## Slightly longer answer
 The website is powered by Hugo, which reads a folder full of Markdown (.md) files, and turns them into the files needed for a beautiful website (.html).
@@ -31,12 +31,3 @@ If you're a regular contributor, you can skip steps 1 and 6, and instead clone t
 
 TODO: Step by step example of adding an exam project or something
 
-## More resources
-
-This is a list of instruction pages for your specific project:
-
-- [Writing in markdown](writing-in-markdown.md)
-- [Writing a blog post](writing-a-blog-post.md)
-  - [Example blog post](example-blog-post.md)
-- [Page settings](page-settings.md)
-- [Shortcodes](shortcodes.md)
