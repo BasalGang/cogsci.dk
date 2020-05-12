@@ -9,7 +9,7 @@ title: "Contribute"
 How can you contribute by putting something on this website?
 
 ## Short answer
-Send a pull-request on [gitlab](https://gitlab.com/aucogseers/CogSite) with you content in [markdown](writing-on-the-cogsite.md).
+Send a pull-request on [gitlab](https://gitlab.com/aucogseers/CogSite) with your content in [markdown](writing-on-the-cogsite.md) format.
 
 ## Slightly longer answer
 The website is powered by Hugo, which reads a folder full of Markdown (.md) files, and turns them into the files needed for a beautiful website (.html).
