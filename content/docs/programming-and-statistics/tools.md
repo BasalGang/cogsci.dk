@@ -12,7 +12,7 @@ https://rstudio.com/
 
 ## JASP
 
-The JASP interface allows you to conduct statistical analyses in seconds, and <br>
+The JASP interface allows you to conduct statistical analyses in seconds, and
 without having to learn programming or risking a programming mistake. <br>
 https://jasp-stats.org/
 
