@@ -1,7 +1,7 @@
 ---
 title: "CogSite"
 bookFlatSection: true
-bookToC: false
+bookToC: true
 ---
 
 ![Cognitive science cover image](../cover.jpg)
@@ -17,9 +17,27 @@ You can do some of the following:
 - Write or propose a page to add to the list of everything
 - Write a [blog post on CogSite](./contribute/writing-on-the-cogsite.md)
 - Add your [exam project on the CogSite](contribute)
-- Propose other cool things to add (can be _anything_) - contact us [here](contact)
+- Propose other cool things to add (can be **anything**) - contact us [here](contact)
 
 ## Other information
 
 Information on writing the documents on this page can be found in the [Contribute](./contribute) section.
 Contact the team [here](./contact).
+
+# Content information
+
+## Contact
+
+## Contribute
+
+## The Library
+
+## Social System
+
+## Programming and Statistics
+
+## Reinforced Learning
+
+## Formal stuff
+
+## Career
