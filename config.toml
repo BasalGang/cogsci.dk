@@ -40,7 +40,7 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Gitlab"
+  name = "Website on Gitlab"
   url = "https://gitlab.com/AUcogseers/CogSite"
   weight = 10
 
