@@ -19,20 +19,6 @@ Main online course sources: [Udacity](https://www.udacity.com/),
 [EdX](https://www.edx.org/), and [Coursera](https://www.coursera.org/). See more
 on [online platforms](online-platforms.md).
 
-## Notes
-
-Getting preliminary approval for these courses does not seem to be possible. If it becomes possible in the future, these ECTS calculations might be relevant.
-
-The ECTS equivalent is calculated using the equation 1 ECTS = 28 hours (as per
-AU regulations) of course workload. Sending in these one-pagers for approval
-should be enough.
-
-Examples of certificates:
-
-| [./media/image1.png](./media/image1.png) | [./media/image2.png](./media/image2.png) |
-| ---------------------------------------- | ---------------------------------------- |
-| [./media/image3.png](./media/image3.png) |                                          |
-
 # Data science
 
 {{< details title="Swirlstats" open=false >}}
