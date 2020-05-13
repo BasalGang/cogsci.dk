@@ -118,5 +118,5 @@ In the [career section](docs/careers/_index.md), there is ample
 opportunity to get lost in all of the possibilities that
 Cognitive Science brings you. With everything from
 [entrepreneurship](docs/careers/the-kitchen.md) to
-[internships](docs/careers/job-list.md) and
-[alumni stories](docs/careers/alumni.md).
+[alumni stories](docs/careers/alumni.md) and
+[internships](docs/careers/job-list.md).
