@@ -10,18 +10,18 @@ weight: 10
 You write a .md file which stands for **.markdown**. Markdown is an established way to write with formatting. You can find instructions on how to write it on [this page](markdown.md).
 
 The name of the file has to be in the following syntax:
-**`my-blog-post.md`** with dashes instead of
+\*\*`my-blog-post.md` with dashes instead of
 spaces and in all lower-case. This ensures that we can
 link between pages optimally.
 
 By following [this guide](_index.md), you have access to the
 file structure of the website. Here you will place your .md
-file in the in the **`/content/posts/`** folder. Any content you
+file in the in the `/content/posts/` folder. Any content you
 wish to reference that is not online (like images and files)
-must be placed in the **`/static/posts/my-blog-post/`** folder.
+must be placed in the `/static/posts/my-blog-post/` folder.
 Then you make references to
 them in your [markdown text](markdown.md) by writing the link as
-**`../posts/my-blog-post/my-image.jpg`** (see an example of using
+`../posts/my-blog-post/my-image.jpg` (see an example of using
 images in your blog post on the [markdown page](markdown.md)).
 
 ## Blog post settings
@@ -55,7 +55,7 @@ bookHidden means that the blog post will not show up in the left menu.
 
 When you are finished writing the .md file, putting it in
 the correct directory, putting the associated files in the
-relevant directory in the **`static`** folder, and you are ready
+relevant directory in the `static` folder, and you are ready
 to share your post with the world, you can follow
 [these instructions](_index.md) to create a pull request. Then
 your blog post will be reviewed and accepted in

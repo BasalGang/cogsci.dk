@@ -5,6 +5,15 @@ weight: 10
 
 # Writing in markdown
 
+## Software basics
+
+One of the absolute best ways to write markdown files is to
+use Visual Studio Code and install the
+[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+plugin that adds highlighting and assistive features when
+you're editing a .md file. This is _extremely_ useful. Some
+usage examples are shown on [the link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
+
 ## Text basics
 
 Writing text and clicking `enter` to get to the next line just continues your current line. If you write two spaces at the end of the line
