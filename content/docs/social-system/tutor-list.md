@@ -15,60 +15,60 @@ Sign-Up below or look through the list to find yourself a tutor, programmer, sta
 
 ## Sebastian Scott Engen
 
-### Qualifications
+#### Qualifications
 
 R and python: Data Visualisation, Statistical Modelling, Experiment design+implementation
 
-### Contact
+#### Contact
 
 Snuggle.hogwarts@gmail.com
 
 ## Malte Lau Petersen
 
-### Qualifications
+#### Qualifications
 
 Statistical Modelling (R,stan), Visualisation, Simulations, Data wrangling, Experiment design+implementation (python, javascript), Linux, Sql, Scraping, Open source
 
-### Contact
+#### Contact
 
 maltelau@protonmail.com
 
 ## Ludvig Renbo Olsen
 
-### Qualifications
+#### Qualifications
 
 R and python: Data wrangling, Machine Learning (incl. deep learning), Natural Language Processing, Building R packages
 
-### Contact
+#### Contact
 
 mail@ludvigolsen.dk
 
 ## Jonathan Hvithamar Rystrøm
 
-### Qualifications
+#### Qualifications
 
 python and R, Machine Learning, computer vision, Twitter scraping
 
-### Contact
+#### Contact
 
 https://www.facebook.com/jhvithamar
 
 ## Peter Thestrup Waade
 
-### Qualifications
+#### Qualifications
 
 Up for helping w anything. Som experience in Python, R, a bit of Matlab. Programming things in general, data stuff, statistics (including Bayesian), computational modelling, NLP
 
-### Contact
+#### Contact
 
 peter@waade.net
 
-##Esben Kran Christensen
+## Esben Kran Christensen
 
-### Qualifications
+#### Qualifications
 
 Brain-computer interfacing <3 Any technical programming, problem-solving and design, NLP & NN, scraping, bots
 
-### Contact
+#### Contact
 
 contact@esbenkc.com
