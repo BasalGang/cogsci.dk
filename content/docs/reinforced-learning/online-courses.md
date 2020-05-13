@@ -8,15 +8,16 @@ title: "Online courses"
 Curated by Aarhus University, Cognitive Science, Esben Kran and Sebastian Engen
 
 This contains a list of many online courses. Originally curated for
-preliminary approval of courses outside Aarhus University (this is not possible for many of them). See a complete list
-of the content below. You are welcome to **add an online course**
-to the list according to the current structure. Try to ensure
-the quality of the course (e.g. reviews \> 4.5, trustable universities, etc.).
+preliminary approval of courses outside Aarhus University (this is not possible for many of them).
+See a complete list of the content below. You are welcome to **add an online course**
+to the list according to the current structure. Try to ensure the quality
+of the course (e.g. reviews \> 4.5, trustable universities, etc.).
 
 Write to [Esben Kran](../contact/) or [Sebastian Engen](../contact/) if you wish to contribute.
 
 Main online course sources: [Udacity](https://www.udacity.com/),
-[EdX](https://www.edx.org/), and [Coursera](https://www.coursera.org/)
+[EdX](https://www.edx.org/), and [Coursera](https://www.coursera.org/). See more
+on [online platforms](online-platforms.md).
 
 ## Notes
 
