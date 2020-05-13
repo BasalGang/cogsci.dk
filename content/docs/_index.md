@@ -6,7 +6,7 @@ bookToC: false
 
 ![Cognitive science cover image](../cover.jpg)
 
-# What is the "CogSite"
+# What is the Cognitive.dk
 
 The CogSite is Aarhus University Cognitive Science program's Tower of Babel. The ultimate consolidation of information relevant for any level of cognitive science student and researcher.
 
