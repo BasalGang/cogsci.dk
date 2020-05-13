@@ -1,6 +1,7 @@
 ---
 title: "CogSite"
 bookFlatSection: true
+bookToC: false
 ---
 
 ![Cognitive science cover image](../cover.jpg)
