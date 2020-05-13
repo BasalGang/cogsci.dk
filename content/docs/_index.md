@@ -4,7 +4,7 @@ bookFlatSection: true
 bookToC: true
 ---
 
-![Cognitive science cover image](../cover.jpg)
+<!-- ![Cognitive science cover image](../cover.jpg)-->
 
 # What is the Cognitive.dk
 
