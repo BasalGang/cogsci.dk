@@ -297,7 +297,7 @@ computing and reproducible research concepts.
 
 # Computational Neuroscience
 
-{{< details title="Statistical Inferences" open=false >}}
+{{< details title="Computational Neuroscience" open=false >}}
 
 #### Computational Neuroscience
 
@@ -317,9 +317,13 @@ understanding of concepts and methods introduced in the course. The course is pr
 at third- or fourth-year undergraduates and beginning graduate students, as well as professionals
 and distance learners interested in learning how the brain processes information.
 
+{{< /details >}}
+
 # Machine Learning
 
-## Machine Learning with Python
+{{< details title="Machine Learning with Python" open=false >}}
+
+#### Machine Learning with Python
 
 - ...from Linear Models to Deep Learning
 - Instructor: [MIT (Massachusetts Institute of
@@ -353,7 +357,11 @@ training data into effective automated predictions. We will cover:
 Students will implement and experiment with the algorithms in several Python
 projects designed for different practical applications.
 
-## Deep Learning
+{{< /details >}}
+
+{{< details title="Deep Learning" open=false >}}
+
+#### Deep Learning
 
 - Instructor: [deepleaning.ai](https://deeplearning.ai) og
   [Stanford](https://www.stanford.edu/)
@@ -400,7 +408,11 @@ programming assignment on Machine Translation with deep learning. You will have
 the opportunity to build a deep learning project with cutting-edge,
 industry-relevant content.
 
-## Machine Learning
+{{< /details >}}
+
+{{< details title="Machine Learning" open=false >}}
+
+#### Machine Learning
 
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [Coursera](https://www.coursera.org/)
@@ -433,7 +445,11 @@ you'll also learn how to apply learning algorithms to building smart robots
 (perception, control), text understanding (web search, anti-spam), computer
 vision, medical informatics, audio, database mining, and other areas.
 
-## Engineering with AI
+{{< /details >}}
+
+{{< details title="Engineering with AI" open=false >}}
+
+#### Engineering with AI
 
 - Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
 - Instructor: [MIT (Massachusetts Institute of
@@ -464,7 +480,11 @@ to resolve them.
 Learn about current research in machine learning at the MIT CCSE and how it
 might impact your work in the future.
 
-## Self-Driving Car Engineering
+{{< /details >}}
+
+{{< details title="Self-Driving Car Engineering" open=false >}}
+
+#### Self-Driving Car Engineering
 
 - Instructor: Udacity with Mercedes-Benz, NVIDIA, UBER, DiDi, BMW, and McLaren
 - Publisher: [Udacity](https://www.udacity.com/)
@@ -493,7 +513,11 @@ fusion, localization, controllers, vehicle kinematics, automotive hardware, and
 more. As part of their capstone project, students have the rare opportunity to
 run their code on an actual autonomous vehicle owned by Udacity.
 
-## Deep Reinforcement Learning
+{{< /details >}}
+
+{{< details title="Deep Reinforcement Learning" open=false >}}
+
+#### Deep Reinforcement Learning
 
 - Instructor: Udacity with [Unity](https://unity.com/) and
   [NVIDIA](https://www.nvidia.com/)
@@ -535,7 +559,11 @@ Multi-Agent Reinforcement Learning
   involve multiple, interacting agents. These techniques are used in a variety
   of applications,
 
-## Tensorflow
+{{< /details >}}
+
+{{< details title="TensorFlow" open=false >}}
+
+#### Tensorflow
 
 - Simple Reinforcement Learning
 - Instructor: [Medium](https://medium.com/)
@@ -546,9 +574,13 @@ Multi-Agent Reinforcement Learning
 
 Reinforcement Learning series
 
+{{< /details >}}
+
 # Philosophy
 
-## Minds and Machines
+{{< details title="Minds and Machines" open=false >}}
+
+#### Minds and Machines
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -567,7 +599,11 @@ According to many scientists and philosophers, explaining the nature of
 consciousness is the deepest intellectual challenge of all. If you find
 consciousness at all puzzling, this is a great place to start learning more.
 
-## Automata Theory
+{{< /details >}}
+
+{{< details title="Automata Theory" open=false >}}
+
+#### Automata Theory
 
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -611,9 +647,13 @@ of these problems have polynomial-time algorithms. A common example of an
 NP-complete problem is SAT, the question of whether a Boolean expression has a
 truth-assignment to its variables that makes the expression itself true.
 
+{{< /details >}}
+
 # Biology
 
-## Principles of Synthetic Biology
+{{< details title="Principles of Synthetic Biology" open=false >}}
+
+#### Principles of Synthetic Biology
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -640,9 +680,13 @@ can be used in interesting and novel ways.
 Join us as we explore the field of synthetic biology: its past, present, and
 promising future!
 
+{{< /details >}}
+
 # Expanding Horizons
 
-## Optical Materials and Devices
+{{< details title="Optical Materials and Devices" open=false >}}
+
+#### Optical Materials and Devices
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -666,7 +710,11 @@ Devices](https://www.edx.org/course/electronic-materials-devices-mitx-3-15-1x)
 Part 3 - [3.15.3x: Magnetic Materials and
 Devices](https://www.edx.org/course/magnetic-materials-devices-mitx-3-15-3x#!)
 
-## Global Warming Science
+{{< /details >}}
+
+{{< details title="Global Warming Science" open=false >}}
+
+#### Global Warming Science
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -684,7 +732,11 @@ why has earth’s climate changed through geologic history?”
 This science course is designed for college sophomores and juniors with some
 preparation in college-level calculus and physics.
 
-## Global Health Informatics
+{{< /details >}}
+
+{{< details title="Global Health Informatics" open=false >}}
+
+#### Global Health Informatics
 
 - ...to Improve Quality of Care
 - Instructor: [MIT (Massachusetts Institute of
@@ -742,7 +794,13 @@ requires mulTimeisciplinary teams. Thus, with this course, we hope to bring
 together individuals from a variety of disciplines—computer science, medicine,
 engineering, public health, policy, and business.
 
-# Business Foundations Specialization
+{{< /details >}}
+
+# Business
+
+{{< details title="Business Foundations Specialization" open=false >}}
+
+#### Business Foundations Specialization
 
 - Instructor: Wharton School
 - Publisher: [Coursera](https://www.coursera.org/)
