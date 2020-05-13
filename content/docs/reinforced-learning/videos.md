@@ -111,11 +111,17 @@ https://www.youtube.com/watch?feature=youtu.be&v=6IsIGp1IezE&app=desktop
 
 # <br> AI
 
-<b> Peter Haas: The Real Reason to be Afraid of Artificial Intelligence </b>
-https://www.youtube.com/watch?v=TRzBk_KuIaM
-
 <b> Frank Chen: AI, Deep Learning and Machine Learning, A Primer </b>
+A video on the technological shift that is machine learning.
 https://www.youtube.com/watch?v=ht6fLrar91U
+
+<b> Ali Rahimi Test-Of-Time Award Talk </b>
+Computer Scientist Ali Rahimi talks about current challenges in machine learning methodology.
+https://www.youtube.com/watch?v=Qi1Yry33TQE&feature=youtu.be&t=660
+
+<b> Peter Haas: The Real Reason to be Afraid of Artificial Intelligence </b>
+Robotics Researcher Peter Haas talks about the dangers of a society relying too much on black-box Machine Learning.
+https://www.youtube.com/watch?v=TRzBk_KuIaM
 
 <b> Deep Blue vs Kasparov: How a Computer Beat the best Chess Player in the World </b>
 Older documentary on the historic match where the chess computer Deep Blue beat the world champion, Garry Ksparov.
@@ -165,51 +171,51 @@ Computational Psychologist Donald Hoffman argues that consciousness can not be e
 https://www.youtube.com/watch?v=cUhrK82seVY
 
 <b> Ned Block: Why AI approaches to cognition won’t work for consciousness </b>
-Philosopher of Cognitive Science Ned Block argues that modern AI approaches can't answer the hard problem of consciousness
+Philosopher of Cognitive Science Ned Block argues that modern AI approaches can't answer the hard problem of consciousness.
 https://www.youtube.com/watch?v=6lHHxcxurhQ&feature=youtu.be
 
 <b> Daniel Dennett: On our mind, God, and other illusions </b>
-Philosopher and cognitive scientist Daniel Dennett argues for computationalism and that consciousness is an illusion
+Philosopher and cognitive scientist Daniel Dennett argues for computationalism and that consciousness is an illusion.
 https://www.youtube.com/watch?v=X0ugfVI7UzQ
 
 <b> Daniel Dennett: The Illusion of Consciousness </b>
-Philosopher and cognitive scientist Daniel Dennett demonstrates the illusion of consciousness
+Philosopher and cognitive scientist Daniel Dennett demonstrates the illusion of consciousness.
 https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness/up-next
 
 <b> Sam Harris: What is Consciousness </b>
-Philosopher and neuroscientist Sam Harris talks about consciousness and time
+Philosopher and neuroscientist Sam Harris talks about consciousness and time.
 https://www.youtube.com/watch?v=Vao9HN_FqOE
 
 <b> Anil Seth: Your Brain Hallucinates Your Conscious Reality </b>
-Computational Neuroscientist Anil Seth argues that conscious experience is a hallucination
+Computational Neuroscientist Anil Seth argues that conscious experience is a hallucination.
 https://www.youtube.com/watch?v=lyu7v7nWzfo
 
 <b> Rupert Sheldrake: Is Consciousness Fundamental? </b>
-Biologist abd author Rupert Sheldrake argues for panpsychism and the potential for consciousness in all matter
+Biologist abd author Rupert Sheldrake argues for panpsychism and the potential for consciousness in all matter.
 https://www.youtube.com/watch?v=46kgmgI9fPs
 
 <b> Michael Gazzaniga: Can Machines be Conscious </b>
-Psychologist and neuroscientist Michael Gazzaniga talks about where consciousness comes from
+Psychologist and neuroscientist Michael Gazzaniga talks about where consciousness comes from.
 https://www.youtube.com/watch?v=cQ54bOi1kOc
 
 <b> Antonio Damasio: The Quest to Understanding Consciousness </b>
-Neuroscientist Antonio Damasio on the ongoing collective quest to understand consciousness
+Neuroscientist Antonio Damasio on the ongoing collective quest to understand consciousness.
 https://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness
 
 <b> John Searle: Consciousness and the Brain </b>
-Philsopher John Searle argues that consciousness should be understood as a biological phenomenon like all others
+Philsopher John Searle argues that consciousness should be understood as a biological phenomenon like all others.
 https://www.youtube.com/watch?v=j_OPQgPIdKg
 
 <b> Guilio Tononi: Consciousness and Phi </b>
-Guilio Tononi, founder of the Information Integration Theory, talks about consciousness and his theory about it
+Guilio Tononi, founder of the Information Integration Theory, talks about consciousness and his theory about it.
 https://www.youtube.com/watch?v=huxh9YCL5nM&feature=youtu.be
 
 <b> Christof Koch: One Big Misconception about Consciousness </b>
-Neuroscientist Christof Koch talks about the intrinsic nature consciousness, based in the Information Integration Theory
+Neuroscientist Christof Koch talks about the intrinsic nature consciousness, based in the Information Integration Theory.
 https://www.youtube.com/watch?v=YMHGhEw8uOY
 
 <b> Mark Solms: Why and How Consciousness Arises </b>
-Mark Solms argues that consciousness is based on affect, and affect is based on prediciton error minimization
+Mark Solms argues that consciousness is based on affect, and affect is based on prediciton error minimization.
 https://www.youtube.com/watch?v=F7WF5gzPG1k&t=8s
 
 
@@ -217,12 +223,15 @@ https://www.youtube.com/watch?v=F7WF5gzPG1k&t=8s
 # <br> Philosophy of Science
 
 <b> On Thomas Kuhn and Normal Science </b>
+An informative video about Kuhn's theories of paradigms anf scientific revolutions
 https://www.youtube.com/watch?v=sOGZEZ96ynI
 
 <b> On Karl Popper and the Logic of Falsification </b>
+And informative video on Karl Popper's ideas of falsification as the basis of science, which much of our methdology builds on todya.
 https://www.youtube.com/watch?v=XlFywEtLZ9w
 
 <b> Crash Course: Karl Popper, Science & Pseudoscience </b>
+A Crash Course video on Karl Poppers ideas of falsifiability, and why it is necessary for a science to function.
 https://www.youtube.com/watch?v=-X8Xfl0JdTQ
 
 
@@ -237,6 +246,7 @@ https://www.youtube.com/watch?v=kI1wQswRVaU
 # <br> Religion
 
 <b> Michael Persinger - The God Helmet </b>
+A short and dramatic video on the God Helmet experiment, where brain stimulation can cause religious experiences. Note that these results have since been subject of much controversy.
 https://www.youtube.com/watch?v=_O_aGlm9QjU
 
 <b> Jordan Peterson - Biblical Lecture Series </b>
@@ -268,9 +278,6 @@ https://www.youtube.com/watch?v=yhvaSEJtOV8
 <b> Karl Friston: The Free Energy Principle </b>
 Neuroscientist Karl Friston talks about the Free Energy Principle, his unifying framework for understanding living things in general
 https://www.youtube.com/watch?v=NIu_dJGyIQI
-
-<b> Ali Rahim Test-Of-Time Award Talk </b>
-https://www.youtube.com/watch?v=Qi1Yry33TQE&feature=youtu.be&t=660
 
 
 
