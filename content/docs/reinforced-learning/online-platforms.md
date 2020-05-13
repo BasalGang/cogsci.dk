@@ -2,47 +2,52 @@
 weight: 10
 title: "Online learning platforms"
 ---
-
-<br>
-
 # Online Learning Platforms
 
-#### Coursera
+{{< details title="Coursera" open=false >}}
+Take an extra degree with an online course.
 
-Take an extra degree with an online course <br>
 https://www.coursera.org/
+{{< /details >}}
 
-#### Codeacademy
+{{< details title="Codeacademy" open=false >}}
+Learn to code
 
-Learn to code <br>
 https://www.codecademy.com
+{{< /details >}}
 
-#### MIT
+{{< details title="MIT" open=false >}}
+OpenCourseware - Take An MIT course online
 
-OpenCourseware - Take An MIT course online <br>
 https://ocw.mit.edu/index.htm
+{{< /details >}}
 
-#### EDX
+{{< details title="EDX" open=false >}}
+Take an extra degree with an online course
 
-Take an extra degree with an online course <br>
 https://www.edx.org/
+{{< /details >}}
 
-#### Udacity
-
+{{< details title="Udacity" open=false >}}
 Nanodegrees <br>
+
 https://eu.udacity.com/
+{{< /details >}}
 
-#### Udemy
+{{< details title="Udemy" open=false >}}
+Take an extra degree with an online course
 
-Take an extra degree with an online course <br>
 https://www.udemy.com/
+{{< /details >}}
 
-#### Brilliant
+{{< details title="Brilliant" open=false >}}
+Brilliant Bite-sized courses for STEM topics
 
-Brilliant Bite-sized courses for STEM topics <br>
 https://brilliant.org/
+{{< /details >}}
 
-#### Spinning Up
+{{< details title="Spinning Up" open=false >}}
+An educational resource that makes it easier to learn about deep reinforcement learning (deep RL)
 
-An educational resource that makes it easier to learn about deep reinforcement learning (deep RL) <br>
 https://spinningup.openai.com/en/latest/user/installation.html
+{{< /details >}}

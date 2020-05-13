@@ -1,11 +1,12 @@
 ---
 weight: 1
 title: "R packages"
+bookToC: false
 ---
 
 # Useful R packages
 
-## Basic utilities
+{{< details title="Basic utilities" open=false >}}
 
 | Package                                                   | Description                                      | By             |
 | :-------------------------------------------------------- | :----------------------------------------------- | :------------- |
@@ -17,8 +18,9 @@ title: "R packages"
 | [`data.table`](https://github.com/Rdatatable/data.table)  | Alternative data frame. Quicker for big datasets | Tyson Barrett  |
 | `recipes`                                                 | Preprocessing pipelines                          |                |
 | [`groupdata2`](https://github.com/LudvigOlsen/groupdata2) | Create groups, folds and partitions.             | Ludvig Olsen   |
+{{< /details >}}
 
-## Text manipulation
+{{< details title="Text manipulation" open=false >}}
 
 | Package                                              | Description                   | By                                                                          |
 | :--------------------------------------------------- | :---------------------------- | :-------------------------------------------------------------------------- |
@@ -27,8 +29,9 @@ title: "R packages"
 | [`quanteda`](https://github.com/quanteda/quanteda)   | Quantitative analysis of text | quanteda                                                                    |
 | [`spacyr`](https://github.com/quanteda/spacyr)       | spaCy API for R               | quanteda                                                                    |
 | [`sentida`](https://github.com/Guscode/Sentida)      | Sentiment analysis            | Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen |
+{{< /details >}}
 
-## Modeling
+{{< details title="Modeling" open=false >}}
 
 | Package                                                   | Description                                | By           |
 | :-------------------------------------------------------- | :----------------------------------------- | :----------- |
@@ -45,8 +48,9 @@ title: "R packages"
 | `yardstick`                                               | Evaluation metrics                         | tidymodels   |
 | [`insight`](https://github.com/easystats/insight)         | Extract model attributes                   | easystats    |
 | `MuMIn`                                                   | Model object metrics                       |              |
+{{< /details >}}
 
-## Visualization
+{{< details title="Visualization" open=false >}}
 
 | Package                                               | Description              | By                  |
 | :---------------------------------------------------- | :----------------------- | :------------------ |
@@ -54,12 +58,14 @@ title: "R packages"
 | [`patchwork`](https://github.com/thomasp85/patchwork) | Combine separate ggplots | Thomas Lin Pedersen |
 | [`see`](https://github.com/easystats/see)             | TODO                     | easystats           |
 | [`ggimage`](https://github.com/GuangchuangYu/ggimage) | Add images to ggplots    | Guangchuang YU      |
+{{< /details >}}
 
-## R development
+{{< details title="R development" open=false >}}
 
 | Package                                           | Description                          | By             |
 | :------------------------------------------------ | :----------------------------------- | :------------- |
 | `testthat`                                        | Framework for unit-testing functions | Hadley Wickham |
 | [`xpectr`](https://github.com/LudvigOlsen/xpectr) | Generate `testthat` tests            | Ludvig Olsen   |
 | [`checkmate`](https://github.com/mllg/checkmate)  | Fast input checks in functions       | Michel Lang    |
+{{< /details >}}
 

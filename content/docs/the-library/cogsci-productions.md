@@ -8,21 +8,25 @@ title: "CogSci Productions"
 
 ## CogTalks
 
-#### Psychedelics with Lasse D. Hansen
+{{< details title="Psychedelics with Lasse D. Hansen" open=false >}} 
+{{< youtube 2qp2Hltyn4w >}}
+{{< /details >}}
 
-[![Psychedelics YouTube video with Lasse D. Hansen](http://img.youtube.com/vi/2qp2Hltyn4w/0.jpg)](http://www.youtube.com/watch?v=2qp2Hltyn4w "Psychedelics with Lasse D. Hansen")
+{{< details title="Citizen Science with Blanka Palfi" open=false >}} 
+{{< youtube J6Tw4D3MKYA >}}
+{{< /details >}}
 
-#### Citizen Science with Blanka Palfi
+{{< details title="Casual Causality with Jonathan Rystrøm" open=false >}} 
+{{< youtube xMvI4bLWoSU >}}
+{{< /details >}}
 
-[![Citizen Science YouTube video with Blanka Palfi](http://img.youtube.com/vi/J6Tw4D3MKYA/0.jpg)](http://www.youtube.com/watch?v=J6Tw4D3MKYA "Citizen Science with Blanka Palfi")
+{{< details title="Brain-Machine Interfacing with Esben Kran" open=false >}} 
+This is a must-watch! It's not available yet though, haha.
+{{< /details >}}
 
-#### Casual Causality with Jonathan Rystrøm
-
-[![Casual Causality YouTube video with Jonathan Rystrøm](http://img.youtube.com/vi/xMvI4bLWoSU/0.jpg)](http://www.youtube.com/watch?v=xMvI4bLWoSU "Casual Causality with Jonathan Rystrøm")
-
-#### Brain-Machine Interfacing with Esben Kran
-
-#### Consciousness with Christoffer L. Olesen
+{{< details title="Consciousness with Christoffer L. Olesen" open=false >}} 
+UFF! This was good! Come back later to watch it!
+{{< /details >}}
 
 ## CogPodcasts
 

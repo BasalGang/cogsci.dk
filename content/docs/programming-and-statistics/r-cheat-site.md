@@ -1,13 +1,14 @@
 ---
 weight: 1
 title: "R cheat site"
+bookToC: false
 ---
 
 # The ultimate R cheat site
 
 Please contribute additional tasks and solutions.
 
-## Transforming data frames
+{{< details title="Transforming data frames" open=false >}}
 
 | Task                 | Package | Function(s)                                                                   | Tutorial |
 | :------------------- | :------ | :---------------------------------------------------------------------------- | :------- |
@@ -23,8 +24,9 @@ Please contribute additional tasks and solutions.
 |                      | `dplyr` | `filter()`                                                                    |          |
 | Select columns       | `base`  | `df[, ...]`                                                                   |          |
 |                      | `dplyr` | `select()`                                                                    |          |
+{{< /details >}}
 
-## Model functions
+{{< details title="Model functions" open=false >}}
 
 | Task                    | Package        | Function(s)         | Tutorial |
 | :---------------------- | :------------- | :------------------ | :------- |
@@ -43,7 +45,9 @@ Please contribute additional tasks and solutions.
 | GAMLSS                  | `gamlss`       | `gamlss()`          |          |
 | LQM(M)                  | `lqmm`         | `lqm()`, `lqmm()`   |          |
 
-## Model evaluation
+{{< /details >}}
+
+{{< details title="Model evaluation" open=false >}}
 
 | Task                    | Package               | Function(s)                                                                                       | Tutorial                                                                                                  |
 | :---------------------- | :-------------------- | :------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- |
@@ -55,8 +59,9 @@ Please contribute additional tasks and solutions.
 | Cross-validation        | `cvms` + `groupdata2` | `cross_validate()` for `lm()`/`lmer()`/`glm()`/`glmer()` or `cross_validate_fn()` for most others | [Cross-validate custum model functions](http://ludvigolsen.dk/cvms/cross_validate_custom_model_function/) |
 |                         | `caret`               | `trainControl`? TODO                                                                              |                                                                                                           |
 |                         | `tidymodels`          | TODO                                                                                              |                                                                                                           |
+{{< /details >}}
 
-## Plotting with `ggplot2`
+{{< details title="Plotting with ggplot2" open=false >}}
 
 | Task                  | Package     | Function(s)                                     | Tutorial                                                                       |
 | :-------------------- | :---------- | :---------------------------------------------- | :----------------------------------------------------------------------------- |
@@ -64,5 +69,5 @@ Please contribute additional tasks and solutions.
 | Add images            | `ggimage`   | `geom_image()`, `geom_bgimage()`, `geom_icon()` |                                                                                |
 | Add pokemons          | `ggimage`   | `geom_pokemon()`                                |                                                                                |
 | Plot confusion matrix | `cvms`      | `plot_confusion_matrix()`                       | [Create confusion matrix](http://ludvigolsen.dk/cvms/create_confusion_matrix/) |
-
+{{< /details >}}
 

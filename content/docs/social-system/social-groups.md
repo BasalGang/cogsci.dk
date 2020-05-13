@@ -1,12 +1,13 @@
 ---
 weight: 10
 # bookFlatSection: true
+bookToC: false
 title: "Social groups"
 ---
 
 # Social groups
 
-## CogChess
+{{< details title="CogChess" open=false >}}
 
 We do cogs on chess boards! Join us please! Pleease?
 
@@ -14,7 +15,10 @@ FB Contact: https://www.facebook.com/anders.haagerup
 
 FB group: https://www.facebook.com/groups/347525079305702/
 
-## CogClimbers
+{{< /details >}}
+
+
+{{< details title="CogClimbers" open=false >}}
 
 We climb on cogs as true heroes! We have enough cogs to climb but feel free to join!
 
@@ -22,14 +26,18 @@ FB Contact: https://www.facebook.com/danielelmstom
 
 FB group: https://www.facebook.com/groups/2092521237743477/
 
-## CogKnition
+{{< /details >}}
+
+{{< details title="CogKnition" open=false >}}
 
 FB Contact: https://www.facebook.com/sigrid.a.nielsen
 
 FB group: https://www.facebook.com/groups/713170942483009/
 
+{{< /details >}}
 
-## Cogs who squat (a lot)
+
+{{< details title="Cogs who squat (a lot)" open=false >}}
 
 We squat. That's what we do! DEAL WITH IT!
 
@@ -37,13 +45,19 @@ FB Contact: https://www.facebook.com/julie.s.nielsen
 
 FB group: https://www.facebook.com/groups/226482355095341/ 
 
-#CogSoccer
+{{< /details >}}
+
+
+{{< details title="CogSoccer" open=false >}}
 
 FB Contact: https://www.facebook.com/MalteHB
 
 FB group: https://www.facebook.com/groups/126860751127196/
 
-## The famous CogSci Book Club
+{{< /details >}}
+
+
+{{< details title="The famous CogSci Book Club" open=false >}}
 
 The tales tell the truth&trade;.
 
@@ -51,7 +65,10 @@ FB Contact: https://www.facebook.com/peter.thramkrongart
 
 FB group: https://www.facebook.com/groups/713170942483009/
 
-## CogSci Magic
+{{< /details >}}
+
+
+{{< details title="CogSci Magic" open=false >}}
 
 Pufff!
 
@@ -59,7 +76,10 @@ FB Contact: https://www.facebook.com/carl.magnus.christiansen
 
 FB group: https://www.facebook.com/groups/1658980137512838/ 
 
-## CogSicians
+{{< /details >}}
+
+
+{{< details title="CogSicians" open=false >}}
 
 Da da da da, da da da
 
@@ -67,7 +87,10 @@ FB Contact: https://www.facebook.com/jhvithamar
 
 FB group: https://www.facebook.com/groups/720483338423625/
 
-## CogTale
+{{< /details >}}
+
+
+{{< details title="CogTale" open=false >}}
 
 Drink in Danish?
 
@@ -75,16 +98,21 @@ FB Contact: https://www.facebook.com/melina.nielsen.90
 
 FB group: https://www.facebook.com/groups/514324959398103/
 
-## MindReaders (Now GDPR compliant)
+{{< /details >}}
 
-Update Feb. 2020: We now store everything on EU servers, why your dreams and thoughts are safe with us.
+
+{{< details title="MindReaders (Now GDPR compliant)" open=false >}}
+
+**Update Feb. 2020**: We now store everything on EU servers, why your dreams and thoughts are safe with us.
 
 FB Contact: https://www.facebook.com/I.Like.Flowerss 
 
 FB group: https://www.facebook.com/groups/2382222892038472/ 
 
+{{< /details >}}
 
-## PlantCoogks
+
+{{< details title="PlantCoogks" open=false >}}
 
 OMG plants taste awesome! Also, less CO2, no antibiotic resistance, no animal suffering, healthy, great taste. OMG a vegan wrote this, shoot him!
 
@@ -92,7 +120,10 @@ FB Contact: https://www.facebook.com/astrid.olling
 
 FB group: https://www.facebook.com/groups/613768969030552/ 
 
-## The Game Cortexas
+{{< /details >}}
+
+
+{{< details title="The Game Cortexas" open=false >}}
 
 FB Contact: https://www.facebook.com/mia.jacobsen.96 
 

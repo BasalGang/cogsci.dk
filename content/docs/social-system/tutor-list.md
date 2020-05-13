@@ -4,7 +4,7 @@ weight: 10
 title: "Tutor list"
 ---
 
-# Info:
+# Tutor list
 
 This is an assembly of people who find it fun to help out with Statistics, Coding, Designing Experiments & Data Visualisation <br>
 Here you can get in contact with knowledgeful Cognitive Science Students if you need help with your work. It might be for shorter consultations <br>

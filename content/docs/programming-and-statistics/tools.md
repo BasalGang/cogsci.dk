@@ -5,50 +5,56 @@ title: "Tools"
 
 # Programs
 
-## Rstudio
+{{< details title="Rstudio" open=false >}}
+RStudio provides free and open source tools for R
 
-RStudio provides free and open source tools for R <br>
 https://rstudio.com/
+{{< /details >}}
 
-## JASP
-
+{{< details title="JASP" open=false >}}
 The JASP interface allows you to conduct statistical analyses in seconds, and
-without having to learn programming or risking a programming mistake. <br>
+without having to learn programming or risking a programming mistake.
+
 https://jasp-stats.org/
+{{< /details >}}
 
-## Psychopy
+{{< details title="Psychopy" open=false >}}
+Python builder (Perfect for scientific experiments)
 
-Python builder (Perfect for scientific experiments) <br>
 https://www.psychopy.org/index.html
+{{< /details >}}
 
-## Pavlovia
+{{< details title="Pavlovia" open=false >}}
+Pavlovia (Psychopy In The Sky)
 
-Pavlovia (Psychopy In The Sky) <br>
 https://pavlovia.org/
+{{< /details >}}
 
-# <br> Tools
+# Tools
 
-## Github & Gitlab
-
-software development version control <br>
+{{< details title="Github & Gitlab" open=false >}}
+Software development version control
 
 - http://github.com/
 - http://gitlab.com/
+{{< /details >}}
 
-## Zotero
+{{< details title="Zotero" open=false >}} 
+Personal Reference Library
 
-Personal Reference Library <br>
+https://www.zotero.org/support/quick_start_guide
+{{< /details >}}
 
-- https://www.zotero.org/support/quick_start_guide
+# Plotting guides
 
-## Plotting guides
+{{< details title="ggplot2" open=false >}}
+A Tutorial for Beautiful Plotting in R
 
-### ggplot2
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+{{< /details >}}
 
-A Tutorial for Beautiful Plotting in R <br>
-https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/?fbclid=IwAR1UgYBUUkI7Ie1ZnS_kkvKwC8l8gCC40CQ_rFuuqBLQP_fSGmZCxm3saC8 <br>
+{{< details title="STHDA" open=false >}}
+Guides for 'Statistical tools for high-throughput data analysis'
 
-### STHDA
-
-Guides for 'Statistical tools for high-throughput data analysis' <br>
 http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
+{{< /details >}}
