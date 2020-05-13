@@ -35,7 +35,9 @@ Examples of certificates:
 
 # Data science
 
-## Swirlstats
+{{< details title="Swirlstats" open=false >}}
+
+#### Swirlstats
 
 - Instructor: [Nick Carchedi](https://nickcarchedi.com/)
 - Link: <https://swirlstats.com/
@@ -43,7 +45,11 @@ Examples of certificates:
   swirl teaches you R programming and data science interactively, <br>
   at your own pace, and right in the R console!
 
-## Intro to Git and Github
+{{< /details >}}
+
+{{< details title="Intro to Git and Github" open=false >}}
+
+#### Intro to Git and Github
 
 - Instructor: [Google](https://www.Google.com)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -69,7 +75,11 @@ and collaborate with others in GitHub, where you’ll also start creating your o
 In order to follow along and complete the assessments, you’ll need a computer
 where you can install Git or ask your administrator to install it for you.
 
-## Statistical inferences
+{{< /details >}}
+
+{{< details title="Statistical Inferences" open=false >}}
+
+#### Statistical Inferences
 
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -104,7 +114,11 @@ All videos now have Chinese subtitles. More than 30.000 learners have enrolled s
 If you enjoyed this course, I can recommend following it up with me new course
 "Improving Your Statistical Questions"
 
-## Statistical questions
+{{< /details >}}
+
+{{< details title="Statistical Questions" open=false >}}
+
+#### Statistical Questions
 
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -124,7 +138,11 @@ reproducible.
 If you have the time, it is recommended that you complete my course 'Improving Your Statistical Inferences'
 before enrolling in this course, although this course is completely self-contained.
 
-## Data analysis for social scientists
+{{< /details >}}
+
+{{< details title="Data Analysis for Social Scientists" open=false >}}
+
+#### Data Analysis for Social Scientists
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -160,7 +178,11 @@ review the concepts covered before beginning the course.
 Please use this link to access the [course
 preview](https://www.dropbox.com/sh/op0yjn65cxsocgb/AAAcRZM8XiABXSgaE-DfesTta/14.310x%20Course%20Preview?dl=0&subfolder_nav_tracking=1).
 
-## Making Data Driven Decisions
+{{< /details >}}
+
+{{< details title="Making Data Driven Decisions" open=false >}}
+
+#### Making Data Driven Decisions
 
 - Data Science and Big Data Analytics
 - Instructor: [MIT (Massachusetts Institute of
@@ -195,7 +217,11 @@ Determine the difference between graphical models and network models.
 
 Choose how to represent your data when making predictions.
 
-## Mining Massive Datasets
+{{< /details >}}
+
+{{< details title="Details" open=false >}}
+
+#### Mining Massive Datasets
 
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -232,7 +258,11 @@ Machine-learning algorithms.
 - Dimensionality reduction
 - Machine-learning algorithms
 
-## Statistics and R
+{{< /details >}}
+
+{{< details title="Statistics and R" open=false >}}
+
+#### Statistics and R
 
 - Instructor: [Harvard](https://www.harvard.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -263,9 +293,13 @@ descriptive statistics. By the third course will be teaching advanced statistica
 as hierarchical models and by the fourth advanced software engineering skills, such as parallel
 computing and reproducible research concepts.
 
-# Computational Neuroscience & Machine Learning
+{{< /details >}}
 
-## Computational Neuroscience
+# Computational Neuroscience
+
+{{< details title="Statistical Inferences" open=false >}}
+
+#### Computational Neuroscience
 
 - Instructor: [University of Washington](https://www.washington.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -282,6 +316,8 @@ We will make use of Matlab/Octave/Python demonstrations and exercises to gain a 
 understanding of concepts and methods introduced in the course. The course is primarily aimed
 at third- or fourth-year undergraduates and beginning graduate students, as well as professionals
 and distance learners interested in learning how the brain processes information.
+
+# Machine Learning
 
 ## Machine Learning with Python
 
@@ -397,7 +433,7 @@ you'll also learn how to apply learning algorithms to building smart robots
 (perception, control), text understanding (web search, anti-spam), computer
 vision, medical informatics, audio, database mining, and other areas.
 
-## Machine learning engineering
+## Engineering with AI
 
 - Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
 - Instructor: [MIT (Massachusetts Institute of
@@ -457,7 +493,7 @@ fusion, localization, controllers, vehicle kinematics, automotive hardware, and
 more. As part of their capstone project, students have the rare opportunity to
 run their code on an actual autonomous vehicle owned by Udacity.
 
-## Deep Reinforcement Learnin
+## Deep Reinforcement Learning
 
 - Instructor: Udacity with [Unity](https://unity.com/) and
   [NVIDIA](https://www.nvidia.com/)
