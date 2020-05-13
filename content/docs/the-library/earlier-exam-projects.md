@@ -9,6 +9,10 @@ title: "Earlier exam projects"
 
 Note that courses may be renamed or moved to different semesters. Older papers may not fit the current course requirements / topics, so perhaps change the title before handing them in!
 
+## Contribute
+
+Contact [Ludvig](mailto:mail@ludvigolsen.dk)
+
 ## Bachelor
 
 ### Cognition and Communication

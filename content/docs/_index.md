@@ -3,7 +3,7 @@ title: "CogSite"
 bookFlatSection: true
 ---
 
-![Cognitive science cover image](cover.jpg)
+![Cognitive science cover image](../../static/cover.jpg)
 
 # What is the "CogSite"
 
