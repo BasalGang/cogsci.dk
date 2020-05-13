@@ -6,7 +6,7 @@ title: "Earlier exam projects"
 
 # Earlier exam projects
 
-**Disclaimer**: In general, the academic level (e.g. statistical abilities) of the papers should be expected to increase by semester. The current state-of-the-art (SOTA) model of this is `goodness ~ semester + num_broca_parties * num_lockdowns + (1|year)` (10-fold repeated cross-validation). This disclaimer is not meant to degrade papers from earlier semesters (that are most likely awesome (our model has a **high intercept**)) but just an honest note that we all get drastically better with time, and we shouldn't be afraid of sharing our imperfect work. Science is difficult yall!
+**Disclaimer**: In general, the academic level (e.g. statistical abilities) of the papers should be expected to increase by semester. The current state-of-the-art (SOTA) model of this is `goodness ~ semester + num_broca_parties * num_lockdowns + (1|year)` (10-fold repeated cross-validation). This disclaimer is not meant to degrade papers from earlier semesters (that are most likely awesome (our model has a **high intercept**)) but just an honest note that we all get drastically better with time, and we shouldn't be afraid of sharing our imperfect work. Science is difficult y'all!
 
 Note that courses may be renamed or moved to different semesters. Older papers may not fit the current course requirements / topics, so perhaps change the title before handing them in!
 
@@ -16,19 +16,19 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Top-down processing of words in degraded speech](/earlier-exams/Top-down-processing-of-words-in-degraded-speech-by-Olsen-Ludvig-and-Larsen-Kristian-2016.pdf) |Ludvig Renbo Olsen and Kristian Larsen |Jan 2016 |Experiment, Paper |
+| Title + Link                                                                                                                                                   | Authors                                | When     | Type              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- | :------- | :---------------- |
+| [Top-down processing of words in degraded speech](/earlier-exams/Top-down-processing-of-words-in-degraded-speech-by-Olsen-Ludvig-and-Larsen-Kristian-2016.pdf) | Ludvig Renbo Olsen and Kristian Larsen | Jan 2016 | Experiment, Paper |
 
 </br>
 
-### Introduction to Cognitive Pseudoscience
+### Introduction to Cognitive Science
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -36,31 +36,31 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
-### Applied Cognitive Science 
+### ??? (Earlier: Introduction to Neuroscience (Earlier: Applied Cognitive Science))
 
 **Semester**: 2nd
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
-### Philosophy of Cognitive Science
+### ??? (Earlier: Studium Generale (Earlier: Philosophy of Cognitive Science))
 
 [TODO was this studium generale or mind and consciousness before? We might want to add a "Previously: Studium Generale" bullet (or similar) so we can have old papers as well?]
 
 **Semester**: 2nd
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -68,9 +68,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 2nd
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -78,9 +78,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 3rd
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -88,9 +88,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 3rd
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -98,9 +98,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 4th
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -108,9 +108,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 4th
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -118,9 +118,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 4th
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -128,9 +128,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 5th or 6th
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Automatically diagnosing mental disorders from voice - a deep learning approach](Automatically-diagnosing-mental-disorders-from-voice-Ludvig-Olsen-bachelor-thesis-correction#1.pdf) |Ludvig Renbo Olsen |Jun 2018 |Data Analysis, Thesis |
+| Title + Link                                                                                                                                                                          | Authors            | When     | Type                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------- | :------- | :-------------------- |
+| [Automatically diagnosing mental disorders from voice - a deep learning approach](Automatically-diagnosing-mental-disorders-from-voice-Ludvig-Olsen-bachelor-thesis-correction#1.pdf) | Ludvig Renbo Olsen | Jun 2018 | Data Analysis, Thesis |
 
 </br>
 
@@ -140,9 +140,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -150,9 +150,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
 
 </br>
 
@@ -160,9 +160,9 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 **Semester**: 1st
 
-|Title + Link |Authors |When |Type | 
-|:------------|:-------|:----|:----|
-|[Predicting mental disorders from transcripts](/earlier-exams/Predicting-mental-disorders-from-transcripts-Ludvig-Olsen-2020.pdf) |Ludvig Renbo Olsen |Jan 2020 |Data Analysis, Synopsis |
+| Title + Link                                                                                                                      | Authors            | When     | Type                    |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------- | :---------------------- |
+| [Predicting mental disorders from transcripts](/earlier-exams/Predicting-mental-disorders-from-transcripts-Ludvig-Olsen-2020.pdf) | Ludvig Renbo Olsen | Jan 2020 | Data Analysis, Synopsis |
 
 </br>
 
@@ -171,6 +171,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 **Semester**: 2nd
 
 None yet
+
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
@@ -184,6 +185,7 @@ None yet
 **Semester**: 2nd
 
 None yet
+
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
@@ -197,6 +199,7 @@ None yet
 **Semester**: 2nd
 
 None yet
+
 <!--
 |Title + Link |Authors |When |Type |
 |:------------|:-------|:----|:----|
@@ -210,8 +213,9 @@ None yet
 **Semester**: 4th
 
 None yet
+
 <!--
-|Title + Link |Authors | When |  
+|Title + Link |Authors | When |
 |:------------|:-------|:-----|
 |[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |
 -->
