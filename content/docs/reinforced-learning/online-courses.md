@@ -37,8 +37,6 @@ Examples of certificates:
 
 {{< details title="Swirlstats" open=false >}}
 
-#### Swirlstats
-
 - Instructor: [Nick Carchedi](https://nickcarchedi.com/)
 - Link: <https://swirlstats.com/
 - Price: \$0
@@ -48,8 +46,6 @@ Examples of certificates:
 {{< /details >}}
 
 {{< details title="Intro to Git and Github" open=false >}}
-
-#### Intro to Git and Github
 
 - Instructor: [Google](https://www.Google.com)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -78,8 +74,6 @@ where you can install Git or ask your administrator to install it for you.
 {{< /details >}}
 
 {{< details title="Statistical Inferences" open=false >}}
-
-#### Statistical Inferences
 
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -118,8 +112,6 @@ If you enjoyed this course, I can recommend following it up with me new course
 
 {{< details title="Statistical Questions" open=false >}}
 
-#### Statistical Questions
-
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
 - Link: <https://www.coursera.org/learn/improving-statistical-questions>
@@ -141,8 +133,6 @@ before enrolling in this course, although this course is completely self-contain
 {{< /details >}}
 
 {{< details title="Data Analysis for Social Scientists" open=false >}}
-
-#### Data Analysis for Social Scientists
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -182,8 +172,6 @@ preview](https://www.dropbox.com/sh/op0yjn65cxsocgb/AAAcRZM8XiABXSgaE-DfesTta/14
 
 {{< details title="Making Data Driven Decisions" open=false >}}
 
-#### Making Data Driven Decisions
-
 - Data Science and Big Data Analytics
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -220,8 +208,6 @@ Choose how to represent your data when making predictions.
 {{< /details >}}
 
 {{< details title="Details" open=false >}}
-
-#### Mining Massive Datasets
 
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -262,8 +248,6 @@ Machine-learning algorithms.
 
 {{< details title="Statistics and R" open=false >}}
 
-#### Statistics and R
-
 - Instructor: [Harvard](https://www.harvard.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
 - Link: <https://www.edx.org/course/statistics-and-r>
@@ -299,8 +283,6 @@ computing and reproducible research concepts.
 
 {{< details title="Computational Neuroscience" open=false >}}
 
-#### Computational Neuroscience
-
 - Instructor: [University of Washington](https://www.washington.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
 - Link: <https://www.coursera.org/learn/computational-neuroscience>
@@ -322,8 +304,6 @@ and distance learners interested in learning how the brain processes information
 # Machine Learning
 
 {{< details title="Machine Learning with Python" open=false >}}
-
-#### Machine Learning with Python
 
 - ...from Linear Models to Deep Learning
 - Instructor: [MIT (Massachusetts Institute of
@@ -360,8 +340,6 @@ projects designed for different practical applications.
 {{< /details >}}
 
 {{< details title="Deep Learning" open=false >}}
-
-#### Deep Learning
 
 - Instructor: [deepleaning.ai](https://deeplearning.ai) og
   [Stanford](https://www.stanford.edu/)
@@ -412,8 +390,6 @@ industry-relevant content.
 
 {{< details title="Machine Learning" open=false >}}
 
-#### Machine Learning
-
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [Coursera](https://www.coursera.org/)
 - Link: <https://www.coursera.org/learn/machine-learning>
@@ -449,8 +425,6 @@ vision, medical informatics, audio, database mining, and other areas.
 
 {{< details title="Engineering with AI" open=false >}}
 
-#### Engineering with AI
-
 - Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -484,8 +458,6 @@ might impact your work in the future.
 
 {{< details title="Self-Driving Car Engineering" open=false >}}
 
-#### Self-Driving Car Engineering
-
 - Instructor: Udacity with Mercedes-Benz, NVIDIA, UBER, DiDi, BMW, and McLaren
 - Publisher: [Udacity](https://www.udacity.com/)
 - Link:
@@ -516,8 +488,6 @@ run their code on an actual autonomous vehicle owned by Udacity.
 {{< /details >}}
 
 {{< details title="Deep Reinforcement Learning" open=false >}}
-
-#### Deep Reinforcement Learning
 
 - Instructor: Udacity with [Unity](https://unity.com/) and
   [NVIDIA](https://www.nvidia.com/)
@@ -563,8 +533,6 @@ Multi-Agent Reinforcement Learning
 
 {{< details title="TensorFlow" open=false >}}
 
-#### Tensorflow
-
 - Simple Reinforcement Learning
 - Instructor: [Medium](https://medium.com/)
 - Publisher: [Arthur Juliani](https://www.linkedin.com/in/arthur-juliani-50a38a21/)
@@ -579,8 +547,6 @@ Reinforcement Learning series
 # Philosophy
 
 {{< details title="Minds and Machines" open=false >}}
-
-#### Minds and Machines
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -602,8 +568,6 @@ consciousness at all puzzling, this is a great place to start learning more.
 {{< /details >}}
 
 {{< details title="Automata Theory" open=false >}}
-
-#### Automata Theory
 
 - Instructor: [Stanford](https://www.stanford.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -653,8 +617,6 @@ truth-assignment to its variables that makes the expression itself true.
 
 {{< details title="Principles of Synthetic Biology" open=false >}}
 
-#### Principles of Synthetic Biology
-
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -686,8 +648,6 @@ promising future!
 
 {{< details title="Optical Materials and Devices" open=false >}}
 
-#### Optical Materials and Devices
-
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -714,8 +674,6 @@ Devices](https://www.edx.org/course/magnetic-materials-devices-mitx-3-15-3x#!)
 
 {{< details title="Global Warming Science" open=false >}}
 
-#### Global Warming Science
-
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -735,8 +693,6 @@ preparation in college-level calculus and physics.
 {{< /details >}}
 
 {{< details title="Global Health Informatics" open=false >}}
-
-#### Global Health Informatics
 
 - ...to Improve Quality of Care
 - Instructor: [MIT (Massachusetts Institute of
@@ -800,7 +756,7 @@ engineering, public health, policy, and business.
 
 {{< details title="Business Foundations Specialization" open=false >}}
 
-#### Business Foundations Specialization
+Business Foundations Specialization
 
 - Instructor: Wharton School
 - Publisher: [Coursera](https://www.coursera.org/)
