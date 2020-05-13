@@ -6,4 +6,4 @@ title: "AU environment"
 
 # Environment at Aarhus University
 
-# NEEDS SUB-PAGES
+## Research groups

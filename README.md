@@ -30,6 +30,9 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
+- [x] Domain name: cognitive.dk
+- [x] Career section
+- [ ] Alumni page [content]
 - [x] Hosting of website
 - [ ] HCI project, Sebastian and Blanka
 - [ ] Write a nice front page
@@ -43,6 +46,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title] ([publisher]) -> [description]
 - [x] Rename the blog to Attention Spotlight or something like that
 - [ ] Ensure articles for the blog
+- [x] Remove file clutter (folders with one sub-page)
 - [ ] Reinforced learning front page: Introduction and massive lists of resources
 - [x] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
 - [x] Move book market and AU environment to Social System
@@ -51,7 +55,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] University courses list under formal stuff
 - [x] Add the Study Café
 - [ ] Set up the blog structure (categories, tags, etc.)
-- [ ] Add a "found a mistake" button --> link to the Issues page on Gitlab
+- [x] Add a "found a mistake" button --> link to the Issues page on Gitlab
 - [x] Simplify simplify simplify on the left side - remove third level and reduce reduce
 - [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
 - [x] Write the markdown tutorial
@@ -70,8 +74,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [x] Write instructions on page settings
 - [x] Merge the esben branch and delete esben branch
 - [x] Write a sample list in the list of everything (online courses list)
-
-- Rename the data frame to the library
+- [x] Rename the data frame to the library
 
 
 ## Links and possible implementations

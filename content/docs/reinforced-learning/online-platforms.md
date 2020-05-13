@@ -1,38 +1,48 @@
 ---
 weight: 10
-title: "ONLINE LEARNING PLATFORMS"
+title: "Online learning platforms"
 ---
 
-# <br> Online Learning Platforms
+<br>
 
-## Coursera 
+# Online Learning Platforms
+
+## Coursera
+
 Take an extra degree with an online course <br>
 https://www.coursera.org/
 
-## Codeacademy 
+## Codeacademy
+
 Learn to code <br>
 https://www.codecademy.com
 
-## MIT 
-OpenCourseware - Take An MIT course online  <br>
+## MIT
+
+OpenCourseware - Take An MIT course online <br>
 https://ocw.mit.edu/index.htm
 
-## EDX 
+## EDX
+
 Take an extra degree with an online course <br>
 https://www.edx.org/
 
-## Udacity 
+## Udacity
+
 Nanodegrees <br>
 https://eu.udacity.com/
 
-## Udemy 
+## Udemy
+
 Take an extra degree with an online course <br>
 https://www.udemy.com/
 
-## Brilliant 
+## Brilliant
+
 Brilliant Bite-sized courses for STEM topics <br>
 https://brilliant.org/
 
-## Spinning Up 
+## Spinning Up
+
 An educational resource that makes it easier to learn about deep reinforcement learning (deep RL) <br>
 https://spinningup.openai.com/en/latest/user/installation.html

@@ -1,5 +1,5 @@
 # provide your domain here
-baseURL = "/CogSite/"
+baseURL = "/CogSite/docs/"
 # theme
 theme = "book"
 # site title
@@ -40,8 +40,8 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Website on Gitlab"
-  url = "https://gitlab.com/AUcogseers/CogSite"
+  name = "Found an error? Report it here"
+  url = "https://gitlab.com/AUcogseers/CogSite/-/issues"
   weight = 10
 
 [params]
