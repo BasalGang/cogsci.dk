@@ -3,22 +3,22 @@ weight: 10
 title: "Online courses"
 ---
 
-# Online Courses Database for Cognitive Science
+# Online Courses Database
 
-Curated by Aarhus University, Cognitive Science, Esben Kran & Sebastian  Engen
+Curated by Aarhus University, Cognitive Science, Esben Kran and Sebastian Engen
 
-This contains one-pagers for many online courses. Originally curated for
-preliminary approval of courses outside Aarhus University (this is not possible). See a complete list
-of the content below. You are welcome to **add an online course** as a one-pager
-to the list according to the current structure for each one-pager. Try to ensure
+This contains a list of many online courses. Originally curated for
+preliminary approval of courses outside Aarhus University (this is not possible for many of them). See a complete list
+of the content below. You are welcome to **add an online course**
+to the list according to the current structure. Try to ensure
 the quality of the course (e.g. reviews \> 4.5, trustable universities, etc.).
 
-Write to [Esben Kran & Sebastian Engen](../about/contact) if you wish to contribute.
+Write to [Esben Kran](../contact/) or [Sebastian Engen](../contact/) if you wish to contribute.
 
 Main online course sources: [Udacity](https://www.udacity.com/),
 [EdX](https://www.edx.org/), and [Coursera](https://www.coursera.org/)
 
-## Notes on preliminary approval and examples of certificates
+## Notes
 
 Getting preliminary approval for these courses does not seem to be possible. If it becomes possible in the future, these ECTS calculations might be relevant.
 
@@ -32,19 +32,17 @@ Examples of certificates:
 | ---------------------------------------- | ---------------------------------------- |
 | [./media/image3.png](./media/image3.png) |                                          |
 
-
-
-
-# <br> STATISTICAL INFERENCE & DATA SCIENCE
+# Data science
 
 ## Swirlstats
+
 - Instructor: [Nick Carchedi](https://nickcarchedi.com/)
 - Link: <https://swirlstats.com/
 - Price: \$0
-swirl teaches you R programming and data science interactively, <br>
-at your own pace, and right in the R console!
+  swirl teaches you R programming and data science interactively, <br>
+  at your own pace, and right in the R console!
 
-## Coursera : Introduction to Git and GitHub 
+## Intro to Git and Github
 
 - Instructor: [Google](https://www.Google.com)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -53,9 +51,9 @@ at your own pace, and right in the R console!
 - Time: 5 hours / week, 4 weeks, 20 hours, 1 ECTS
 
 In this course, you’ll learn how to keep track of the different versions of your code
- and configuration files using a popular version control system (VCS) called Git. 
- We'll also go through how to setup an account with a service called GitHub so that
-  you can create your very own remote repositories to store your code and configuration. 
+and configuration files using a popular version control system (VCS) called Git.
+We'll also go through how to setup an account with a service called GitHub so that
+you can create your very own remote repositories to store your code and configuration.
 
 Throughout this course, you'll learn about Git's core functionality so you can
 understand how and why it’s used in organizations. We’ll look into both basic
@@ -64,13 +62,13 @@ how having a working knowledge of a VCS like Git can be a lifesaver in emergency
 situations or when debugging. And then we'll explore how to use a VCS to work with
 others through remote repositories, like the ones provided by GitHub.
 
-By the end of this course, you'll be able to store your code's history in Git 
-and collaborate with others in GitHub, where you’ll also start creating your own portfolio! 
+By the end of this course, you'll be able to store your code's history in Git
+and collaborate with others in GitHub, where you’ll also start creating your own portfolio!
 
-In order to follow along and complete the assessments, you’ll need a computer 
+In order to follow along and complete the assessments, you’ll need a computer
 where you can install Git or ask your administrator to install it for you.
 
-## Coursera : Improving your statistical inferences
+## Statistical inferences
 
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -78,35 +76,34 @@ where you can install Git or ask your administrator to install it for you.
 - Price: \$49
 - Time: 2-4 hours / week, 8 weeks, 26 hours, 1 ECTS
 
-This course aims to help you to draw better statistical inferences from empirical research. 
-First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, 
-Bayes Factors, and likelihood ratios, and how these statistics answer different questions 
-you might be interested in. Then, you will learn how to design experiments where the false 
-positive rate is controlled, and how to decide upon the sample size for your study, for 
-example in order to achieve high statistical power. Subsequently, you will learn how to 
-interpret evidence in the scientific literature given widespread publication bias, for 
-example by learning about p-curve analysis. Finally, we will talk about how to do philosophy 
-of science, theory construction, and cumulative science, including how to perform replication 
-studies, why and how to pre-register your experiment, and how to share your results following 
-Open Science principles. 
+This course aims to help you to draw better statistical inferences from empirical research.
+First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals,
+Bayes Factors, and likelihood ratios, and how these statistics answer different questions
+you might be interested in. Then, you will learn how to design experiments where the false
+positive rate is controlled, and how to decide upon the sample size for your study, for
+example in order to achieve high statistical power. Subsequently, you will learn how to
+interpret evidence in the scientific literature given widespread publication bias, for
+example by learning about p-curve analysis. Finally, we will talk about how to do philosophy
+of science, theory construction, and cumulative science, including how to perform replication
+studies, why and how to pre-register your experiment, and how to share your results following
+Open Science principles.
 
-In practical, hands on assignments, you will learn how to simulate t-tests to learn which 
-p-values you can expect, calculate likelihood ratio's and get an introduction the binomial 
-Bayesian statistics, and learn about the positive predictive value which expresses the 
-probability published research findings are true. We will experience the problems with optional 
-stopping and learn how to prevent these problems by using sequential analyses. You will 
-calculate effect sizes, see how confidence intervals work through simulations, and practice 
-doing a-priori power analyses. Finally, you will learn how to examine whether the null hypothesis 
-is true using equivalence testing and Bayesian statistics, and how to pre-register a study, 
+In practical, hands on assignments, you will learn how to simulate t-tests to learn which
+p-values you can expect, calculate likelihood ratio's and get an introduction the binomial
+Bayesian statistics, and learn about the positive predictive value which expresses the
+probability published research findings are true. We will experience the problems with optional
+stopping and learn how to prevent these problems by using sequential analyses. You will
+calculate effect sizes, see how confidence intervals work through simulations, and practice
+doing a-priori power analyses. Finally, you will learn how to examine whether the null hypothesis
+is true using equivalence testing and Bayesian statistics, and how to pre-register a study,
 and share your data on the Open Science Framework.
 
-All videos now have Chinese subtitles. More than 30.000 learners have enrolled so far! 
+All videos now have Chinese subtitles. More than 30.000 learners have enrolled so far!
 
-If you enjoyed this course, I can recommend following it up with me new course 
+If you enjoyed this course, I can recommend following it up with me new course
 "Improving Your Statistical Questions"
 
-
-## Coursera : Improving your statistical Questions
+## Statistical questions
 
 - Instructor: [Eindhoven University of Technology](https://www.tue.nl/en/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -115,19 +112,18 @@ If you enjoyed this course, I can recommend following it up with me new course
 - Time: 1-4 hours / week, 6 weeks, 18 hours, 1 ECTS
 
 This course aims to help you to ask better statistical questions when performing empirical research.
-We will discuss how to design informative studies, both when your predictions are correct, as when 
-your predictions are wrong. We will question norms, and reflect on how we can improve research 
-practices to ask more interesting questions. In practical hands on assignments you will learn techniques 
-and tools that can be immediately implemented in your own research, such as thinking about the smallest 
-effect size you are interested in, justifying your sample size, evaluate findings in the literature while 
-keeping publication bias into account, performing a meta-analysis, and making your analyses computationally 
+We will discuss how to design informative studies, both when your predictions are correct, as when
+your predictions are wrong. We will question norms, and reflect on how we can improve research
+practices to ask more interesting questions. In practical hands on assignments you will learn techniques
+and tools that can be immediately implemented in your own research, such as thinking about the smallest
+effect size you are interested in, justifying your sample size, evaluate findings in the literature while
+keeping publication bias into account, performing a meta-analysis, and making your analyses computationally
 reproducible.
 
-If you have the time, it is recommended that you complete my course 'Improving Your Statistical Inferences' 
+If you have the time, it is recommended that you complete my course 'Improving Your Statistical Inferences'
 before enrolling in this course, although this course is completely self-contained.
 
-
-## <br>Data Analysis for Social Scientists
+## Data analysis for social scientists
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -163,8 +159,9 @@ review the concepts covered before beginning the course.
 Please use this link to access the [course
 preview](https://www.dropbox.com/sh/op0yjn65cxsocgb/AAAcRZM8XiABXSgaE-DfesTta/14.310x%20Course%20Preview?dl=0&subfolder_nav_tracking=1).
 
-## Data Science and Big Data Analytics: Making Data Driven Decisions
+## Making Data Driven Decisions
 
+- Data Science and Big Data Analytics
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [MIT xPRO](https://web.mit.edu/)
@@ -196,7 +193,6 @@ Master best practices for experiment design and hypothesis testing.
 Determine the difference between graphical models and network models.
 
 Choose how to represent your data when making predictions.
-
 
 ## Mining Massive Datasets
 
@@ -235,7 +231,7 @@ Machine-learning algorithms.
 - Dimensionality reduction
 - Machine-learning algorithms
 
-## Coursera : Statistics and R
+## Statistics and R
 
 - Instructor: [Harvard](https://www.harvard.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
@@ -243,51 +239,52 @@ Machine-learning algorithms.
 - Price: \$249
 - Time: 2-4 hours / week, 4 weeks, 18 hours, 1 ECTS
 
-This course teaches the R programming language in the context of statistical 
+This course teaches the R programming language in the context of statistical
 data and statistical analysis in the life sciences.
 
-We will learn the basics of statistical inference in order to understand and compute 
-p-values and confidence intervals, all while analyzing data with R code. We provide R 
-programming examples in a way that will help make the connection between concepts and 
-implementation. Problem sets requiring R programming will be used to test understanding 
-and ability to implement basic data analyses. We will use visualization techniques to 
-explore new data sets and determine the most appropriate approach. We will describe robust 
-statistical techniques as alternatives when data do not fit assumptions required by the 
-standard approaches. By using R scripts to analyze data, you will learn the basics of 
+We will learn the basics of statistical inference in order to understand and compute
+p-values and confidence intervals, all while analyzing data with R code. We provide R
+programming examples in a way that will help make the connection between concepts and
+implementation. Problem sets requiring R programming will be used to test understanding
+and ability to implement basic data analyses. We will use visualization techniques to
+explore new data sets and determine the most appropriate approach. We will describe robust
+statistical techniques as alternatives when data do not fit assumptions required by the
+standard approaches. By using R scripts to analyze data, you will learn the basics of
 conducting reproducible research.
 
-Given the diversity in educational background of our students we have divided the course 
-materials into seven parts. You can take the entire series or individual courses that interest 
-you. If you are a statistician you should consider skipping the first two or three courses, 
-similarly, if you are biologists you should consider skipping some of the introductory biology 
-lectures. Note that the statistics and programming aspects of the class ramp up in difficulty 
-relatively quickly across the first three courses. We start with simple calculations and 
-descriptive statistics. By the third course will be teaching advanced statistical concepts such 
-as hierarchical models and by the fourth advanced software engineering skills, such as parallel 
+Given the diversity in educational background of our students we have divided the course
+materials into seven parts. You can take the entire series or individual courses that interest
+you. If you are a statistician you should consider skipping the first two or three courses,
+similarly, if you are biologists you should consider skipping some of the introductory biology
+lectures. Note that the statistics and programming aspects of the class ramp up in difficulty
+relatively quickly across the first three courses. We start with simple calculations and
+descriptive statistics. By the third course will be teaching advanced statistical concepts such
+as hierarchical models and by the fourth advanced software engineering skills, such as parallel
 computing and reproducible research concepts.
 
-
-# <br> COMPUTATIONAL NEUROSCIENCE & MACHINE LEARNING
+# Computational Neuroscience & Machine Learning
 
 ## Computational Neuroscience
+
 - Instructor: [University of Washington](https://www.washington.edu/)
 - Publisher: [Coursera](https://www.coursera.org)
 - Link: <https://www.coursera.org/learn/computational-neuroscience>
 - Price: \$49
 - Time: 4 hours / week, 8 weeks, 26 hours, 1 ECTS
 
-This course provides an introduction to basic computational methods for understanding what 
-nervous systems do and for determining how they function. We will explore the computational 
-principles governing various aspects of vision, sensory-motor control, learning, and memory. 
-Specific topics that will be covered include representation of information by spiking neurons, 
-processing of information in neural networks, and algorithms for adaptation and learning. 
-We will make use of Matlab/Octave/Python demonstrations and exercises to gain a deeper 
-understanding of concepts and methods introduced in the course. The course is primarily aimed 
-at third- or fourth-year undergraduates and beginning graduate students, as well as professionals 
+This course provides an introduction to basic computational methods for understanding what
+nervous systems do and for determining how they function. We will explore the computational
+principles governing various aspects of vision, sensory-motor control, learning, and memory.
+Specific topics that will be covered include representation of information by spiking neurons,
+processing of information in neural networks, and algorithms for adaptation and learning.
+We will make use of Matlab/Octave/Python demonstrations and exercises to gain a deeper
+understanding of concepts and methods introduced in the course. The course is primarily aimed
+at third- or fourth-year undergraduates and beginning graduate students, as well as professionals
 and distance learners interested in learning how the brain processes information.
 
-## Machine Learning with Python: from Linear Models to Deep Learning (eligible)
+## Machine Learning with Python
 
+- ...from Linear Models to Deep Learning
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -399,8 +396,9 @@ you'll also learn how to apply learning algorithms to building smart robots
 (perception, control), text understanding (web search, anti-spam), computer
 vision, medical informatics, audio, database mining, and other areas.
 
-## Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
+## Machine learning engineering
 
+- Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [MIT xPRO](https://web.mit.edu/)
@@ -429,8 +427,7 @@ to resolve them.
 Learn about current research in machine learning at the MIT CCSE and how it
 might impact your work in the future.
 
-
-## Become a Self-Driving Car Engineer (eligible)
+## Self-Driving Car Engineering
 
 - Instructor: Udacity with Mercedes-Benz, NVIDIA, UBER, DiDi, BMW, and McLaren
 - Publisher: [Udacity](https://www.udacity.com/)
@@ -459,7 +456,7 @@ fusion, localization, controllers, vehicle kinematics, automotive hardware, and
 more. As part of their capstone project, students have the rare opportunity to
 run their code on an actual autonomous vehicle owned by Udacity.
 
-## Deep Reinforcement Learning (eligible)
+## Deep Reinforcement Learnin
 
 - Instructor: Udacity with [Unity](https://unity.com/) and
   [NVIDIA](https://www.nvidia.com/)
@@ -501,8 +498,9 @@ Multi-Agent Reinforcement Learning
   involve multiple, interacting agents. These techniques are used in a variety
   of applications,
 
-## Tensorflow : Simple Reinforcement Learning 
+## Tensorflow
 
+- Simple Reinforcement Learning
 - Instructor: [Medium](https://medium.com/)
 - Publisher: [Arthur Juliani](https://www.linkedin.com/in/arthur-juliani-50a38a21/)
 - Link: <https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0>
@@ -578,7 +576,7 @@ truth-assignment to its variables that makes the expression itself true.
 
 # Biology
 
-## Principles of Synthetic Biology (eligible)
+## Principles of Synthetic Biology
 
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
@@ -649,8 +647,9 @@ why has earth’s climate changed through geologic history?”
 This science course is designed for college sophomores and juniors with some
 preparation in college-level calculus and physics.
 
-## Global Health Informatics to Improve Quality of Care
+## Global Health Informatics
 
+- ...to Improve Quality of Care
 - Instructor: [MIT (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
@@ -706,8 +705,7 @@ requires mulTimeisciplinary teams. Thus, with this course, we hope to bring
 together individuals from a variety of disciplines—computer science, medicine,
 engineering, public health, policy, and business.
 
-
-# Business Foundations Specialization (eligible)
+# Business Foundations Specialization
 
 - Instructor: Wharton School
 - Publisher: [Coursera](https://www.coursera.org/)

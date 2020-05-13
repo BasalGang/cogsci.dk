@@ -31,6 +31,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ## TO DO
 
 - [x] Domain name: cognitive.dk
+- [ ] Implement comments
 - [x] Career section
 - [ ] Alumni page [content]
 - [x] Hosting of website
