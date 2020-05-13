@@ -15,14 +15,14 @@ The CogSite is Aarhus University Cognitive Science program's Tower of Babel. The
 You can do some of the following:
 
 - Write or propose a page to add to the list of everything
-- Write a [blog post on CogSite](./contribute/writing-on-the-cogsite.md)
-- Add your [exam project on the CogSite](contribute)
-- Propose other cool things to add (can be **anything**) - contact us [here](contact)
+- Write a [blog post on CogSite](docs/contribute/writing-on-the-cogsite.md)
+- Add your [exam project on the CogSite](docs/contribute)
+- Propose other cool things to add (can be **anything**) - contact us [here](docs/contact)
 
 ## Other information
 
-Information on writing the documents on this page can be found in the [Contribute](./contribute) section.
-Contact the team [here](./contact).
+Information on writing the documents on this page can be found in the [Contribute](docs/contribute) section.
+Contact the team [here](docs/contact).
 
 # Content information
 
