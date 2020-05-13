@@ -5,10 +5,3 @@ after:
   weight: 5
 title: The Attention Spotlight
 ---
-
-# The CogSite Blog
-
-{
-  <h1>I'll just test this for a bit</h1>
-
-}

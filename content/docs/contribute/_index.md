@@ -9,9 +9,11 @@ title: "Contribute"
 How can you contribute by putting something on this website?
 
 ## Short answer
+
 Send a pull-request on [gitlab](https://gitlab.com/aucogseers/CogSite) with your content in [markdown](writing-on-the-cogsite.md) format.
 
 ## Slightly longer answer
+
 The website is powered by Hugo, which reads a folder full of Markdown (.md) files, and turns them into the files needed for a beautiful website (.html).
 
 This happens automatically, so all you need to do is commit your content as a markdown file, and send in those changes.
@@ -27,7 +29,12 @@ This happens automatically, so all you need to do is commit your content as a ma
 
 If you're a regular contributor, you can skip steps 1 and 6, and instead clone the main repository directly and push changes back live.
 
-## Example
+# Examples
+
+## Adding an exam paper
 
 TODO: Step by step example of adding an exam project or something
 
+## Writing a blog post
+
+TODO: Step by step example of writing a blog post ([instructions](writing-on-the-cogsite.md), [example](example-blog-post.md)).

@@ -2,19 +2,20 @@
 title: "Writing on the CogSite"
 weight: 10
 ---
+
 # Writing a markdown file for the CogSite
 
 Refer to the right menu to see the table of contents for this page.
 
 ## File setup
 
-The file should be a .md file which stands for *.markdown*. Markdown is a very established way to write with an array of shorthand methods for formatting text. You can find instructions on how to write it on this page.
+The file should be a .md file which stands for **.markdown**. Markdown is a very established way to write with an array of shorthand methods for formatting text. You can find instructions on how to write it on this page.
 
-The file name should be in the following syntax: `this-is-my-blog-post.md` with dashes instead of spaces and in all lower-case. Ensures we can link between pages optimally.
+The file name should be in the following syntax: **`this-is-my-blog-post.md`** with dashes instead of spaces and in all lower-case. Ensures we can link between pages optimally.
 
-This .md file will be placed in the */content/posts* folder. Any content you need to reference (like images and files) must be placed in the /static folder. Then you can reference them as if you had the files in the root directory: *earlier-exams/top-down-processing.pdf*.
+This .md file will be placed in the **/content/posts** folder. Any content you need to reference (like images and files) must be placed in the /static folder. Then you can reference them as if you had the files in the root directory: **earlier-exams/top-down-processing.pdf**.
 
-Place your image(s) inside a folder with your blog post's name in the */static/posts* folder. Then you reference the file by writing: *posts/my-blog-post/my-image.jpg* inside the blog post.
+Place your image(s) inside a folder with your blog post's name in the **/static/posts** folder. Then you reference the file by writing: _posts/my-blog-post/my-image.jpg_ inside the blog post.
 
 ## Page settings
 
@@ -24,18 +25,18 @@ This is the info that the program uses to generate the blog post. This header in
 
 ```
 ---
-author: "Esben Kran"
+author: "Author name"
 date: 2020-05-05
 title: This is a cool blog post
 next: /next-blog-post-name-with-hyphens
 prev: /previous-blog-post-name
-categories: ['Contribute']
-tags: ['Examples']
+categories: ['Contribute', 'Another Category']
+tags: ['Examples', 'Example Tag 2']
 bookHidden: true
 ---
 ```
 
-When writing a normal page in the */docs* directory (mostly the core team), you will be using the following:
+When writing a normal page in the _/docs_ directory (mostly the core team), you will be using the following:
 
 ```
 ---
@@ -52,9 +53,9 @@ You do not need the page settings on every page as they default to the file name
 - weight: 5
   - This decides the page position in the menu compared to files in the same directory
 - bookFlatSection: true
-  - Decides if it is a sections (bold font) in the menu (like the *CogSite* text)
+  - Decides if it is a sections (bold font) in the menu (like the _CogSite_ text)
 - bookCollapseSection: true
-  - Creates a collapsing section (like *The Library*)
+  - Creates a collapsing section (like _The Library_)
 - bookHidden: true
   - Hide this page in the left menu - if you're planning to use this, consider if it's better to append the content to an existing page
 - bookToC: false
@@ -88,7 +89,8 @@ These headings show up in the right hand menu.
 ## Normal formatting
 
 Additionally, there's these normal awesome text formatting things:
-- [ ] *This is italicized*
+
+- [ ] _This is italicized_
 - [ ] **This is phatt**\*\*
 - [ ] ~~This is crossed out~~
 - [ ] Oh my, there's also a list in the middle of it all
@@ -102,7 +104,7 @@ These are written as such:
 \- \[ \] \*\*This is phatt\*\*
 \- \[ \] \~\~This is crossed out\~\~
 \- \[ \] Oh my, there's also a list in the middle of it all
-  \- \[ \] Sub points 2 spaces in
+\- \[ \] Sub points 2 spaces in
 \- \[x\] with checkmarks!
 ´´´
 
@@ -114,7 +116,7 @@ Ordered list:
 \3 Text
 ´´´
 
-I might want to write other stuff as well. Maybe even a [link to some cool stuff](https://gitlab.com/aucogseers/CogSite) by writing \[text\](link). To quickly create links from URLs like this <https://gitlab.com/aucogseers/CogSite>, write `<https://gitlab.com/aucogseers/CogSite>`. 
+I might want to write other stuff as well. Maybe even a [link to some cool stuff](https://gitlab.com/aucogseers/CogSite) by writing \[text\](link). To quickly create links from URLs like this <https://gitlab.com/aucogseers/CogSite>, write `<https://gitlab.com/aucogseers/CogSite>`.
 You can also reference other sections on the post by referring to their titles like this: [Writing in markdown](#writing-in-markdown) `[Writing in markdown](#writing-in-markdown)`
 
 You might also want an image like this in your post:
@@ -127,7 +129,7 @@ You can see how these characters are used by the formatting (\*, \[\], \(\)). If
 
 To create a line like this...
 
-***
+---
 
 ...write either `***`, `---` or `________`. The output will look the same. And remember to put blank lines before and after the line.
 
@@ -162,9 +164,9 @@ Quotes like this...
 ## Emojis
 
 You can write emojis like these:
-| Smiley        | Code            |
+| Smiley | Code |
 | ------------- | --------------- |
-| :innocent:    | \:innocent\:    |
+| :innocent: | \:innocent\: |
 | :star_struck: | \:star_struck\: |
 
 See more smiley codes [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
@@ -180,7 +182,7 @@ You can write a table like this...
 ...by writing:
 
 ´´´
-\| First row item               | Another one!                  |
+\| First row item | Another one! |
 \| ---------------------------- | ----------------------------- |
 \| This is some content, though | Even more! When will it stop? |
 ´´´
@@ -207,7 +209,6 @@ Buttons are styled links that can lead to local page or external link.
 
 Columns help organize shorter pieces of content horizontally for readability.
 
-
 ```html
 {{</* columns */>}} <!-- begin columns block -->
 # Left Content
@@ -228,7 +229,9 @@ Lorem markdownum insigne...
 ### Example
 
 {{< columns >}}
+
 ### Left Content
+
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
@@ -237,12 +240,14 @@ Miseratus fonte Ditis conubia.
 <--->
 
 ### Mid Content
+
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter!
 
 <--->
 
 ### Right Content
+
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
@@ -254,12 +259,14 @@ Miseratus fonte Ditis conubia.
 Details shortcode is a helper for `details` html5 element. It is going to replace `expand` shortcode.
 
 ### Example
+
 ```tpl
 {{</* details "Title" [open] */>}}
 ## Markdown content
 Lorem markdownum insigne...
 {{</* /details */>}}
 ```
+
 ```tpl
 {{</* details title="Title" open=true */>}}
 ## Markdown content
@@ -268,7 +275,9 @@ Lorem markdownum insigne...
 ```
 
 {{< details "Title" open >}}
+
 ### Markdown content
+
 Lorem markdownum insigne...
 {{< /details >}}
 
@@ -310,6 +319,7 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX](https://katex.org/)
 
 ### Example
+
 {{< columns >}}
 
 ```latex
@@ -321,7 +331,7 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 <--->
 
 {{< katex display >}}
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+f(x) = \int\_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 
 {{< /columns >}}
@@ -330,7 +340,7 @@ f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 
 Here is some inline example: {{< katex >}}\pi(x){{< /katex >}}, rendered in the same line. And below is `display` example, having `display: block`
 {{< katex display >}}
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+f(x) = \int\_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 Text continues here.
 
@@ -341,6 +351,7 @@ Text continues here.
 ### Example
 
 {{< columns >}}
+
 ```tpl
 {{</* mermaid [class="text-center"]*/>}}
 sequenceDiagram
@@ -360,15 +371,15 @@ sequenceDiagram
 
 {{< mermaid >}}
 sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    alt is sick
-        Bob->>Alice: Not so good :(
-    else is well
-        Bob->>Alice: Feeling fresh like a daisy
-    end
-    opt Extra response
-        Bob->>Alice: Thanks for asking
-    end
+Alice->>Bob: Hello Bob, how are you?
+alt is sick
+Bob->>Alice: Not so good :(
+else is well
+Bob->>Alice: Feeling fresh like a daisy
+end
+opt Extra response
+Bob->>Alice: Thanks for asking
+end
 {{< /mermaid >}}
 
 {{< /columns >}}
@@ -389,6 +400,7 @@ Tabs let you organize content by context, for example installation instructions 
 
 {{< tabs "uniqueid" >}}
 {{< tab "MacOS" >}}
+
 ## MacOS
 
 This is tab **MacOS** content.

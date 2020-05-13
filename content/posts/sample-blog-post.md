@@ -4,14 +4,15 @@ date: 2020-05-05
 title: This is a cool blog post
 next: /next-blog-post-name-with-hyphens
 prev: /previous-blog-post-name
-categories: ['Contribute']
-tags: ['Examples']
+categories: ["Contribute"]
+tags: ["Examples"]
 bookHidden: true
 ---
-Here you have a short summary of the blog post.
 
-# This is my cool jam
-But even after the cool jam, maybe we can reach
-new heights.
+The first part of the blog post becomes the summary / description on the blog page.
 
-So this becomes the summary of the article.
+# This is my title
+
+### [Read instructions here](/content/docs/contribute/writing-on-the-cogsite.md)
+
+And this is my text.
