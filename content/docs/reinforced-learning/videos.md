@@ -4,33 +4,36 @@ title: "List of Interesting Videos"
 ---
 # <br> Language
 
-<b> Amy Cuddy: Your Body Language May Shape Who You Are </b>
-https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are/up-next#t-7430
-
 <b> Steven Pinker: What Our Language Habits Reveal </b>
+Psycholinguist Steven Pinker talks about how language both transmits information and reflects social relations.
 https://www.ted.com/talks/steven_pinker_what_our_language_habits_reveal/up-next?language=en
 
 <b> Lera Boroditsky: How Language Shapes the Way We Think </b>
+Cognitive linguist Lera Boroditsky talks about the influence of our language on our mind.
 https://www.youtube.com/watch?v=RKK7wGAYP6k
 
 <b> John McWhorter: 4 Reasons to learn a new Language </b>
+John McWhorter talks about the advantages of learning new languages.
 https://www.youtube.com/watch?v=VQRjouwKDlU
 
 <b> Michael Halliday: Language Evolving, Some Systemic Functional Reflections on the History of Meaning </b>
+Linguist Michael Halliday, founder of Systemic Functional Linguistics, talks about how meaning has emerged over time.
 https://www.youtube.com/watch?v=nC-blhaIUCk&list=PLaCPexUApsjvFzQGGjJ6hVonsII1P5DAv
+
+<b> Amy Cuddy: Your Body Language May Shape Who You Are </b>
+Amy Cuddy talks about how "power posing" can shape how well you perform. Note that it is debated whether this is reproducible.
+https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are/up-next#t-7430
 
 
 
 # <br> Learning
 
 <b> Smarter Every Day: Backwards Brain Bicycle </b>
+Here is it demonstrated how a simple change can make a task impossible that we are otherwise expert at.
 https://www.youtube.com/watch?v=MFzDaBzBlL0
 
-<b> Frederick Travis: We Create Our Reality </b>
-A lecture by Neuroscientist Frederick Travis on how experience changes the brain
-https://www.youtube.com/watch?v=UlxGBZifk6k
-
-<b> Skinner on Conditioning: </b>
+<b> Burrhus F. Skinner on Conditioning: </b>
+Leader of the behaviourist paradigm, B. F. Skinner, talks about the conditioning of animals.
 https://www.youtube.com/watch?v=yhvaSEJtOV8
 
 
@@ -38,78 +41,97 @@ https://www.youtube.com/watch?v=yhvaSEJtOV8
 # <br> Decision Making
 
 <b> Daniel Kahneman: Thinking, Fast and Slow </b>
+Psychologist and economist Daniel Kahneman talks about his theory of the fast system 1 and the slow system 2 kinds of thinking.
 https://www.youtube.com/watch?v=CjVQJdIrDJ0
 
 
 
 # <br> Memory
 
+<b> Daniel Kahneman: The riddle of experience vs. memory </b>
+Psychologist Daniel Kahneman talks about the difference between experience and memory, and which is more important for happiness.
+https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory/up-next?language=en
+
 <b> How To Improve Your Memory - Introduction to Method of Loci </b>
+A guide to the Loci method for memorization.
 https://www.youtube.com/watch?v=YdfUaydquXs
 
 <b> Alan Baddeley: The Origins of the Central Executive </b>
+Psychologist Alan Baddeley describes the ogirin of the idea of a central executive that controls the working memory.
 https://www.youtube.com/watch?v=aseitqCZKQo
 
 <b> Alan Baddeley: Working Memory, Theories, Models and Controversies </b>
+Psychologist Alan Baddeley talks about the different thoeries on working memory.
 https://www.youtube.com/watch?v=yL2ul2bR0Ok
 
 <b> Psychology Unlocked: Working Memory </b>
+An informative video on what working memory is.
 https://www.youtube.com/watch?v=1xwNFb9tsxg
 
 <b>Idriz Zogaj: How to Become a Memory Master </b>
+Memory Athlete Idriz Zogaj talks about methods for memorization and its use in daily life.
 https://www.youtube.com/watch?v=9ebJlcZMx3c
-
 
 
 
 # <br> Emotion
 
 <b> Paul & Eve Ekman: The Atlas of Emotions </b>
+Psychologists Paul and Eve Ekman talk about their theory of fundamental emotions.
 https://www.youtube.com/watch?v=AaDzUFL9CLE
 
 <b> Antonio Damasio: When Emotions Make Better Decisions </b>
+Neuroscientist Antonio Damasio talks about how emotions are critical in good decision making.
 https://www.youtube.com/watch?v=1wup_K2WN0I
 
 <b> Lisa Feldman Barret: You aren’t at the mercy of your emotions - your brain creates them </b>
+Psychologist Lisa Fedlman Barret talks about the constructivist theory of emotions.
 https://www.ted.com/talks/lisa_feldman_barrett_you_aren_t_at_the_mercy_of_your_emotions_your_brain_creates_them/up-next
-
-<b> Daniel Kahneman: The riddle of experience vs. memory </b>
-https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory/up-next?language=en
 
 
 
 # <br> Neuroscience
 
 <b> May-Britt Moser: Space, Time and Memory in the Brain </b>
+Neuroscientist May-Britt Moser holds her Nobel Prize speech, talking about her work on representation of space and time in the brain.
 https://www.youtube.com/watch?v=svbFSyvIt3w
 
 <b> The Guardian: Brain Decoding, How Scientists can Read Your Mind </b>
+A short News Video on technology to decode what people are seeing or thinking from brain signals.
 https://www.youtube.com/watch?v=1_yaQTR3KHI
+
+<b> Frederick Travis: We Create Our Reality </b>
+A lecture by Neuroscientist Frederick Travis on how experience changes the brain.
+https://www.youtube.com/watch?v=UlxGBZifk6k
+
+<b> Two Minute Papers: Brain-To-Brain Communication is Coming </b>
+https://www.youtube.com/watch?feature=youtu.be&v=6IsIGp1IezE&app=desktop
 
 
 
 # <br> AI
 
-<b> Two Minute Papers: New Deepmind AI Beats Alphago 100-0 </b>
-https://www.youtube.com/watch?v=9xlSy9F5WtE
-
-<b> Deep Blue vs Kasparov: How a Computer Beat the best Chess Player in the World </b>
-https://www.youtube.com/watch?v=KF6sLCeBj0s
-
-<b> OpenAI vs professional humans in DOTA 2 </b>
-https://www.youtube.com/watch?v=eaBYhLttETw
-
-<b> Sophia Robot gets citizenship in Saudi Arabia </b>
-https://www.youtube.com/watch?v=E8Ox6H64yu8
-
 <b> Peter Haas: The Real Reason to be Afraid of Artificial Intelligence </b>
 https://www.youtube.com/watch?v=TRzBk_KuIaM
 
-<b> Two Minute Papers: Brain-To-Brain Communication is Coming </b>
-https://www.youtube.com/watch?feature=youtu.be&v=6IsIGp1IezE&app=desktop
-
 <b> Frank Chen: AI, Deep Learning and Machine Learning, A Primer </b>
 https://www.youtube.com/watch?v=ht6fLrar91U
+
+<b> Deep Blue vs Kasparov: How a Computer Beat the best Chess Player in the World </b>
+Older documentary on the historic match where the chess computer Deep Blue beat the world champion, Garry Ksparov.
+https://www.youtube.com/watch?v=KF6sLCeBj0s
+
+<b> Two Minute Papers: New Deepmind AI Beats Alphago 100-0 </b>
+A description of the AlphaGo 0 system that trains without training data and beats the old AlphaGo every time.
+https://www.youtube.com/watch?v=9xlSy9F5WtE
+
+<b> OpenAI vs professional humans in DOTA 2 </b>
+OpenAI system beats high-competitive players in DOTA 2.
+https://www.youtube.com/watch?v=eaBYhLttETw
+
+<b> Sophia Robot gets citizenship in Saudi Arabia </b>
+Lifelike-looking robot Sophia is awarded a citizenship in Saudi Arabia, making her the first robot citizen.
+https://www.youtube.com/watch?v=E8Ox6H64yu8
 
 <b> SethBling: Machine Learning for Video Games, Mario </b>
 https://www.youtube.com/watch?v=qv6UVOQ0F44
@@ -125,7 +147,6 @@ https://www.youtube.com/watch?v=mkI6qfpEJmI
 
 <b> Two Minute Papers: Real Time Facial Reenactment </b>
 https://www.youtube.com/watch?v=_S1lyQbbJM4
-
 
 
 
@@ -231,12 +252,10 @@ https://www.youtube.com/watch?v=PzdopL2mGqo
 
 
 
-
 # <br> Time Perception
 
 <b> Hinze Hogendoorn: Time and the Brain, the illusion of now </b>
 https://www.youtube.com/watch?v=BEuNa1Vp_b0
-
 
 
 
