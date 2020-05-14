@@ -6,7 +6,7 @@ title: "Publications by students"
 
 # Publications by students
 
-{{<details title="Analysing political biases in danish newspapers using sentiment analysis" open=false>}}
+{{< details title="Analysing political biases in danish newspapers using sentiment analysis" open=false >}}
 
 [Link](https://scholar.google.com/scholar_url?url=https://tidsskrift.dk/lwo/article/download/96014/144867&hl=en&sa=T&oi=gsb-ggp&ct=res&cd=0&d=2279512725675791152&ei=3tOyXsmsGoKjmAHUgZog&scisig=AAGBfm202bfEtQXNMRBMZYZXlJ328XpNUw)
 
@@ -34,9 +34,9 @@ biases in news outlets is proposed. Furthermore, future studies are suggested to
 for evaluation of AFINN on news and to utilize web-mining methods to gather greater amounts of
 data in order to analyse more parties and newspapers.
 
-{{</details>}}
+{{< /details >}}
 
-{{<details title="Sentida: A New Tool for Sentiment Analysis in Danish" open=false>}}
+{{< details title="Sentida: A New Tool for Sentiment Analysis in Danish" open=false >}}
 
 [Link](https://tidsskrift.dk/lwo/article/view/115711)
 
@@ -71,9 +71,9 @@ The results show that SENTIDA excels across all tests, predicting
 reviews with an accuracy above 80% in all trials and providing
 significant correlations with manually annotated texts.
 
-{{</details>}}
+{{< /details >}}
 
-{{<details title="tomsup: An implementation of computational Theory of Mind in Python" open=false>}}
+{{< details title="tomsup: An implementation of computational Theory of Mind in Python" open=false >}}
 
 [Link](https://psyarxiv.com/zcgkv/download)
 
@@ -107,9 +107,9 @@ how its priors should be formed. Various ways are suggested in which the tomsup 
 could be applied and developed further, as well as a discussion on how to make it broadly available, so as to scaffold
 future research using computational ToM models.
 
-{{</details>}}
+{{< /details >}}
 
-{{<details title="Confucian Free Energy: The Predictive Mind in Ancient China" open=false>}}
+{{< details title="Confucian Free Energy: The Predictive Mind in Ancient China" open=false >}}
 
 [Link](https://psyarxiv.com/zm245/download)
 
@@ -136,4 +136,4 @@ interesting because it can potentially inform or guide the two theories, and add
 of Ames, and as a proof of concept that bridges can be built across times, cultures and academic
 traditions
 
-{{</details>}}
+{{< /details >}}

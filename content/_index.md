@@ -34,7 +34,7 @@ You can do one or more of the following:
 
 - Share this website with your fellow students!
 - Write or propose a page to add to the website
-- Write a [blog post on CogSite](docs/contribute/writing-on-the-cogsite)
+- Write a [blog post on CogSite](docs/contribute/writing-a-blog-post)
 - Add your [exam project on the CogSite](docs/contribute)
 - Propose other cool things to add (can be **anything**) - contact us [here](docs/contact)
 

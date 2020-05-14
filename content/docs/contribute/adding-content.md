@@ -15,22 +15,33 @@ currently set up and copy the elements to make your addition
 adhere to the current formatting.
 
 For many of the lists, a specific [shortcode](shortcodes.md) is
-important. This shortcode is the `{{<details>}}` shortcode.
+important. This shortcode is the `{{< details >}}` shortcode.
 It is structured as shown below:
 
-```markdown
-{{<details title="This is expandable" open=false>}}
-This is my hidden content.
-{{</details>}}
+```
+{{< details title="This is expandable" open=false >}}
+
+`This is my hidden content`
+
+{{< /details >}}
 ```
 
-{{<details title="This is expandable" open=false>}}
+{{< details title="This is expandable" open=false >}}
+
 This is my hidden content.
-{{</details>}}
+
+{{< /details >}}
 
 The title is what is shown in the expandable menu field and
 the open property decides if it starts open or closed. Most
 lists have them closed initially.
+
+{{< hint warning >}}
+
+You **HAVE** to write a space after and before the `<` and `>` or
+you can break the site.
+
+{{< /hint >}}
 
 Another regularly used formatting tool for these lists is the table.
 These are described in the [markdown tutorial](markdown.md). Examples
