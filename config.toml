@@ -41,7 +41,7 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "Found an error? Report it here!"
-  url = "https://gitlab.com/AUcogseers/CogSite/-/issues"
+  url = "/docs/issues/"
   weight = 10
 
 [params]
