@@ -21,11 +21,11 @@ title: "CogSci Productions"
 {{< /details >}}
 
 {{< details title="Brain-Machine Interfacing with Esben Kran" open=false >}}
-This is a must-watch! It's not available yet though, haha.
+{{< youtube nDDIAIdYCoc >}}
 {{< /details >}}
 
 {{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
-UFF! This was good! Come back later to watch it!
+{{< youtube SeXONznYB0s >}}
 {{< /details >}}
 
 ## CogPodcasts
