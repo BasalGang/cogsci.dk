@@ -6,7 +6,7 @@ bookToC: true
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
 
-# What is Cognitive.dk?
+# What is cogsci.dk?
 
 Cognitive.dk is the website for all information relevant
 to Cognitive Science students and interested at Aarhus University
