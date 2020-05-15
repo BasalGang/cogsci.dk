@@ -24,7 +24,7 @@ title: "CogSci Productions"
 
 {{< youtube nDDIAIdYCoc >}}
 
-[Download slides](../../cogtalks/brain-machine/slides.pdf)
+[Download slides](../../../cogtalks/brain-machine/slides.pdf)
 
 ### Notes
 
