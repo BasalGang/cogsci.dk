@@ -8,6 +8,12 @@ bookToC: false
 
 Please contribute additional tasks and solutions.
 
+{{< details title="Read/write files" open=false >}}
+| File format          | Package | Function(s)      | Tutorial |
+| :------------------- | :------ | :--------------- | :------- |
+| xls(x)        | `readxl` | `read_excel()` | [Overview](https://readxl.tidyverse.org/index.html) |
+{{< /details >}}
+
 {{< details title="Transforming data frames" open=false >}}
 
 | Task                 | Package | Function(s)                                                                   | Tutorial |
