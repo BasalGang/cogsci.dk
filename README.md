@@ -3,21 +3,22 @@
 Content for the Website of Cognitive Science Students at Aarhus University.
 
 ## ANNOUNCEMENTS
-A1: Added TODO tasks - refer to those to choose a random task you want to take up 
+
+A1: Added TODO tasks - refer to those to choose a random task you want to take up
 
 **WORK IN PROGRESS**
 
-You can host the site locally by running the HostSiteLocally.Rmd, after what, you can 
-edit the website's content and see all changes made dynamically. Additionally, you 
-can download `hugo-extended` with `choco install hugo-extended` if you have 
-`chocolatey` downloaded. Then it's possible to use `hugo server` in the root 
+You can host the site locally by running the HostSiteLocally.Rmd, after what, you can
+edit the website's content and see all changes made dynamically. Additionally, you
+can download `hugo-extended` with `choco install hugo-extended` if you have
+`chocolatey` downloaded. Then it's possible to use `hugo server` in the root
 folder and the website is hosted on port 1313 (by default).
 
 ## Current state
 
 The technical elements are basically finished. The basic architecture is ready.
 
-Some sub-pages under "reinforced learning" and "the data frame" still needs to 
+Some sub-pages under "reinforced learning" and "the data frame" still needs to
 be created but beyond that, they are mostly created (from the CogSite SideStruktur document)
 
 ## How to build the site locally
@@ -30,7 +31,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
-- [x] Domain name: cognitive.dk
+- [ ] Fix link to blog (the Attention Spotlight)
+- [x] Domain name: cogsci.dk
 - [ ] Implement comments
 - [x] Career section
 - [ ] Alumni page [content]
@@ -44,7 +46,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [x] Remove the duplicate front page
 - [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
 - [ ] Update the logo link to the actual front page
-- [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title] ([publisher]) -> [description]
+- [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title]([publisher]) -> [description]
 - [x] Rename the blog to Attention Spotlight or something like that
 - [ ] Ensure articles for the blog
 - [x] Remove file clutter (folders with one sub-page)
@@ -76,7 +78,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [x] Merge the esben branch and delete esben branch
 - [x] Write a sample list in the list of everything (online courses list)
 - [x] Rename the data frame to the library
-
 
 ## Links and possible implementations
 
