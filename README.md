@@ -41,7 +41,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Change "The Library" to "The Local Library"
 - [ ] Fix the layour of the Courses List
 - [ ] Make the structure to the Formal Stuff
-- [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
+- [ ] Q&A in the Programming section (maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/))
+- [ ] Add "job opportuinities" to Career
 
 ### Critical: Technical issues
 - [ ] Fix the link to the blog
