@@ -67,7 +67,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Correspondence
 - [ ] Assign some CogBloggers
-- [ ] Talk with Josh
 - [ ] Create the domain: cogsci.dk
 - [ ] Check if its okay to share the online courses/platforms
 
