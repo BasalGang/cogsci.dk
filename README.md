@@ -33,7 +33,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Implementation and design
 - [ ] Set up the blog structure (tags, categories etc.)
-- [ ] Add commenting function to the blog
 - [ ] Add the calendar
 - [ ] Implement exam paper database [Blanka / Sebastian]
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
@@ -43,6 +42,11 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Make the structure to the Formal Stuff
 - [ ] Q&A in the Programming section (maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/))
 - [ ] Add "job opportuinities" to Career
+- [ ] Book Reccomendations: Fix layout
+- [ ] Remove Book Market
+- [ ] Move Brain Games to The Local Library
+- [ ] Earlier Exam Projects: remove all "bunden eksamen" + write why
+- [ ] Earlier Exam Projects: add cognitive semiotics
 
 ### Critical: Technical issues
 - [ ] Fix the link to the blog
@@ -79,4 +83,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Lecture recordings
 - Exam papers: social functionality
 - Exam papers: inspirational tree structure
+- Add commenting function to the blog - discuss moderation options
+- Add a Stackexchange (CogExchange) for Cognitive Science students
 
