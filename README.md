@@ -48,6 +48,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Fix the link to the blog
 - [ ] Update the logo link to the actual front page
 - [ ] Move Careers tab to be above Contact tab
+- [ ] Deamphasize names list
 
 ### Critical: Content creation
 - [ ] Gather exam paper database
