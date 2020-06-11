@@ -31,58 +31,48 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
-- [ ] Fix link to blog (the Attention Spotlight)
-- [x] Domain name: cogsci.dk
-- [ ] Implement comments
-- [x] Career section
-- [ ] Alumni page [content]
-- [x] Hosting of website
-- [ ] HCI project, Sebastian and Blanka
-- [ ] Write a nice front page
-- [x] Data storage
-- [ ] Blanka: Anonymous posts - mental health etc.
-- [ ] Zotero of awesome papers (to link to etc.) - nice-to-have
-- [x] Check the blog implementation (another header)
-- [x] Remove the duplicate front page
+### Critical: Implementation and design
+- [ ] Set up the blog structure (tags, categories etc.)
+- [ ] Add commenting function to the blog
+- [ ] Add the calendar
+- [ ] Implement exam paper database [Blanka / Sebastian]
+- [ ] Fix the interesting videos list (split it into tutorials and talks)
+- [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
+- [ ] Change "The Library" to "The Local Library"
+- [ ] Fix the layour of the Courses List
+- [ ] Make the structure to the Formal Stuff
 - [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
+
+### Critical: Technical issues
+- [ ] Fix the link to the blog
 - [ ] Update the logo link to the actual front page
-- [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title]([publisher]) -> [description]
-- [x] Rename the blog to Attention Spotlight or something like that
-- [ ] Ensure articles for the blog
-- [x] Remove file clutter (folders with one sub-page)
-- [ ] Reinforced learning front page: Introduction and massive lists of resources
-- [x] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
-- [x] Move book market and AU environment to Social System
-- [x] Create a level 1 called formal stuff
-- [x] The data frame (Library) is for old data things
-- [ ] University courses list under formal stuff
-- [x] Add the Study Café
-- [ ] Set up the blog structure (categories, tags, etc.)
-- [x] Add a "found a mistake" button --> link to the Issues page on Gitlab
-- [x] Simplify simplify simplify on the left side - remove third level and reduce reduce
-- [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
-- [x] Write the markdown tutorial
-- [x] Write the gitlab tutorial for contributing to the website
-- [x] Specificize the contribution pages so it's _very easy_ to contribute
-- [ ] The Time of Content is Upon Us
-- [x] Write all the teachers: Favorite books etc.
-- [ ] Embedding the calendar
-- [x] Decide a good file structure for the Amazing Lists Of Everything
-- [x] Implement one list as a prototype
-- [x] Implement the hugo-book theme
-- [x] Implement a basic hierarchical structure
-- [x] Write an example blog post in the "posts" folder
-- [x] Write instructions on shortcodes
-- [x] Write instructions on writing a blog post
-- [x] Write instructions on page settings
-- [x] Merge the esben branch and delete esben branch
-- [x] Write a sample list in the list of everything (online courses list)
-- [x] Rename the data frame to the library
 
-## Links and possible implementations
-
-- [x] Initial collection of R packages: https://docs.google.com/spreadsheets/d/10a2JWhNXYrrt1N-kNr0LB8fGvKwHcWhf6VdUBz8wCCE/edit#gid=0
+### Critical: Content creation
+- [ ] Gather exam paper database
+- [ ] Write a nice front page
+- [ ] Add online courses to the online courses list
+- [ ] Write the reinforced learning front page
+- [ ] Write Social System front page
+- [ ] Set up the Career Tab
 - [ ] The IV-fag list from Anna Stuckert (LINK)
-- [x] Online courses lists from Esben Kran (LINK)
 - [ ] YouTube video list by Peter (LNK)
 - [ ] Data Elixir (EPIIC)
+
+### Critical: Correspondence
+- [ ] Assign some CogBloggers
+- [ ] Talk with Josh
+- [ ] Create the domain: cogsci.dk
+
+### Critical: Visual design
+- [ ] Create a cool logo
+- [ ] Find a good color scheme
+- [ ] Implement the color scheme
+
+
+### Ideas for the future
+- Mental Health page [Blanka]
+- List of interesting papers (Zotero-based)
+- Lecture recordings
+- Exam papers: social functionality
+- Exam papers: inspirational tree structure
+
