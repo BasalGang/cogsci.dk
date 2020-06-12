@@ -11,7 +11,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 ## Contribute
 
-Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk)
+Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.hogwarts@gmail.com)
 
 ## Bachelor
 
@@ -20,7 +20,11 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk)
 
 | Title + Link                                                                                                                                                   | Authors                                | When     | Type              |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- | :------- | :---------------- |
-| [Top-down processing of words in degraded speech](/earlier-exams/Top-down-processing-of-words-in-degraded-speech-by-Olsen-Ludvig-and-Larsen-Kristian-2016.pdf) | Ludvig Renbo Olsen and Kristian Larsen | Jan 2016 | Experiment, Paper |
+| [Top-down processing of words in degraded speech](https://drive.google.com/file/d/1u7tYOK33lEme7R1zYMSFIvOu1g8RSqYM/view?usp=sharing) | Ludvig Renbo Olsen and Kristian Larsen | Jan 2016 | Experiment, Paper |
+
+| Title + Link                                                                                                                                                   | Authors                                | When     | Type              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------- | :------- | :---------------- |
+| [Top-down processing of words in degraded speech](https://drive.google.com/file/d/1u7tYOK33lEme7R1zYMSFIvOu1g8RSqYM/view?usp=sharing) | Ludvig Renbo Olsen and Kristian Larsen | Jan 2016 | Experiment, Paper |
 
 {{< /details >}}
 
