@@ -20,12 +20,12 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.h
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Symbolism in Sonance:](https://drive.google.com/file/d/1aW0QuL0Xf07TQ7g6ypSv7IecRU-s9lqL/view?usp=sharing) | Pernille Berg Lassen & Lasse Damgaard | 2016 | Experiment, Paper |
 | [Top-down processing of words in degraded speech](https://drive.google.com/file/d/1u7tYOK33lEme7R1zYMSFIvOu1g8RSqYM/view?usp=sharing) | Ludvig Renbo Olsen and Kristian Larsen | 2016 | Experiment, Paper |
 | [Classifying hip hop music](https://drive.google.com/file/d/1zPi2e9F0n7-EQU5lAG1b_LhcQ_Wl75zK/view?usp=sharing) | Anders Larsen & Laurits Dixen | 2017 | Experiment, Paper |
 | [Early language acquisition across language families](https://drive.google.com/file/d/1ypWg_vx5UJffItNsLydBsDiLz1qAnvPP/view?usp=sharing) | Annonymous | 2017 | Experiment, Paper |
 | [Framing of Social Moral Dilemmas](https://drive.google.com/file/d/1C6JAZIzfR6Xab8ErBI_PEO7yCM8UlmIm/view?usp=sharing) | Annamaya Halskov-Jensen & Amalie L. Andersen | 2017 | Experiment, Paper |
 | [Sentiment Analysis on Public Statements during American Election Campaigns](https://drive.google.com/file/d/1zPi2e9F0n7-EQU5lAG1b_LhcQ_Wl75zK/view?usp=sharing) | Frederikke Pape Kofod & Kathrine Korsgaard Bredahl | 2017 | Experiment, Paper |
-| [Symbolism in Sonance:](https://drive.google.com/file/d/1aW0QuL0Xf07TQ7g6ypSv7IecRU-s9lqL/view?usp=sharing) | Pernille Berg Lassen & Lasse Damgaard | 2016 | Experiment, Paper |
 | [Is gesture impactful on the quality of spoken language?](https://drive.google.com/file/d/1YrWtOqAngOPlT5j9EOcxxc5x7F9_-8Kz/view?usp=sharing) | Line Emilie Brødsgaard Nørup & Lisa Victoria Schütten | 2017 | Experiment, Paper |
 | [A study on the sentiment and gender of Emoji](https://drive.google.com/file/d/10jou3ZVQVYFoHmfEjuWNqhSDRBN6j6By/view?usp=sharing) | Mikkel Werling & Carl-Magnus Søgaard Christiansen| 2017 | Experiment, Paper |
 | [Vegetarianism in Danish newspapers using sentiment analysis](https://drive.google.com/file/d/1AGApet-t7lkoDhmEc6oZ1t6pv9aoIHFk/view?usp=sharing) | Sebastian Scott Engen & Nina Mathilde Dyrberg | 2017 | Experiment, Paper |
@@ -38,7 +38,9 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.h
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| [Super Notes](https://drive.google.com/file/d/1n54zNcdgXTd0MVKY_RsLeSVsFP2BFoHu/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
+| [Printable Pictures](https://drive.google.com/file/d/1pZTEi0bEzhZ3nW1qqwPAXqEMRW0qBJ3-/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
+| [One-Page Summaries](https://drive.google.com/file/d/11T8yc7x6crsbcvKaZgxNgqNA8JYQX3kI/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
 
 {{< /details >}}
 
