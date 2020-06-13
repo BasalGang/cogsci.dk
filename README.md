@@ -34,17 +34,17 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Implementation and design
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Add the calendar
-- [ ] Implement exam paper database [Blanka / Sebastian]
+- [v] Implement exam paper database [Blanka / Sebastian]
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [ ] Change "The Library" to "The Local Library"
-- [ ] Fix the layour of the Courses List
+- [v] Change "The Library" to "The Local Library"
+- [ ] Fix the layout of the Courses List
 - [ ] Make the structure to the Formal Stuff
-- [ ] Q&A in the Programming section (maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/))
+- [v] Q&A in the Programming section (maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/))
 - [ ] Add "job opportuinities" to Career
 - [ ] Book Reccomendations: Fix layout
 - [ ] Remove Book Market
-- [ ] Move Brain Games to The Local Library
+- [v] Move Brain Games to The Local Library
 - [ ] Earlier Exam Projects: remove all "bunden eksamen" + write why
 - [ ] Earlier Exam Projects: add cognitive semiotics
 
