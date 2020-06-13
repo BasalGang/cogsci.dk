@@ -2,7 +2,7 @@
 weight: 8
 bookCollapseSection: true
 # bookFlatSection: true
-title: "The Library"
+title: "The Local Library"
 ---
 
-# The Library
+# The Local Library
