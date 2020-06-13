@@ -38,9 +38,9 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.h
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Super Notes](https://drive.google.com/file/d/1n54zNcdgXTd0MVKY_RsLeSVsFP2BFoHu/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
-| [Printable Pictures](https://drive.google.com/file/d/1pZTEi0bEzhZ3nW1qqwPAXqEMRW0qBJ3-/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
-| [One-Page Summaries](https://drive.google.com/file/d/11T8yc7x6crsbcvKaZgxNgqNA8JYQX3kI/view?usp=sharing) | Sebastian Scott Engen | 2017 | Paper |
+| [Super Notes](https://drive.google.com/file/d/1n54zNcdgXTd0MVKY_RsLeSVsFP2BFoHu/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [Printable Pictures](https://drive.google.com/file/d/1pZTEi0bEzhZ3nW1qqwPAXqEMRW0qBJ3-/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [One-Page Summaries](https://drive.google.com/file/d/11T8yc7x6crsbcvKaZgxNgqNA8JYQX3kI/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
 
 {{< /details >}}
 
@@ -50,31 +50,39 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.h
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
-{{< details title="Applied Cognitive Science" open=false >}} 
-Earlier: Introduction to Neuroscience ????
+{{< details title="Applied Cognitive Science (Previously: Introduction to Neuroscience)" open=false >}} 
 
 **Semester**: 2nd
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| [Notes +  Outlines](https://drive.google.com/file/d/1tHMhmFHyLBogQbVXLp5sXzHrozlblQ-y/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [Method Notes](https://drive.google.com/file/d/1H4XMaZbQAC61PUI3KdrV8pMJJBBsvdsD/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [One-Page Summaries](https://drive.google.com/file/d/10H7xJ8GRnfyVfLkD0s-AT6RCgb9c8rXu/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [Take-Home Messages](https://drive.google.com/file/d/1ixuVtMbUxpt8md2kNJA4TZF6chsWjnT6/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [Two-Page Summaries](https://drive.google.com/file/d/1kdWakp693P4xb7WQGz7_DQPAnUt5_0rE/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
+| [Chapter Summaries](https://drive.google.com/file/d/1wETU5z4MNZ8MsIMVcHu3rIpdfX_bcPNi/view?usp=sharing) | Sebastian Scott Engen | 2017 | Notes |
 
 {{< /details >}}
 
-{{< details title="Philosophy of Cognitive Science" open=false >}} 
-Earlier: Studium Generale ???
-
-[TODO was this studium generale or mind and consciousness before? We might want to add a "Previously: Studium Generale" bullet (or similar) so we can have old papers as well?]
+{{< details title="Philosophy of Cognitive Science (Previously:  Studium Generale)" open=false >}} 
 
 **Semester**: 2nd
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| [COGNITIVE SCIENCE IN THE CONTEXT OF KUHN’S MODEL OF PARADIGMS](https://drive.google.com/file/d/1rfgrZMLUY7zqYi-Zpe4uZqixnbuxwnl0/view?usp=sharing) | Caroline Kildahl Casey | 2017 | Paper |
+| [How Cognitive Science Can Contribute to Helping Psychology Out of the Crisis](https://drive.google.com/file/d/1SRomfMAxuB5DSzjD6_wdlQjEPT4Q4y3i/view?usp=sharing) | CAROLINE KJÆR BØRSTING | 2017 | Paper |
+| [Cognitive science in respect to Kuhn’s theory](https://drive.google.com/file/d/1fAyYh2U2_zDwEUxYi9PVRJUGD0KC3pQb/view?usp=sharing) | Esther Dyngby Jensen | 2017 | Paper |
+| [The Contributions of Cognitive Science Essay](https://drive.google.com/file/d/1F5d4p2_LzhTDR7KDWY1xB1OPV2T_xZo1/view?usp=sharing) | Hugh Benjamin Zachariae, | 2017 | Paper |
+| [Cognitive Science](https://drive.google.com/file/d/14KSa2zQfXBFqHH28piQtQg6GlC1wGvkJ/view?usp=sharing) | Kristian Larsen | 2017 | Paper |
+| [A vindication of psychological science](https://drive.google.com/file/d/19Py7EeAsK8S37hoFF9FtC-gQWcNCHqfJ/view?usp=sharing) | Ludvig Renbo Olsen| 2017 | Paper |
+| [Cognitive science and psychology: An advantageous relationship](https://drive.google.com/file/d/1FijDz2BkmrbTvaRMOv6zqcASAQfsN1P-/view?usp=sharing) | Maja Haugstrup From Andersen | 2017 | Paper |
+| [The Stage of Cognitive Science](https://drive.google.com/file/d/1Xq1_9EuW7hcbyHUTuBm8QN4YhsHHZAv-/view?usp=sharing) | Matilde Nesheim | 2017 | Paper |
 
 {{< /details >}}
 
@@ -84,7 +92,7 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -94,7 +102,10 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| [Exam Question](https://drive.google.com/file/d/1uukAK-1xXr8woYvSlRzUQS3SskDHxoYA/view?usp=sharing) | Sebastian Engen | 2019 | Notes |
+| [Exam File](https://drive.google.com/file/d/1UI-w4AVYT7hK6H2engSOHJVtAcuKgvqK/view?usp=sharing) | Sebastian Engen | 2019 | Notes |
+| [Exam Coding](https://drive.google.com/file/d/1Gw8wBkuw1cWc-emDxUTluB8wM_lVT6OZ/view?usp=sharing) | Sebastian Engen | 2019 | Notes |
+
 
 {{< /details >}}
 
@@ -104,7 +115,7 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -114,17 +125,18 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| [Talent Show](https://drive.google.com/file/d/1c55WUQYwzopwYTnizBbC4v7PTc5f-SFp/view?usp=sharing) | Sebastian Scott Engen | 2019 | Paper |
+| [Exam Ideas](https://docs.google.com/document/d/1PdP2AMbYHduwFXQIwTcaLNJqTzwWB9ZmIESEKp5aXT8/edit?usp=sharing) | Riccardo Fusaroli | 2020 | Ideas |
 
 {{< /details >}}
 
-{{< details title="Cognitive Neuroscience" open=false >}} 
+{{< details title="Cognitive Neuroscience (Previously: Mind and Consciousness)" open=false >}} 
 
 **Semester**: 4th
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -134,7 +146,7 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -144,7 +156,12 @@ Earlier: Studium Generale ???
 
 | Title + Link                                                                                                                                                                          | Authors            | When     | Type                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------- | :------- | :-------------------- |
-| [Automatically diagnosing mental disorders from voice - a deep learning approach](Automatically-diagnosing-mental-disorders-from-voice-Ludvig-Olsen-bachelor-thesis-correction#1.pdf) | Ludvig Renbo Olsen | Jun 2018 | Data Analysis, Thesis |
+| [Automatically diagnosing mental disorders from voice - a deep learning approach](https://drive.google.com/file/d/1W5RFcPN9-eHgyPLlWxROgKFdGn2EglO-/view?usp=sharing) | Ludvig Renbo Olsen | 2018 | Data Analysis, Thesis |
+| [COMPARING HUMANS TO MICE](https://drive.google.com/file/d/1xbbdUxdozPlOmD7c8FpLvEUUdAXDf_68/view?usp=sharing) | Maris Sala | 2018 | Data Analysis, Thesis |
+| [Kamin-blocking in children with Autism Spectrum Disorder](Ahttps://drive.google.com/file/d/1pDb00v5GMTLvej-aQhy9RU1OMoY-PFf7/view?usp=sharing) | Blanka Sara Palfi | 2018 | Data Analysis, Thesis |
+| [Perception of robot faces](https://drive.google.com/file/d/1Vko9BM5GUeknejw787ITqITfvsuXiXbp/view?usp=sharing) | Anna Agermose Hinrichsen & Amalie Holm Lund Sørensen | 2018 | Data Analysis, Thesis |
+| [SiRToM: An implementation of computational Theory of Mind in R](https://drive.google.com/file/d/1ws8nPArGU6tuPJnZvSJtZhg-nQ8UKQ1j/view?usp=sharing) | Kenneth Enevoldsen & Peter Waade | 2018 | Data Analysis, Thesis |
+| [Emotional Metamemory](https://drive.google.com/file/d/1BasJOjgzoYSQmx2tPWYOT5Sl5CuZH6xE/view?usp=sharing) | Sebastian Scott Engen | 2019 | Data Analysis, Thesis |
 
 {{< /details >}}
 
@@ -157,7 +174,7 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -167,7 +184,7 @@ Earlier: Studium Generale ???
 
 | Title + Link                                               | Authors              | When     | Type  |
 | :--------------------------------------------------------- | :------------------- | :------- | :---- |
-| [Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) | Lord Pope the Second | May 2020 | Paper |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -185,13 +202,9 @@ Earlier: Studium Generale ???
 
 **Semester**: 2nd
 
-None yet
-
-<!--
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
--->
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -199,13 +212,9 @@ None yet
 
 **Semester**: 2nd
 
-None yet
-
-<!--
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
--->
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -213,13 +222,9 @@ None yet
 
 **Semester**: 2nd
 
-None yet
-
-<!--
-|Title + Link |Authors |When |Type |
-|:------------|:-------|:----|:----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |Paper |
--->
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| Nothing yet | Lord Pope the Second | 2030 | Wow |
 
 {{< /details >}}
 
@@ -229,10 +234,8 @@ None yet
 
 None yet
 
-<!--
-|Title + Link |Authors | When |
-|:------------|:-------|:-----|
-|[Interesting exam title 1](/earlier-exams/link_to_pdf.pdf) |Lord Pope the Second |May 2020 |
--->
+| Title + Link                                               | Authors              | When     | Type  |
+| :--------------------------------------------------------- | :------------------- | :------- | :---- |
+| [Thesis Ideas](https://docs.google.com/spreadsheets/d/19bTsm_Ue7OH7kJbhNar4tuiiHWqf7LC5Y8y2V3__8VY/edit#gid=0) | 1st Year | 2020 | Ideas |
 
 {{< /details >}}
