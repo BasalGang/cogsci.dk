@@ -32,6 +32,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ## TO DO
 
 - [ ] Fix link to blog (the Attention Spotlight)
+- [ ] Embed calendar
+- [ ] Make website cooler
 - [x] Domain name: cogsci.dk
 - [ ] Implement comments
 - [x] Career section
