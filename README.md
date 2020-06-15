@@ -4,8 +4,6 @@ Content for the Website of Cognitive Science Students at Aarhus University.
 
 ## ANNOUNCEMENTS
 
-A1: Added TODO tasks - refer to those to choose a random task you want to take up
-
 **WORK IN PROGRESS**
 
 You can host the site locally by running the HostSiteLocally.Rmd, after what, you can
@@ -57,12 +55,14 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Fix the link to the blog
 - [ ] Update the logo link to the actual front page
 - [ ] Move Careers tab to be above Contact tab
-- [ ] Deamphasize names list
+- [ ] Deemphasize names list
 - [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
 - [ ] CogProductions: remove "CogPodcast"
 - [ ] Change "Formal Stuff" to "Academic Stuff"
 - [ ] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
+- [ ] Find a way to use Shiny in Blogdown
+- [ ] Set up the upload/download structure for the Exam Database Shiny script
 
 ### Critical: Content creation
 - [ ] Gather exam paper database
@@ -77,11 +77,12 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Formal Stuff: make a page with links etc.
 - [ ] Formal Stuff: add link overview for mit.au, autumnschedule, scientia etc.
 
-### Critical: Visual design
+### Visual design
 - [ ] Use a placeholder logo
 - [ ] Create a cool logo
 - [ ] Find a good color scheme
 - [ ] Implement the color scheme
+- [ ] Add little icons to each section
 
 ### Critical: Correspondence
 - [ ] Assign some CogBloggers
@@ -104,4 +105,5 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Make a CogPodcast
 - Philosophy Podcast (?)
 - Personalized logins
+- Make Logo Competition
 
