@@ -71,6 +71,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Check if its okay to share the online courses/platforms
 
 ### Critical: Visual design
+- [ ] Use a placeholder logo
 - [ ] Create a cool logo
 - [ ] Find a good color scheme
 - [ ] Implement the color scheme
