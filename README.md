@@ -4,8 +4,6 @@ Content for the Website of Cognitive Science Students at Aarhus University.
 
 ## ANNOUNCEMENTS
 
-A1: Added TODO tasks - refer to those to choose a random task you want to take up
-
 **WORK IN PROGRESS**
 
 You can host the site locally by running the HostSiteLocally.Rmd, after what, you can
@@ -31,6 +29,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
+<<<<<<< HEAD
 - [ ] Fix link to blog (the Attention Spotlight)
 - [ ] Embed calendar
 - [ ] Make website cooler
@@ -47,44 +46,83 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [x] Check the blog implementation (another header)
 - [x] Remove the duplicate front page
 - [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
+=======
+### Critical: Implementation and design
+- [ ] Set up the blog structure (tags, categories etc.)
+- [ ] Add the calendar
+- [ ] Fix the interesting videos list (split it into tutorials and talks)
+- [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
+- [ ] Fix the layout of the Courses List
+- [ ] Make the structure to the Formal Stuff
+- [ ] Add "job opportuinities" to Career
+- [ ] Book Reccomendations: Fix layout
+- [ ] Remove Book Market
+- [ ] Earlier Exam Projects: split into "Student Projects" and "exam examples"
+- [ ] Earlier Exam Projects: Student Projects: remove all "bunden eksamen"
+- [ ] Earlier Exam Projects: Student Projects: reminder that it can be plagiarized yet
+- [ ] Earlier Exam Projects: Student Projects: add cognitive semiotics
+- [ ] Earlier Exam Projects: Exam Examples: add copyright
+- [ ] Earlier Exam Projects: Exam Examples: add rules for adding person names
+- [ ] Earlier Exam Projects: Student Projects: make an "older courses" category
+- [ ] Set up "people" in Hugo or similar
+- [ ] Make intro page to tabs follow the same structure everywhere
+- [ ] Formal Stuff: split into Master's and Bachelor's
+- [ ] Fix the contacts thing
+
+### Critical: Technical issues
+- [ ] Fix the link to the blog
+>>>>>>> 65538519669209b3fb03198b26c9651524894fd7
 - [ ] Update the logo link to the actual front page
-- [ ] Rewrite the structure of the online courses list: Categories on the right side, 2 lines for each course [hyperlink title]([publisher]) -> [description]
-- [x] Rename the blog to Attention Spotlight or something like that
-- [ ] Ensure articles for the blog
-- [x] Remove file clutter (folders with one sub-page)
-- [ ] Reinforced learning front page: Introduction and massive lists of resources
-- [x] Remove the Attention Spotlight and replace with the Blog (keep the neural network calendar)
-- [x] Move book market and AU environment to Social System
-- [x] Create a level 1 called formal stuff
-- [x] The data frame (Library) is for old data things
-- [ ] University courses list under formal stuff
-- [x] Add the Study Café
-- [ ] Set up the blog structure (categories, tags, etc.)
-- [x] Add a "found a mistake" button --> link to the Issues page on Gitlab
-- [x] Simplify simplify simplify on the left side - remove third level and reduce reduce
-- [ ] Create designs for the page (e.g banner images on the front page or in the neural network page)
-- [x] Write the markdown tutorial
-- [x] Write the gitlab tutorial for contributing to the website
-- [x] Specificize the contribution pages so it's _very easy_ to contribute
-- [ ] The Time of Content is Upon Us
-- [x] Write all the teachers: Favorite books etc.
-- [ ] Embedding the calendar
-- [x] Decide a good file structure for the Amazing Lists Of Everything
-- [x] Implement one list as a prototype
-- [x] Implement the hugo-book theme
-- [x] Implement a basic hierarchical structure
-- [x] Write an example blog post in the "posts" folder
-- [x] Write instructions on shortcodes
-- [x] Write instructions on writing a blog post
-- [x] Write instructions on page settings
-- [x] Merge the esben branch and delete esben branch
-- [x] Write a sample list in the list of everything (online courses list)
-- [x] Rename the data frame to the library
+- [ ] Move Careers tab to be above Contact tab
+- [ ] Deemphasize names list
+- [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
+- [ ] Formal Stuff: Academic Regulations link, make it link to the search page
+- [ ] CogProductions: remove "CogPodcast"
+- [ ] Change "Formal Stuff" to "Academic Stuff"
+- [ ] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
+- [ ] Find a way to use Shiny in Blogdown
+- [ ] Set up the upload/download structure for the Exam Database Shiny script
 
-## Links and possible implementations
-
-- [x] Initial collection of R packages: https://docs.google.com/spreadsheets/d/10a2JWhNXYrrt1N-kNr0LB8fGvKwHcWhf6VdUBz8wCCE/edit#gid=0
+### Critical: Content creation
+- [ ] Gather exam paper database
+- [ ] Write a nice front page
+- [ ] Add online courses to the online courses list
+- [ ] Write the reinforced learning front page
+- [ ] Write Social System front page
+- [ ] Set up the Career Tab
 - [ ] The IV-fag list from Anna Stuckert (LINK)
-- [x] Online courses lists from Esben Kran (LINK)
-- [ ] YouTube video list by Peter (LNK)
 - [ ] Data Elixir (EPIIC)
+- [ ] Create International Support content
+- [ ] Formal Stuff: make a page with links etc.
+- [ ] Formal Stuff: add link overview for mit.au, autumnschedule, scientia etc.
+
+### Visual design
+- [ ] Use a placeholder logo
+- [ ] Create a cool logo
+- [ ] Find a good color scheme
+- [ ] Implement the color scheme
+- [ ] Add little icons to each section
+
+### Critical: Correspondence
+- [ ] Assign some CogBloggers
+- [ ] Create the domain: cogsci.dk
+- [ ] Check if its okay to share the online courses/platforms
+- [ ] Ask Orla about International Support content
+- [ ] Talk to Rebekah/Millie about a job-position-blog thing
+
+
+
+
+### Ideas for the future
+- Mental Health page [Blanka]
+- List of interesting papers (Zotero-based)
+- Lecture recordings
+- Exam papers: social functionality
+- Exam papers: inspirational tree structure
+- Add commenting function to the blog - discuss moderation options
+- Add a Stackexchange (CogExchange) for Cognitive Science students
+- Make a CogPodcast
+- Philosophy Podcast (?)
+- Personalized logins
+- Make Logo Competition
+

@@ -2,7 +2,6 @@
 weight: 10
 title: "Tools"
 ---
-
 # Programs
 
 {{< details title="Rstudio" open=false >}}
