@@ -103,4 +103,5 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Add a Stackexchange (CogExchange) for Cognitive Science students
 - Make a CogPodcast
 - Philosophy Podcast (?)
+- Personalized logins
 
