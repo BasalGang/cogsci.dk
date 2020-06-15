@@ -34,25 +34,35 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Implementation and design
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Add the calendar
-- [v] Implement exam paper database [Blanka / Sebastian]
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [v] Change "The Library" to "The Local Library"
 - [ ] Fix the layout of the Courses List
 - [ ] Make the structure to the Formal Stuff
-- [v] Q&A in the Programming section (maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/))
 - [ ] Add "job opportuinities" to Career
 - [ ] Book Reccomendations: Fix layout
 - [ ] Remove Book Market
-- [v] Move Brain Games to The Local Library
-- [ ] Earlier Exam Projects: remove all "bunden eksamen" + write why
-- [ ] Earlier Exam Projects: add cognitive semiotics
+- [ ] Earlier Exam Projects: split into "Student Projects" and "exam examples"
+- [ ] Earlier Exam Projects: Student Projects: remove all "bunden eksamen"
+- [ ] Earlier Exam Projects: Student Projects: reminder that it can be plagiarized yet
+- [ ] Earlier Exam Projects: Student Projects: add cognitive semiotics
+- [ ] Earlier Exam Projects: Exam Examples: add copyright
+- [ ] Earlier Exam Projects: Exam Examples: add rules for adding person names
+- [ ] Earlier Exam Projects: Student Projects: make an "older courses" category
+- [ ] Set up "people" in Hugo or similar
+- [ ] Make intro page to tabs follow the same structure everywhere
+- [ ] Formal Stuff: split into Master's and Bachelor's
+- [ ] Fix the contacts thing
 
 ### Critical: Technical issues
 - [ ] Fix the link to the blog
 - [ ] Update the logo link to the actual front page
 - [ ] Move Careers tab to be above Contact tab
 - [ ] Deamphasize names list
+- [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
+- [ ] Formal Stuff: Academic Regulations link, make it link to the search page
+- [ ] CogProductions: remove "CogPodcast"
+- [ ] Change "Formal Stuff" to "Academic Stuff"
+- [ ] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
 
 ### Critical: Content creation
 - [ ] Gather exam paper database
@@ -62,19 +72,25 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Write Social System front page
 - [ ] Set up the Career Tab
 - [ ] The IV-fag list from Anna Stuckert (LINK)
-- [ ] YouTube video list by Peter (LNK)
 - [ ] Data Elixir (EPIIC)
-
-### Critical: Correspondence
-- [ ] Assign some CogBloggers
-- [ ] Create the domain: cogsci.dk
-- [ ] Check if its okay to share the online courses/platforms
+- [ ] Create International Support content
+- [ ] Formal Stuff: make a page with links etc.
+- [ ] Formal Stuff: add link overview for mit.au, autumnschedule, scientia etc.
 
 ### Critical: Visual design
 - [ ] Use a placeholder logo
 - [ ] Create a cool logo
 - [ ] Find a good color scheme
 - [ ] Implement the color scheme
+
+### Critical: Correspondence
+- [ ] Assign some CogBloggers
+- [ ] Create the domain: cogsci.dk
+- [ ] Check if its okay to share the online courses/platforms
+- [ ] Ask Orla about International Support content
+- [ ] Talk to Rebekah/Millie about a job-position-blog thing
+
+
 
 
 ### Ideas for the future
@@ -85,4 +101,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Exam papers: inspirational tree structure
 - Add commenting function to the blog - discuss moderation options
 - Add a Stackexchange (CogExchange) for Cognitive Science students
+- Make a CogPodcast
+- Philosophy Podcast (?)
 
