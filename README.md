@@ -29,24 +29,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
-<<<<<<< HEAD
-- [ ] Fix link to blog (the Attention Spotlight)
-- [ ] Embed calendar
-- [ ] Make website cooler
-- [x] Domain name: cogsci.dk
-- [ ] Implement comments
-- [x] Career section
-- [ ] Alumni page [content]
-- [x] Hosting of website
-- [ ] HCI project, Sebastian and Blanka
-- [ ] Write a nice front page
-- [x] Data storage
-- [ ] Blanka: Anonymous posts - mental health etc.
-- [ ] Zotero of awesome papers (to link to etc.) - nice-to-have
-- [x] Check the blog implementation (another header)
-- [x] Remove the duplicate front page
-- [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
-=======
 ### Critical: Implementation and design
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Add the calendar
@@ -71,7 +53,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Technical issues
 - [ ] Fix the link to the blog
->>>>>>> 65538519669209b3fb03198b26c9651524894fd7
 - [ ] Update the logo link to the actual front page
 - [ ] Move Careers tab to be above Contact tab
 - [ ] Deemphasize names list
