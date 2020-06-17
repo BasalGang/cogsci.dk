@@ -19,15 +19,6 @@ by and for students of Cognitive Science at Aarhus
 University, Denmark. The website is actively maintained
 and updated by the community and the core team <3
 
-- Arnault-Quentin Vermillet, organization
-- Peter Thestrup Waade, content and sanity checks
-- Esben Kran, tech and content
-- Malte Lau Pedersen, tech
-- Sebastian Scott Engen, content
-- Millie Søndergaard, career
-- Ludvig Olsen, external supervisor
-- Blanka Pálfi, content and mental health
-
 ## How can I help?
 
 You can do one or more of the following:
@@ -36,7 +27,7 @@ You can do one or more of the following:
 - Write or propose a page to add to the website
 - Write a [blog post on CogSite](docs/contribute/writing-on-the-cogsite)
 - Add your [exam project on the CogSite](docs/contribute)
-- Propose other cool things to add (can be **anything**) - contact us [here](docs/contact)
+- Propose other cool things to add (can be **anything**)
 
 Information on writing the documents on this website
 can be found in the [Contribute](docs/contribute) section.
