@@ -3,7 +3,7 @@ baseURL = "/CogSite/"
 # theme
 theme = "hugo-book-local"
 # site title
-title = "CogSci"
+title = ""
 
 # Book configuration
 disablePathToLower = true
