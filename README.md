@@ -41,7 +41,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
     - remind that online things are found by plagiarism detectors
     - add cognitive semiotics exams
     - add "old exams" category
-- [ ] Set up "people" in Hugo
 - [ ] Make intro page to tabs follow the same structure everywhere
 - [ ] Formal Stuff: split into Master's and Bachelor's
 - [ ] Fix the contacts thing
