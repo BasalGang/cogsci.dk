@@ -51,3 +51,15 @@ An educational resource that makes it easier to learn about deep reinforcement l
 
 https://spinningup.openai.com/en/latest/user/installation.html
 {{< /details >}}
+
+{{< details title="Complexity Explorer" open=false >}}
+Online home for Santa Fe Institute's learning resources, including courses and tutorials on complexit- related topics.
+
+https://www.complexityexplorer.org/
+{{< /details >}}
+
+{{< details title="Neurocourses UK" open=false >}}
+A website gathering various kinds of online courses on neuroscience
+
+https://www.neurocourses.com/online-courses/ 
+{{< /details >}}

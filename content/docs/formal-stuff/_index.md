@@ -2,7 +2,7 @@
 weight: 8
 bookCollapseSection: true
 # bookFlatSection: true
-title: "Formal Stuff"
+title: "Academic Support"
 ---
 
 # Formal Stuff

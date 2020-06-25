@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: "List of Interesting Videos"
+title: "Video tutorials"
 ---
 # Language
 
