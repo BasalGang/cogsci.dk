@@ -38,7 +38,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Make the structure to the Formal Stuff
 - [ ] Add "job opportuinities" to Career
 - [ ] Book Reccomendations: Fix layout
-- [ ] Remove Book Market
 - [ ] Earlier Exam Projects: split into "Student Projects" and "exam examples"
 - [ ] Earlier Exam Projects: Student Projects: remove all "bunden eksamen"
 - [ ] Earlier Exam Projects: Student Projects: reminder that it can be plagiarized yet
