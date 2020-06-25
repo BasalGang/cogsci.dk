@@ -1,9 +1,9 @@
 # provide your domain here
 baseURL = "/CogSite/"
 # theme
-theme = "book"
+theme = "hugo-book-local"
 # site title
-title = ""
+title = "CogSci"
 
 # Book configuration
 disablePathToLower = true
