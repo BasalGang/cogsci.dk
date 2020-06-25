@@ -1,11 +1,11 @@
 ---
-author: "Esben Kran"
+author: "Author"
 date: 2020-05-05
 title: This is a cool blog post
 next: /next-blog-post-name-with-hyphens
 prev: /previous-blog-post-name
-categories: ["Contribute"]
-tags: ["Examples"]
+categories: ["contribute"]
+tags: ["example"]
 bookHidden: true
 ---
 
