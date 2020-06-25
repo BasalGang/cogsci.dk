@@ -29,34 +29,14 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ## TO DO
 
-<<<<<<< HEAD
-- [ ] Fix link to blog (the Attention Spotlight)
-- [ ] Embed calendar
-- [ ] Make website cooler
-- [x] Domain name: cogsci.dk
-- [ ] Implement comments
-- [x] Career section
-- [ ] Alumni page [content]
-- [x] Hosting of website
-- [ ] HCI project, Sebastian and Blanka
-- [ ] Write a nice front page
-- [x] Data storage
-- [ ] Blanka: Anonymous posts - mental health etc.
-- [ ] Zotero of awesome papers (to link to etc.) - nice-to-have
-- [x] Check the blog implementation (another header)
-- [x] Remove the duplicate front page
-- [ ] Q&A in the Programming section - maybe embed [this Facebook group](https://www.facebook.com/groups/340151913001608/)
-=======
 ### Critical: Implementation and design
+
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Add the calendar
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [ ] Fix the layout of the Courses List
-- [ ] Make the structure to the Formal Stuff
 - [ ] Add "job opportuinities" to Career
 - [ ] Book Reccomendations: Fix layout
-- [ ] Remove Book Market
 - [ ] Earlier Exam Projects: split into "Student Projects" and "exam examples"
 - [ ] Earlier Exam Projects: Student Projects: remove all "bunden eksamen"
 - [ ] Earlier Exam Projects: Student Projects: reminder that it can be plagiarized yet
@@ -70,22 +50,21 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Fix the contacts thing
 
 ### Critical: Technical issues
+
 - [ ] Fix the link to the blog
->>>>>>> 65538519669209b3fb03198b26c9651524894fd7
-- [ ] Update the logo link to the actual front page
-- [ ] Move Careers tab to be above Contact tab
-- [ ] Deemphasize names list
-- [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
-- [ ] CogProductions: remove "CogPodcast"
-- [ ] Change "Formal Stuff" to "Academic Stuff"
-- [ ] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
+<<<<<<< HEAD
+- [x] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
+- [x] Find a way to use Shiny in Blogdown
+=======
 - [ ] Find a way to use Shiny in Blogdown
+>>>>>>> 8ef0648013341b2f34278133556dece26a47e400
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
 
 ### Critical: Content creation
+
 - [ ] Gather exam paper database
-- [ ] Write a nice front page
+- [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
 - [ ] Write Social System front page
@@ -97,6 +76,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Formal Stuff: add link overview for mit.au, autumnschedule, scientia etc.
 
 ### Visual design
+
 - [ ] Use a placeholder logo
 - [ ] Create a cool logo
 - [ ] Find a good color scheme
@@ -104,16 +84,15 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Add little icons to each section
 
 ### Critical: Correspondence
+
 - [ ] Assign some CogBloggers
 - [ ] Create the domain: cogsci.dk
 - [ ] Check if its okay to share the online courses/platforms
 - [ ] Ask Orla about International Support content
 - [ ] Talk to Rebekah/Millie about a job-position-blog thing
 
-
-
-
 ### Ideas for the future
+
 - Mental Health page [Blanka]
 - List of interesting papers (Zotero-based)
 - Lecture recordings
@@ -125,4 +104,3 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Philosophy Podcast (?)
 - Personalized logins
 - Make Logo Competition
-

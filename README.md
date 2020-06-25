@@ -52,11 +52,13 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Technical issues
 
 - [ ] Fix the link to the blog
-- [ ] Update the logo link to the actual front page
-- [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
+<<<<<<< HEAD
 - [x] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
 - [x] Find a way to use Shiny in Blogdown
+=======
+- [ ] Find a way to use Shiny in Blogdown
+>>>>>>> 8ef0648013341b2f34278133556dece26a47e400
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
 
 ### Critical: Content creation
