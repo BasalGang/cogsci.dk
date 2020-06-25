@@ -59,7 +59,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Content creation
 - [ ] Gather exam paper database
-- [ ] Write a nice front page
+- [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
 - [ ] Write Social System front page
