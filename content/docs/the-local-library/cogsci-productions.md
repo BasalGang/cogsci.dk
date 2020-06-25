@@ -46,9 +46,3 @@ title: "CogSci Productions"
 {{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
 {{< youtube SeXONznYB0s >}}
 {{< /details >}}
-
-## CogPodcasts
-
-_Under construction_
-
-![Under construction sign](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png)

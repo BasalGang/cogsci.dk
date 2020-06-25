@@ -1,6 +1,6 @@
 ---
 # bookFlatSection: true
-title: "Exam Help"
+title: "Earlier Student Exam Projects"
 ---
 
 # Earlier exam projects
