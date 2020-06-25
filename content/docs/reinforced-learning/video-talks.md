@@ -2,6 +2,70 @@
 weight: 7
 title: "Interesting videos"
 ---
+
+#Video lectures
+
+{{< details title="Language" open=false >}}
+Psycholinguist Steven Pinker talks about how language both transmits information and reflects social relations.
+https://www.ted.com/talks/steven_pinker_what_our_language_habits_reveal/up-next?language=en
+
+Cognitive linguist Lera Boroditsky talks about the influence of our language on our mind.
+
+{{< /details >}}
+
+
+#Video tutorials
+
+
+#Podcasts
+
+
+
+
+#Language
+{{< details title="Video Lectures" open=false >}}
+
+title
+link
+
+title
+link
+
+{{< /details >}}
+
+{{< details title="Video Tutorials" open=false >}}
+
+title
+link
+
+title
+link
+
+{{< /details >}}
+
+{{< details title="Podcasts" open=false >}}
+
+title
+link
+
+title
+link
+
+{{< /details >}}
+
+#Emotion
+
+
+
+
+
+
+
+
+
+
+
+
 # Language
 
 {{< details title="Steven Pinker: What Our Language Habits Reveal" open=false >}}
