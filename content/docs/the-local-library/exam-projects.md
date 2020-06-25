@@ -16,7 +16,7 @@ Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.h
 
 ## Upload your exams here
 
-<iframe height="800" width="100%" frameborder="no" src="https://antoinesoetewey.shinyapps.io/statistics-201/"> </iframe>
+`A Shiny app for uploading your exams will be embedded here in a later update.`
 
 ## Bachelor
 
