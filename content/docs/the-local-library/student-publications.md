@@ -36,6 +36,22 @@ data in order to analyse more parties and newspapers.
 
 {{< /details >}}
 
+{{< details title="Emotional Metacognition: Stimulus Valence Modulates Cardiac Arousal and Metamemory" open=false >}}
+
+[Link](https://www.biorxiv.org/content/10.1101/2020.06.10.144428v1.full)
+
+By Sebastian Scott Engen
+
+2020
+
+Cognition and Emotion
+
+---
+
+Emotion alters how we feel, see, and experience the world. In the domain of memory, the emotional valence and arousal of memorized stimuli can modulate both the acuity and content of episodic recall. However, no experiment has investigated whether arousal and valence also influence metacognition for memory (i.e., the process of self-monitoring memories). In a pre-registered study, we applied a novel psychophysiological design together with computational models of metacognition to assess the influence of stimulus valence and arousal on the sensitivity, bias, and efficiency of metamemory. To estimate the role of physiological arousal in mediating these effects, we recorded cardiac measures through pulse oximetry. We found that negative valence globally and substantially decreased both memory performance and subjective confidence, in particular for low-arousal words. Simultaneously, we found that emotional valence modulated both heart rate and heart-rate variability (HRV), indicating a robust effect of negative valence on physiological arousal during recognition memory. Exploratory trial-level analyses further revealed that subjective confidence was encoded in instantaneous heart-rate fluctuations, and that this relationship was modulated by emotional valence. Our results demonstrate that both recognition memory and metacognition are influenced by the emotional contents of encoded items and that this correlation is in part related to cardiac activity.
+
+{{< /details >}}
+
 {{< details title="Sentida: A New Tool for Sentiment Analysis in Danish" open=false >}}
 
 [Link](https://tidsskrift.dk/lwo/article/view/115711)
