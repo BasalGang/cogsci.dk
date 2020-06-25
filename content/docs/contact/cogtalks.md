@@ -5,12 +5,8 @@ title: "CogTalks"
 ---
 
 # CogTalks
+Youtube Channel: https://www.youtube.com/channel/UCklZyiAQzHessYsBICASC8A
+Twitch Channel: https://www.twitch.tv/cogscidk
+Contact: Snuggle.hogwarts@gmail.com & contact@esbenkc.com
 
-Sample text with a sample list:
-
-- [x] Sample list item with checkbox
-- [ ] Sample list item with unchecked checkbox?
-
-```
-# Just some sample code block
 ```
