@@ -9,7 +9,7 @@ title: "Contact"
 
 You are always welcome to contact the people who are currently working on the wbsite. Help is always welcome! 
 
-Email: cogscidk@gmail.com (not currently active)
+Email: cogscidk@gmail.com
 
 Current contributors:
 

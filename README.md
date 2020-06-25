@@ -47,19 +47,16 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] CogProductions: Have newest talks first
 - [ ] Rename “hidden-example" to "hidden"
 - [ ] Move exam database non-shiny version to "hidden"
-- [x] Earlier Exam Projects: split into "Student Projects" and "exam examples"
 
 ### Critical: Technical issues
 
 - [ ] Fix the link to the blog
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
-- [x] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
-- [x] Find a way to use Shiny in Blogdown
 
 ### Critical: Content creation
 
-- [ ] Gather exam paper database
+- [x] Gather exam paper database
 - [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
@@ -73,8 +70,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Visual design
 
-- [ ] Use a placeholder logo
-- [ ] Create a cool logo
 - [ ] Find a good color scheme
 - [ ] Implement the color scheme
 - [ ] Add little icons to each section
@@ -84,8 +79,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Assign some CogBloggers
 - [ ] Create the domain: cogsci.dk
 - [ ] Check if its okay to share the online courses/platforms
-- [ ] Ask Orla about International Support content
-- [ ] Talk to Rebekah/Millie about a job-position-blog thing
 
 ### Ideas for the future
 
