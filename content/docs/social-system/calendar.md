@@ -1,7 +1,7 @@
 ---
 weight: 10
 # bookFlatSection: true
-title: "CogSci productions"
+title: "Academic Event Calendar"
 ---
 
 # Neural Network calendar
