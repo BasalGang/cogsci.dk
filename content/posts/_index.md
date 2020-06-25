@@ -1,4 +1,7 @@
 ---
-weight: 5
-title: The Attention Spotlight
+menu:
+  after:
+    name: blog
+    weight: 5
+title: Blog
 ---

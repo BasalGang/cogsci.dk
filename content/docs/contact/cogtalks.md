@@ -5,8 +5,8 @@ title: "CogTalks"
 ---
 
 # CogTalks
-Youtube Channel: https://www.youtube.com/channel/UCklZyiAQzHessYsBICASC8A
-Twitch Channel: https://www.twitch.tv/cogscidk
-Contact: Snuggle.hogwarts@gmail.com & contact@esbenkc.com
+Youtube Channel: https://www.youtube.com/channel/UCklZyiAQzHessYsBICASC8A <br/>
+Twitch Channel: https://www.twitch.tv/cogscidk <br/>
+Contact: Snuggle.hogwarts@gmail.com & contact@esbenkc.com <br/>
 
 ```
