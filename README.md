@@ -53,12 +53,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 - [ ] Fix the link to the blog
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
-<<<<<<< HEAD
 - [x] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
 - [x] Find a way to use Shiny in Blogdown
-=======
-- [ ] Find a way to use Shiny in Blogdown
->>>>>>> 8ef0648013341b2f34278133556dece26a47e400
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
 
 ### Critical: Content creation
