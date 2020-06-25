@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 4
 title: "Social system"
 bookCollapseSection: true
 ---
