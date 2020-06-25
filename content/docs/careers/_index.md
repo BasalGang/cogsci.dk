@@ -1,8 +1,8 @@
 ---
-weight: 15
+weight: 9
 bookCollapseSection: true
 # bookFlatSection: true
-title: "Careers"
+title: "The Career Path"
 ---
 
 # Careers
