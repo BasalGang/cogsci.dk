@@ -120,7 +120,7 @@ before enrolling in this course, although this course is completely self-contain
 
 {{< details title="Data Analysis for Social Scientists" open=false >}}
 
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link: <https://www.edx.org/course/data-analysis-for-social-scientists>
@@ -159,7 +159,7 @@ preview](https://www.dropbox.com/sh/op0yjn65cxsocgb/AAAcRZM8XiABXSgaE-DfesTta/14
 {{< details title="Making Data Driven Decisions" open=false >}}
 
 - Data Science and Big Data Analytics
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [MIT xPRO](https://web.mit.edu/)
 - Link:
@@ -292,7 +292,7 @@ and distance learners interested in learning how the brain processes information
 {{< details title="Machine Learning with Python" open=false >}}
 
 - ...from Linear Models to Deep Learning
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link:
@@ -412,7 +412,7 @@ vision, medical informatics, audio, database mining, and other areas.
 {{< details title="Engineering with AI" open=false >}}
 
 - Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [MIT xPRO](https://web.mit.edu/)
 - Link:
@@ -534,7 +534,7 @@ Reinforcement Learning series
 
 {{< details title="Minds and Machines" open=false >}}
 
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link: <https://www.edx.org/course/minds-and-machines>
@@ -603,7 +603,7 @@ truth-assignment to its variables that makes the expression itself true.
 
 {{< details title="Principles of Synthetic Biology" open=false >}}
 
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link: <https://www.edx.org/course/principles-of-synthetic-biology>
@@ -634,7 +634,7 @@ promising future!
 
 {{< details title="Optical Materials and Devices" open=false >}}
 
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link: <https://www.edx.org/course/optical-materials-and-devices>
@@ -660,7 +660,7 @@ Devices](https://www.edx.org/course/magnetic-materials-devices-mitx-3-15-3x#!)
 
 {{< details title="Global Warming Science" open=false >}}
 
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link:
@@ -681,7 +681,7 @@ preparation in college-level calculus and physics.
 {{< details title="Global Health Informatics" open=false >}}
 
 - ...to Improve Quality of Care
-- Instructor: [MIT (Massachusetts Institute of
+- Instructor: [MIT Courseware (Massachusetts Institute of
   Technology)](https://www.mit.edu/)
 - Publisher: [EdX](https://www.edx.org/)
 - Link:

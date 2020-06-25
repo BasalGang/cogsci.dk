@@ -17,7 +17,7 @@ https://www.codecademy.com
 {{< /details >}}
 
 {{< details title="MIT" open=false >}}
-OpenCourseware - Take An MIT course online
+MIT OpenCourseware - Take An MIT course online
 
 https://ocw.mit.edu/index.htm
 {{< /details >}}

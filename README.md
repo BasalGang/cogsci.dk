@@ -30,37 +30,37 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ## TO DO
 
 ### Critical: Implementation and design
+
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Add the calendar
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [ ] Add "job opportuinities" to Career
 - [ ] Book Reccomendations: Fix layout
-- [ ] Earlier Exam Projects: split into "Student Projects" and "exam examples"
-- [ ] Earlier Exam Projects: Student Projects: remove all "bunden eksamen"
-- [ ] Earlier Exam Projects: Student Projects: reminder that it can be plagiarized yet
-- [ ] Earlier Exam Projects: Student Projects: add cognitive semiotics
-- [ ] Earlier Exam Projects: Exam Examples: add copyright
-- [ ] Earlier Exam Projects: Exam Examples: add rules for adding person names
-- [ ] Earlier Exam Projects: Student Projects: make an "older courses" category
-- [ ] Set up "people" in Hugo or similar
+- [ ] Update exam database shiny:
+    - remove "bunden eksamen"
+    - remind that online things are found by plagiarism detectors
+    - add cognitive semiotics exams
+    - add "old exams" category
 - [ ] Make intro page to tabs follow the same structure everywhere
 - [ ] Formal Stuff: split into Master's and Bachelor's
 - [ ] Fix the contacts thing
+- [ ] CogProductions: Have newest talks first
+- [ ] Rename “hidden-example" to "hidden"
+- [ ] Move exam database non-shiny version to "hidden"
+- [x] Earlier Exam Projects: split into "Student Projects" and "exam examples"
 
 ### Critical: Technical issues
+
 - [ ] Fix the link to the blog
-- [ ] Update the logo link to the actual front page
-- [ ] Move Careers tab to be above Contact tab
-- [ ] Change "MIT" to "MIT Courseware" in Online Learning Platforms
 - [ ] Formal Stuff: Academic Regulations link, make it link to the search page
-- [ ] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
-- [ ] Find a way to use Shiny in Blogdown
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
+- [x] Move Zotero from "Tools" to "Academic stuff -> Writing tools"
+- [x] Find a way to use Shiny in Blogdown
 
 ### Critical: Content creation
+
 - [ ] Gather exam paper database
-- [ ] Write a nice front page
+- [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
 - [ ] Write Social System front page
@@ -72,6 +72,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Formal Stuff: add link overview for mit.au, autumnschedule, scientia etc.
 
 ### Visual design
+
 - [ ] Use a placeholder logo
 - [ ] Create a cool logo
 - [ ] Find a good color scheme
@@ -79,16 +80,15 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Add little icons to each section
 
 ### Critical: Correspondence
+
 - [ ] Assign some CogBloggers
 - [ ] Create the domain: cogsci.dk
 - [ ] Check if its okay to share the online courses/platforms
 - [ ] Ask Orla about International Support content
 - [ ] Talk to Rebekah/Millie about a job-position-blog thing
 
-
-
-
 ### Ideas for the future
+
 - Mental Health page [Blanka]
 - List of interesting papers (Zotero-based)
 - Lecture recordings
@@ -100,4 +100,3 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Philosophy Podcast (?)
 - Personalized logins
 - Make Logo Competition
-
