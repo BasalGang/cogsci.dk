@@ -38,12 +38,6 @@ Software development version control
 - http://gitlab.com/
 {{< /details >}}
 
-{{< details title="Zotero" open=false >}} 
-Personal Reference Library
-
-https://www.zotero.org/support/quick_start_guide
-{{< /details >}}
-
 # Plotting guides
 
 {{< details title="ggplot2" open=false >}}
