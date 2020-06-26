@@ -32,10 +32,10 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Implementation and design
 
 - [ ] Set up the blog structure (tags, categories etc.)
-- [ ] Add the calendar
+- [x] Add the calendar
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [ ] Book Reccomendations: Fix layout
+- [x] Book Reccomendations: Fix layout
 - [ ] Update exam database shiny:
     - remove "bunden eksamen"
     - remind that online things are found by plagiarism detectors
