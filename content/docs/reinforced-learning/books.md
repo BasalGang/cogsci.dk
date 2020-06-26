@@ -57,11 +57,13 @@ What are models? Why should we absolutely use them, whenever doing serious think
 ### Artificial Intelligence
 
 [link](https://www.goodreads.com/book/show/43565360-artificial-intelligence)
+
 What is all this fuzz about deep learning? What are its basic concepts? What are the strengths and deep limitations?
 
 ### Infinite powers 
 
 [link](https://www.goodreads.com/book/show/40796176-infinite-powers)
+
 Calculus as you have never seen it. A vertiginous trip through the mind-bending discovery of infinitesimals. <br> 
 
 **Extra : Honorable mentions** 
@@ -69,6 +71,7 @@ Calculus as you have never seen it. A vertiginous trip through the mind-bending 
 ### Pearl, Causal Inference in Statistics - A Primer. 
 
 [link](https://www.goodreads.com/book/show/27164550-causal-inference-in-statistics)
+
 Sometimes a correlation does imply causation. When, how, WTF? A little book with exercises trying to guide you through causal inference issues in a meta-statistical way: causality can be found in statistical models given the assumptions you make about the underlying mechanisms.
 
 ### King. Gods of the upper air 
