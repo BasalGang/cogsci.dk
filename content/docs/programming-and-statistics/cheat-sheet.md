@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "R cheat site"
+title: "Programming Cheatsheets"
 bookToC: false
 ---
 
