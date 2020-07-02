@@ -1,7 +1,6 @@
 ---
 title: "Cognitive Science"
-bookFlatSection: true
-bookToC: true
+bookHidden: true
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
