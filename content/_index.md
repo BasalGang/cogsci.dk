@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Science"
-bookHidden: true
+type: docs
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
