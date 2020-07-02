@@ -47,6 +47,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] CogProductions: Have newest talks first
 - [ ] Rename “hidden-example" to "hidden"
 - [ ] Move exam database non-shiny version to "hidden"
+- [ ] Career Path: Add Karrierebrochure
+- [ ] Career Path: Add Companies/Inspiration
 
 ### Critical: Technical issues
 
