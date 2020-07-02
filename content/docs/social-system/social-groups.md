@@ -5,7 +5,7 @@ bookToC: false
 title: "Social groups"
 ---
 
-# Social groups
+# Social Groups
 
 {{< details title="CogChess" open=false >}}
 
