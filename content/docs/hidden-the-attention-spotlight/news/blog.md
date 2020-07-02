@@ -1,7 +1,7 @@
 ---
 weight: 10
 # bookFlatSection: true
-title: "Blog"
+title: "The attention spotlight"
 ---
 
 # The Blog
