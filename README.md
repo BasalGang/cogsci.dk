@@ -48,6 +48,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Career Path: Add Karrierebrochure
 - [ ] Career Path: Add Companies/Inspiration
 - [ ] Learning: Book Recommendations: sort by topic
+- [ ] Social: AU Environment: sort by topic
 
 ### Critical: Technical issues
 
