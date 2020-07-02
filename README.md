@@ -32,10 +32,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Implementation and design
 
 - [ ] Set up the blog structure (tags, categories etc.)
-- [x] Add the calendar
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [x] Book Reccomendations: Fix layout
 - [ ] Update exam database shiny:
     - remove "bunden eksamen"
     - remind that online things are found by plagiarism detectors
@@ -49,6 +47,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Move exam database non-shiny version to "hidden"
 - [ ] Career Path: Add Karrierebrochure
 - [ ] Career Path: Add Companies/Inspiration
+- [ ] Learning: Book Recommendations: sort by topic
+- [ ] Social: AU Environment: sort by topic
 
 ### Critical: Technical issues
 
@@ -58,12 +58,10 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Content creation
 
-- [x] Gather exam paper database
 - [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
 - [ ] Write Social System front page
-- [ ] Set up the Career Tab
 - [ ] The IV-fag list from Anna Stuckert (LINK)
 - [ ] Data Elixir (EPIIC)
 - [ ] Create International Support content
@@ -95,3 +93,4 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Philosophy Podcast (?)
 - Personalized logins
 - Make Logo Competition
+- Make clanedars pwetty

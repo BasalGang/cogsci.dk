@@ -1,7 +1,7 @@
 ---
 weight: 5
 # bookFlatSection: true
-title: "Job list"
+title: "Career Brochure"
 ---
 
-# Job list
+# Career Brochure
