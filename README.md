@@ -95,3 +95,4 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Philosophy Podcast (?)
 - Personalized logins
 - Make Logo Competition
+- Make clanedars pwetty
