@@ -1,8 +1,8 @@
 ---
-weight: 10
+weight: 9
 title: "Tools"
 ---
-# Programs
+# Coding Programs
 
 {{< details title="Rstudio" open=false >}}
 RStudio provides free and open source tools for R
@@ -29,7 +29,7 @@ Pavlovia (Psychopy In The Sky)
 https://pavlovia.org/
 {{< /details >}}
 
-# Tools
+# Other Tools
 
 {{< details title="Github & Gitlab" open=false >}}
 Software development version control
@@ -38,16 +38,3 @@ Software development version control
 - http://gitlab.com/
 {{< /details >}}
 
-# Plotting guides
-
-{{< details title="ggplot2" open=false >}}
-A Tutorial for Beautiful Plotting in R
-
-https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
-{{< /details >}}
-
-{{< details title="STHDA" open=false >}}
-Guides for 'Statistical tools for high-throughput data analysis'
-
-http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
-{{< /details >}}
