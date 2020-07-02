@@ -1,7 +1,7 @@
 ---
 weight: 10
 # bookFlatSection: true
-title: "CogSci Productions"
+title: "CogTalks"
 ---
 
 # Cog Productions

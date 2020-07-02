@@ -1,8 +1,8 @@
 ---
-weight: 9
+weight: 4
 bookCollapseSection: true
 # bookFlatSection: true
-title: "The Career Path"
+title: "CogSci Career"
 ---
 
 # Careers

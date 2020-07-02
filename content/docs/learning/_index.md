@@ -2,7 +2,7 @@
 weight: 5
 bookCollapseSection: true
 # bookFlatSection: true
-title: "Reinforced learning"
+title: "Extended learning"
 ---
 
 # Reinforced learning
@@ -17,7 +17,7 @@ title: "Reinforced learning"
 
 ## Descriptions
 
-### Books
+### [Books](books.md)
 
 ### Online courses
 
