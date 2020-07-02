@@ -1,8 +1,8 @@
 ---
-weight: 9
+weight: 8
 bookCollapseSection: true
 # bookFlatSection: true
-title: "CogSci Career"
+title: "CogSci Productions"
 ---
 
-# Careers
+# The Local Library
