@@ -24,4 +24,4 @@ This is a crowdsourced list of podcasts that could be of interest to a Cognitive
 A crowdsourced list of single (youtube) videos with content that can be interesting and relevant to Cognitive Science.
 
 ## [Informative Videos](video-tutorial.md)
-This list of videos contain concrete informative material, like tutorials and videos epxlaining concepts and technical knowledge
+This list of videos contain concrete informative material, like tutorials and videos epxlaining concepts and technical knowledge.
