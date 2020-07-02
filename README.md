@@ -39,12 +39,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
     - remind that online things are found by plagiarism detectors
     - add cognitive semiotics exams
     - add "old exams" category
-- [ ] Make intro page to tabs follow the same structure everywhere
-- [ ] Formal Stuff: split into Master's and Bachelor's
-- [ ] Fix the contacts thing
 - [ ] CogProductions: Have newest talks first
-- [ ] Rename “hidden-example" to "hidden"
-- [ ] Move exam database non-shiny version to "hidden"
 - [ ] Career Path: Add Karrierebrochure
 - [ ] Career Path: Add Companies/Inspiration
 - [ ] Learning: Book Recommendations: sort by topic
@@ -52,8 +47,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Technical issues
 
-- [ ] Fix the link to the blog
-- [ ] Formal Stuff: Academic Regulations link, make it link to the search page
+- [ ] Fix the extra link to the blog
+- [ ] Help and Support: Useful Links: Academic Regulations link, make it link to the search page
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
 - [ ] Make online calendars synchable
 
