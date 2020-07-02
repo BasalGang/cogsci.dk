@@ -5,9 +5,22 @@ bookCollapseSection: true
 title: "Contact"
 ---
 
-# Contact page
+#Contact for organizations within Cognitive Science at Aarhus University
 
-You are always welcome to contact the people who are currently working on the wbsite. Help is always welcome! 
+## Broca's Bodega
+Email: cognitivescienceau@gmail.com<br/>
+Blog: https://mochawithbroca.com<br/>
+About: This is a university friday bar at Aarhus University for Cognitive Science students and friends.<br/>
+
+## Gazzaniga's Gang
+Email: snuggle.hogwarts@gmail.com<br/>
+About: The Gazzaniga's Gang, is an event group dedicated to making our collective CogSci Family even more close-knit<br/>
+
+
+
+# Contact the CogSite team
+
+You are always welcome to contact the people who are currently working on the website. Help is always welcome! 
 
 Email: cogscidk@gmail.com
 
@@ -21,3 +34,4 @@ Current contributors:
 - Millie Søndergaard, career
 - Ludvig Olsen, external supervisor
 - Blanka Pálfi, content and mental health
+
