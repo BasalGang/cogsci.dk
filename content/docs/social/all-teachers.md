@@ -1,7 +1,7 @@
 ---
-weight: 10
+weight: 3
 # bookFlatSection: true
-title: "All teachers"
+title: "Teacher list"
 ---
 
 # Bachelor
