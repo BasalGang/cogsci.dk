@@ -1,6 +1,7 @@
 ---
 title: "Cognitive Science"
 type: docs
+bookFlatSection: true
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
