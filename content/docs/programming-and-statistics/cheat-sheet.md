@@ -1,10 +1,10 @@
 ---
-weight: 1
+weight: 3
 title: "R cheat site"
 bookToC: false
 ---
 
-# The ultimate R cheat site
+# Cheatsheet for R
 
 Please contribute additional tasks and solutions.
 
@@ -79,4 +79,6 @@ Please contribute additional tasks and solutions.
 | Plot confusion matrix | `cvms`  | `plot_confusion_matrix()` | [Create confusion matrix](http://ludvigolsen.dk/cvms/create_confusion_matrix/) |
 
 {{< /details >}}
+
+# Cheatsheet for Python
 

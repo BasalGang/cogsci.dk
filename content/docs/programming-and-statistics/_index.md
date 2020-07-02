@@ -6,11 +6,20 @@ bookHidden: false
 title: "Programming and statistics"
 ---
 
-# Programming
+# Programming and statistics
+This section has support and suggestions for tasks in programming and statistics. It mainly covers programming the main languages used throughout the course, R and Python.
+See also the Facebook group [CogOverflow](https://www.facebook.com/groups/340151913001608/) for asking questions to the CogSci community.
 
-These pages are about programming in data science and cognitive science.
+## [Programming Cheatsheets](cheat-sheet.md)
+This is an overview of various useful functions and code snippets, sorted by the types of tasks they are used for. Contains code for both Python and R.
 
-## Index
+## [Useful Packages](packages.md)
+Here one can find an overview of R and Python packages that might be useful a Cognitive Science student, sorted by task relevance.
 
-- [R cheatsheet for actions](r-cheat-site.md)
-- [R packages](r-packages.md)
+## [Helpful Guides](guides.md)
+Here is a list of different guides to help with programming and statistical tasks.
+
+## [Software Tools](tools.md)
+This is a list of various useful software tools that can be used for many just as various purposes.
+
+

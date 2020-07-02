@@ -1,10 +1,10 @@
 ---
-weight: 1
-title: "R packages"
+weight: 5
+title: "Useful packages"
 bookToC: false
 ---
 
-# Useful R packages
+# R Packages
 
 {{< details title="Basic utilities" open=false >}}
 
@@ -75,3 +75,5 @@ bookToC: false
 
 {{< /details >}}
 
+
+# Python Packages
