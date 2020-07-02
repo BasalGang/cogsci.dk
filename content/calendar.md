@@ -1,6 +1,8 @@
 ---
-weight: 1
-# bookFlatSection: true
+menu:
+  before:
+    name: calendar
+    weight: 7
 title: "CogSci Calendar"
 ---
 
