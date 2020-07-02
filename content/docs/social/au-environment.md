@@ -7,115 +7,148 @@ title: "AU environment"
 # Environment at Aarhus University
 
 ## Aarhus University's Entrepreneurial Incubator
-### The Kitchen
-https://auincubator.au.dk/en/
+{{< details title="The Kitchen" open=false >}}
+At The Kitchen, they support students who want to work on entrepreneurial projects while studying. Some of their activities are in Danish, but if you are an AU-student and you have a business idea, they will be happy to help you move it forward.
+[Link](https://auincubator.au.dk/en/)
+{{< /details >}}
 
 ## Research groups
-### Daina Crafa Lab
+{{< details title="Crafa Lab" open=false >}}
 Her research investigates the effects of culture and social contexts on human development, brain processes, and genetics.
-https://www.dainacrafa.com/
+[Link](https://www.dainacrafa.com/)
+{{< /details >}}
 
-### Dandrite
+{{< details title="Dandrite" open=false >}}
 The focus of DANDRITE research are on molecular mechanisms that explain physiological manifestations of cellular communication networks in brain circuitries, and how these are affected in neurological and psychiatric disorders.
-https://dandrite.au.dk/
+[Link](https://dandrite.au.dk/)
+{{< /details >}}
 
-### iPSYCH
+{{< details title="iPSYCH" open=false >}}
 iPSYCH is studying five specific mental disorders; autism, ADHD, schizophrenia, bipolar disorder and depression. All disorders are associated with major human and societal costs all over the world. The iPSYCH project will study these disorders from many different angles, ranging from genes and cells to population studies, from fetus to adult, from cause to symptoms of the disorder, and this knowledge will be combined in new ways across scientific fields.
-https://ipsych.dk/
+[Link](https://ipsych.dk/)
+{{< /details >}}
 
-### Socio-Technical Design
+{{< details title="Socio-Technical Design" open=false >}}
 Our research and teaching serves to bridge Engineering disciplines and Computer Science, while reaching into faculties such of Health and Arts including departments of Aesthetics, Culture and Anthropology.
-https://eng.au.dk/forskning/civil-and-architectural-engineering/socio-technical-design-area/socio-technical-design/
+[Link](https://eng.au.dk/forskning/civil-and-architectural-engineering/socio-technical-design-area/)socio-technical-design/
+{{< /details >}}
 
-### The group of Robotics and Control
+{{< details title="The group of Robotics and Control" open=false >}}
 They aim to developing the theories and technologies for designing and controlling advanced robot systems.
-https://eng.au.dk/forskning/laboratorier-og-faciliteter/robotics/
+[Link](https://eng.au.dk/forskning/laboratorier-og-faciliteter/robotics/)
+{{< /details >}}
 
-### Center for Ear-EEG
+{{< details title="Center for Ear-EEG" open=false >}}
 The center serves as a framework for research projects with the aim of developing technologies and methods related to ear-EEG, and for investigation of applications of ear-EEG.
-https://eng.au.dk/forskning/forskningsprogrammer-og-centre/center-for-ear-eeg/
+[Link](https://eng.au.dk/forskning/forskningsprogrammer-og-centre/center-for-ear-eeg/)
+{{< /details >}}
 
-### NeuroTechnology Lab
+{{< details title="NeuroTechnology Lab" open=false >}}
 The NeuroTechnology Lab is a research laboratory hosting activities within a broad spectrum of technologies related to the human nervous system.
-https://eng.au.dk/forskning/laboratorier-og-faciliteter/neuro-technology-laboratory/
+[Link](https://eng.au.dk/forskning/laboratorier-og-faciliteter/neuro-technology-laboratory/)
+{{< /details >}}
 
-### Embodied Computation Group
+{{< details title="Embodied Computation Group" open=false >}}
 Their research investigates how our decision-making and conscious perception is shaped by visceral and embodied processes.
-https://the-ecg.org/
+[Link](https://the-ecg.org/)
+{{< /details >}}
 
-### IMC
+{{< details title="Interacting Minds Center" open=false >}}
 They provided a transdisciplinary platform to study human interaction. It involves researchers from the humanities, social sciences, cognitive sciences, biology and clinical research.
-https://interactingminds.au.dk/
+[Link](https://interactingminds.au.dk/)
+{{< /details >}}
 
-### Music In The Brain
+{{< details title="Music In The Brain" open=false >}}
 They aim to facilitate contacts between different scientific approaches to studying music and the brain, and to introduce this scientific field to a broader audience within the danish music community.
-musicinthebrain.au.dk
+[Link](musicinthebrain.au.dk)
+{{< /details >}}
 
-### Molecular and Cellular Neuroscience Lab
+{{< details title="Molecular and Cellular Neuroscience Lab" open=false >}}
 Wants to understand how capillary blood flow is regulated and possibly uncover ways to control or optimize capillary blood flow during periods of insufficient oxygen availability.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/molecular-and-cellular-neuroscience-lab/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/molecular-and-cellular-neuroscience-lab/)
+{{< /details >}}
 
-### NEMOlab - Neuroelectromagnetic Oscillations Laboratory
+{{< details title="NEMOlab - Neuroelectromagnetic Oscillations Laboratory" open=false >}}
 Their research group is dedicated to unraveling how neural oscillations communicate information across the cerebral cortex, as well as between the retina and cerebral cortex.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/nemolab-neuroelectromagnetic-oscillations-laboratory/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/nemolab-neuroelectromagnetic-oscillations-laboratory/)
+{{< /details >}}
 
-### Laboratory of NeuroDynamics of Human Communication
+{{< details title="Laboratory of NeuroDynamics of Human Communication" open=false >}}
 They explore the dynamic processes of storage and access of linguistic representations in the brain.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/neurodynamics-of-human-communication/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/neurodynamics-of-human-communication/)
+{{< /details >}}
 
-### NEUROINFORMATICS
+{{< details title="NEUROINFORMATICS" open=false >}}
 The Neuroinformatics project will develop neuroinformatics tools to allow the exploration of key questions in the acute pathophysiology and subsequent recovery after acute stroke.
-https://mindlab.au.dk/menu11-en
+[Link](https://mindlab.au.dk/menu11-en)
+{{< /details >}}
 
-### Neurophysics
+{{< details title="Neurophysics" open=false >}}
 The neurophysics group uses biophysical modelling and magnetic resonance imaging to develop techniques to study the structure of the brain on a micrometer scale, i.e. its microstructure.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/neurophysics/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/neurophysics/)
+{{< /details >}}
 
-### Pathological Gambling
+{{< details title="Pathological Gambling" open=false >}}
 They have published numerous scientific studies in order to establish both fundamental and specific links between gambling behaviour and brain mechanisms, as well as how these mechanisms differ across gamblers and non-gamblers.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/pathological-gambling/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/pathological-gambling/)
+{{< /details >}}
 
-### Perception and Neuroarchitectural Mapping Group
+{{< details title="Perception and Neuroarchitectural Mapping Group" open=false >}}
 Their main line of research within the group focuses on human perception, particularly conscious vision.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/perception-and-neuroarchitectural-mapping-group/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/perception-and-neuroarchitectural-mapping-group/)
+{{< /details >}}
 
-### Translational Neuropsychiatry Unit
+{{< details title="Translational Neuropsychiatry Unit" open=false >}}
 TNU carries out translational neuropsychiatric research, particularly focusing on human and animal experimental studies.
-https://tnu.au.dk/
+[Link](https://tnu.au.dk/)
+{{< /details >}}
 
-### Plasticity and Disease
+{{< details title="Plasticity and Disease" open=false >}}
 They use cutting-edge techniques as Magnetic Resonance Spectroscopy (MRS), function Magnetic Resonance Imaging (fMRI), Transcranial Magnetic Stimulation (TMS) and transcranial direct current stimulation (tDCS) to improve diagnosis, treatment and rehabilitation of patients suffering from brain diseases as Stroke and Amyotrophic Lateral Sclerosis (ALS).
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/plasticity-and-disease/)
+{{< /details >}}
 
-### Pre-clinical Optical Group
+{{< details title="Pre-clinical Optical Group" open=false >}}
 They engage  in interdisciplinary preclinical research with the overall goal to understand and quantify capillary dysfunction in various age-related disorders including ischemic stroke and reperfusion injuries, Alzheimer’s disease and diabetic neuropathy.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/pog-pre-clinical-optical-group/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/pog-pre-clinical-optical-group/)
+{{< /details >}}
 
-### Gendering In Research
+{{< details title="Gendering In Research" open=false >}}
 They are a network for anyone who is interested in learning more about sex/gender, sexuality, and feminist methodology and how one can approach these topic from a scientific perspective.
-https://projects.au.dk/genderinginresearch/
+[Link](https://projects.au.dk/genderinginresearch/)
+{{< /details >}}
 
-### Danish Pain Research 
+{{< details title="Danish Pain Research" open=false >}} 
 The Danish Pain Research Center was founded with the primary aim to study chronic pain, in particular neuropathic pain, defined by IASP as: Pain caused by a lesion or disease affecting the somatosensory system (Jensen et al., Pain 2011).
-http://www.dprc.dk/sites/current.htm
+[Link](http://www.dprc.dk/sites/current.htm)
+{{< /details >}}
 
-### CFIN/MINDLab
+{{< details title="CFIN/MINDLab" open=false >}}
 The center joins brain researchers from numerous departments, institutes and faculties within Aarhus University and The Royal Academy of Music, in an effort to understand the human brain.
-https://cfin.au.dk/
+[Link](https://cfin.au.dk/)
+{{< /details >}}
 
-### Danish Neuroscience Centre
+{{< details title="Danish Neuroscience Centre" open=false >}}
+The ambition of DNC is to increase knowledge of normal and pathological brain functions and translate this knowledge into clinical practice. This is done in close collaboration between researchers, clinicians and industry.
+[Link](https://www.en.auh.dk/departments/danish-neuroscience-centre-dnc/)
+{{< /details >}}
 
-###  Cognitive Neuroscience Research Unit
+{{< details title="Cognitive Neuroscience Research Unit" open=false >}}
 An interdisciplinary research group with the overall goal to understand the fundamental relation between mind and brain.
-http://cnru.dk/
+[Link](http://cnru.dk/)
+{{< /details >}}
 
-### Applied Imaging and Modelling (AIM) group
+{{< details title="Applied Imaging and Modelling group" open=false >}}
 Their focus is on image processing, statistical modelling, and prediction.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/aim-applied-imaging-and-modelling/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/aim-applied-imaging-and-modelling/)
+{{< /details >}}
 
-### Functional hemodynamics group 
+{{< details title="Functional hemodynamics group" open=false >}}
 Examines the role of the microcirculation in health and disease.
-https://cfin.au.dk/cfinmindlab-labs-research-groups/functional-hemodynamics/
+[Link](https://cfin.au.dk/cfinmindlab-labs-research-groups/functional-hemodynamics/)
+{{< /details >}}
 
-### Hedonia
+{{< details title="Hedonia" open=false >}}
 Their overall goal is to understand the fundamental neural mechanisms underlying human sensory and social pleasures, in order to increase our understanding and potential treatment of depression, obesity and eating disorders as well as with problems of parent-child attachment.
-www.kringelbach.dk/science.html
+[Link](www.kringelbach.dk/science.html)
+{{< /details >}}
