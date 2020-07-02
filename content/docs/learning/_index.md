@@ -17,7 +17,7 @@ title: "Extended learning"
 
 ## Descriptions
 
-### Books
+### [Books](books.md)
 
 ### Online courses
 
