@@ -4,7 +4,7 @@ weight: 5
 title: "AU environment"
 ---
 
-# Environment at Aarhus University
+# The Environment at Aarhus University
 
 ## Aarhus University's Entrepreneurial Incubator
 {{< details title="The Kitchen" open=false >}}
