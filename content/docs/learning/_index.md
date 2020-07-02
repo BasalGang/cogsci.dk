@@ -6,6 +6,10 @@ title: "Extended learning"
 ---
 
 # Reinforced learning
+This section provides additional resources and opportunities for learning more within whichever fields a 
+
+
+
 
 ## Table of contents
 
