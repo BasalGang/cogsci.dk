@@ -94,3 +94,4 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - Personalized logins
 - Make Logo Competition
 - Make clanedars pwetty
+- Make a Frequently Asked Questions subsection in Programming and Statistics
