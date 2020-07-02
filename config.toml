@@ -38,7 +38,10 @@ enableGitInfo = true
 #  weight = 3
 
 [menu]
-# [[menu.before]]
+[[menu.before]]
+  name = "Blog"
+  url = "/posts/"
+
 [[menu.after]]
   name = "Found an error? Report it here!"
   url = "/docs/issues/"

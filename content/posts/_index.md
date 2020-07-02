@@ -1,7 +1,8 @@
 ---
 menu:
   before:
-    # name: blog
+    name: blog
     weight: 5
-title: TAS
+title: Blog
+bookHidden: true
 ---
