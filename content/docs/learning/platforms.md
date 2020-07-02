@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Online learning platforms"
+title: "Learning platforms"
 ---
 # Online Learning Platforms
 
