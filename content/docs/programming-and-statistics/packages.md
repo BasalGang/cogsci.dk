@@ -16,8 +16,9 @@ bookToC: false
 | [`plyr`](https://github.com/hadley/plyr)                  | `llply()` and `ldply()` as for-loop replacements | Hadley Wickham |
 | [`tibble`](https://github.com/tidyverse/tibble/)          | Modern reimagining of the `data.frame`           | tidyverse      |
 | [`data.table`](https://github.com/Rdatatable/data.table)  | Alternative data frame. Quicker for big datasets | Tyson Barrett  |
-| [`recipes`](https://github.com/tidymodels/recipes)        | Preprocessing pipelines                          | tidyverse |
-| [`groupdata2`](https://github.com/LudvigOlsen/groupdata2) | Create groups, folds and partitions.             | Ludvig Olsen   |
+| [`recipes`](https://github.com/tidymodels/recipes)        | Preprocessing pipelines                          | tidyverse      |
+| [`groupdata2`](https://github.com/LudvigOlsen/groupdata2) | Create groups, folds and partitions              | Ludvig Olsen   |
+| [`rearrr`](https://github.com/LudvigOlsen/rearrr)         | Transform and *rearrrange* data                  | Ludvig Olsen   |
 
 {{< /details >}}
 
@@ -59,8 +60,10 @@ bookToC: false
 | :---------------------------------------------------- | :----------------------- | :------------------ |
 | [`ggplot2`](https://github.com/tidyverse/ggplot2)     | Make plots               | tidyverse           |
 | [`patchwork`](https://github.com/thomasp85/patchwork) | Combine separate ggplots | Thomas Lin Pedersen |
+| [`ggforce`](https://github.com/thomasp85/ggforce)     | Accelerating ggplot2     | Thomas Lin Pedersen |
 | [`see`](https://github.com/easystats/see)             | Visualisation toolbox    | easystats           |
 | [`ggimage`](https://github.com/GuangchuangYu/ggimage) | Add images to ggplots    | Guangchuang YU      |
+| [`mathart`](https://github.com/marcusvolz/mathart)    | Create mathematical art  | Marcus Volz         |
 
 {{< /details >}}
 
@@ -68,7 +71,7 @@ bookToC: false
 
 | Package                                           | Description                          | By             |
 | :------------------------------------------------ | :----------------------------------- | :------------- |
-| [`usethis`](https://github.com/r-lib/usethis)     | Automate package and project setup tasks. | Hadley Wickham, et al. |
+| [`usethis`](https://github.com/r-lib/usethis)     | Automate package and project setup tasks | Hadley Wickham, et al. |
 | [`testthat`](https://testthat.r-lib.org/)         | Framework for unit-testing functions | Hadley Wickham |
 | [`xpectr`](https://github.com/LudvigOlsen/xpectr) | Generate `testthat` tests            | Ludvig Olsen   |
 | [`checkmate`](https://github.com/mllg/checkmate)  | Fast input checks in functions       | Michel Lang    |
@@ -77,3 +80,42 @@ bookToC: false
 
 
 # Python Packages
+
+{{< details title="Basic utilities" open=false >}}
+
+| Package                                             | Description                                      | By             |
+| :-------------------------------------------------- | :----------------------------------------------- | :------------- |
+| [`numpy`](https://numpy.org/)                       | Numerical computing (arrays and math operations) | Travis Oliphant, et al. |
+| [`pandas`](https://pandas.pydata.org/docs/)         | Data frames                                      | Wes McKinney, et al. |
+| [`scipy`](https://www.scipy.org)                    | Scientific computing                             | Pauli Virtanen, et al. |
+
+{{< /details >}}
+
+{{< details title="Modeling" open=false >}}
+
+| Package                                                   | Description                                | By            |
+| :-------------------------------------------------------- | :----------------------------------------- | :------------ |
+| [scikit-learn (`sklearn`)](https://scikit-learn.org/stable/) | Everything in machine learning          | Pedregosa, F., et al. |
+| [`tensorflow`](https://www.tensorflow.org/)               | Deep learning framework                    | Martín Abadi, et al. |
+| [`pytorch`](https://pytorch.org/)                         | Deep learning framework                    | Adam Paszke, et al. |
+| [`jax`](https://github.com/google/jax/)                   | High-performance machine learning research | James Bradbury, et al. |
+| [`PyStan`](https://pystan.readthedocs.io/en/latest/)      | Bayesian inference (*stan* interface)      | PyStan |
+| [`PyMC3`](https://github.com/pymc-devs/pymc3)  | Bayesian statistical modeling and Probabilistic Machine Learning | Salvatier J., et al. |
+
+{{< /details >}}
+
+{{< details title="Neuro" open=false >}}
+
+| Package                                               | Description                                | By            |
+| :---------------------------------------------------- | :----------------------------------------- | :------------ |
+| [`mne`](https://github.com/mne-tools/mne-python)      | M/EEG analysis and visualization           | Alexandre Gramfort, et al. |
+| [`nipy`](http://nipy.org/nipy/)                       | Neuroimaging tools                         | NiPy |
+| [`nitime`](http://nipy.org/nitime/)                   | Timeseries analysis for neuroscience data  | NiPy |
+| [`nilearn`](http://nilearn.github.io/)                | scikit-learn for neuroimaging data         | NiPy |
+| [`nibabel`](https://nipy.org/nibabel/)      | Read / write common neuroimaging file formats        | NiPy |
+| [`nilearn`](https://github.com/nipy/nipype)           | Workflows and interfaces for neuroimaging packages | NiPy |
+| [`PySurfer`](https://github.com/nipy/PySurfer)        | Neuroimaging visualization | NiPy |
+| [`PyMVPA`](http://www.pymvpa.org/)                    | Multivariate pattern analysis              | Michael Hanke, et al. |
+| [`fMRIPrep`](https://fmriprep.org/en/stable/)         | Robust Preprocessing Pipeline for fMRI Data | Oscar Esteban, et al. |
+
+{{< /details >}}

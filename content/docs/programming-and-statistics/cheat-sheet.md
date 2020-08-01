@@ -80,5 +80,13 @@ Please contribute additional tasks and solutions.
 
 {{< /details >}}
 
+{{< details title="Sharing code examples" open=false >}}
+
+| Task  | Package       | Function(s) | Tutorial  |
+| :---- | :------------ | :---------- | :-------- |
+| Create reproducible example | `reprex` | `reprex()`, `reprex:::prex_rtf()` (dev version) | [Use `prex_rtf()`](https://twitter.com/kjhealy/status/1286736712585052160)  |
+
+{{< /details >}}
+
 # Cheatsheet for Python
 
