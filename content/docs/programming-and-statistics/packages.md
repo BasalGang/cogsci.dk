@@ -119,3 +119,12 @@ bookToC: false
 | [`fMRIPrep`](https://fmriprep.org/en/stable/)         | Robust Preprocessing Pipeline for fMRI Data | Oscar Esteban, et al. |
 
 {{< /details >}}
+
+{{< details title="NLP" open=false >}}
+
+| Package                                               | Description                                | By            |
+| :---------------------------------------------------- | :----------------------------------------- | :------------ |
+| [`nlpaug`](https://github.com/makcedward/nlpaug)      | Text and audio augmentation                | Edward Ma |
+
+{{< /details >}}
+
