@@ -1,5 +1,5 @@
 # provide your domain here
-baseURL = "/CogSite/"
+baseURL = "https://cogsci.dk/"
 # theme
 theme = "hugo-book-local"
 # site title
