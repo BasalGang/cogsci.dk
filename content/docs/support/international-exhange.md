@@ -24,7 +24,24 @@ An example of the process for a freemover can be seen here: https://arts.augo.au
 
 {{< /details >}}
 {{< details title="Money and grants" open=false >}}
-Henry Shaws legat
+
+SU:
+
+- International Master SU: http://www.su.dk/udland/om-su-til-videregaaende-uddannelser-i-udlandet/hele-uddannelser-i-udlandet/tilskud-til-studieafgift-udlandsstipendium/
+- International SU: http://www.su.dk/udland/om-su-til-videregaaende-uddannelser-i-udlandet/hele-uddannelser-i-udlandet/su-til-hele-uddannelser-i-udlandet/
+
+Grants:
+
+- Also for bachelors: http://www.danmark.legater.nu
+- Info about grants: http://education.kilroy.dk/studier-i-udlandet/finansiering/legater
+
+{{< /details >}}
+{{< details title="Exhange info" open=false >}}
+
+- http://gribverden.dk
+- https://www.ug.dk/evejledning
+- http://www.topuniversities.com/subject-rankings/2016
+- https://www.niche.com/colleges/search/best-colleges/
 
 {{< /details >}}
 {{< details title="AU Application Page" open=false >}}
@@ -41,21 +58,31 @@ Lise Hansen: Arts Cognitive Science International Coordinator
 https://studerende.au.dk/studier/fagportaler/arts/udvekslingogpraktikiudlandet/internationale-koordinatorer/
 
 {{< /details >}}
-{{< details title="Niche: College Finder" open=false >}}
-Detailed data on colleges and universities around the world (especially U.S.).
-
-https://www.niche.com/colleges/search/best-colleges/
-{{< /details >}}
 {{< details title="MoveON: Search for partner universities" open=false >}}
 Website that might work at some point in the future for finding exhange opportunities.
 
 https://au.adv-pub.moveon4.de/home-page-1591/
 {{< /details >}}
-{{< details title="Niche: College Finder" open=false >}}
+{{< details title="New AU partner university website" open=false >}}
 Website that might work at some point in the future for finding exhange opportunities.
 
 https://au.adv-pub.moveon4.de/home-page-1591/
 {{< /details >}}
+
+## ITTU documents
+
+{{< details title="Application example" open=false >}}
+
+![Casey's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Casey.pdf)
+
+![Matilde's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Matilde.pdf)
+
+{{< /details >}}
+{{< details title="Compiled lists" open=false >}}
+
+- [Anna's list](https://github.com/AUcogseers/Resources/blob/master/ITTU/ITTU_list_Anna.doc)
+- [Sofie's list](https://github.com/AUcogseers/Resources/blob/master/ITTU/ITTU_list_Sofie.docx)
+  {{< /details >}}
 
 ## ITTU graduates from Cognitive Science
 
