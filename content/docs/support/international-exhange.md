@@ -27,7 +27,6 @@ It has information on all universities where AU students have gone and reviews w
 
 https://arts.augo.au.dk/Institutions
 {{< /details >}}
-
 {{< details title="Freemover" open=false >}}
 If you go to a partner university, you pay the same price as in Denmark (often free) for tuition. Then you pay for housing, food, etc. If you become a freemover (outside the partner universities) then you pay for the tuition youself as well. This can of course be done with scholarships, grants (Danish, EU, or international), etc.
 
@@ -84,9 +83,10 @@ https://au.adv-pub.moveon4.de/home-page-1591/
 
 {{< details title="Application example" open=false >}}
 
-![Casey's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Casey.pdf)
-
-![Matilde's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Matilde.pdf)
+- [Casey's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Casey.pdf)
+- [Matilde's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Matilde.pdf)
+- [Sofie's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Sofie.docx)
+- [Anna's example](https://github.com/AUcogseers/Resources/blob/master/ITTU/AUGO_application_Anna.docx)
 
 {{< /details >}}
 {{< details title="Compiled lists" open=false >}}
