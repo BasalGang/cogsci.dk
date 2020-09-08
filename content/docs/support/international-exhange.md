@@ -10,6 +10,16 @@ ITTU is the Bachelor degree's 5th semester elective (15 ECTS) during the Bachelo
 
 ## Information
 
+{{< details title="Process" open=false >}}
+
+1. Apply at AU with a prioritized list (~5 prioritized universities, see [ITTU files](#ittu-documents))
+2. Get the list accepted
+3. Apply at target university, possibly get accepted
+4. If not accepted, go to next university or if the list is exhausted, go to step 1
+
+It's mostly pretty tough work.
+
+{{< /details >}}
 {{< details title="AUGO: Partner Universities" open=false >}}
 Here, you can find all the universities that AU has partner deals with. Search for University Wide agreements instead of Lateral if you want to study other fields than Arts (e.g. data science or neuroscience). A fantastic website that is apparently getting replaced with one of highly dubious quality (let's hope it gets updated).
 
@@ -17,6 +27,7 @@ It has information on all universities where AU students have gone and reviews w
 
 https://arts.augo.au.dk/Institutions
 {{< /details >}}
+
 {{< details title="Freemover" open=false >}}
 If you go to a partner university, you pay the same price as in Denmark (often free) for tuition. Then you pay for housing, food, etc. If you become a freemover (outside the partner universities) then you pay for the tuition youself as well. This can of course be done with scholarships, grants (Danish, EU, or international), etc.
 
