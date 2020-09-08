@@ -11,12 +11,20 @@ ITTU is the Bachelor degree's 5th semester elective (15 ECTS) during the Bachelo
 ## Information
 
 {{< details title="AUGO: Partner Universities" open=false >}}
-Here, you can find all the universities that AU has partner deals with. Search for University Wide agreements instead of Lateral if you want to study other fields than Arts (e.g. data science or neuroscience).
+Here, you can find all the universities that AU has partner deals with. Search for University Wide agreements instead of Lateral if you want to study other fields than Arts (e.g. data science or neuroscience). A fantastic website that is apparently getting replaced with one of highly dubious quality (let's hope it gets updated).
+
+It has information on all universities where AU students have gone and reviews with a lot of information on each student's trip. You will also notice several freemovers here (see freemover section). See a Cognitive Science student's evaluation of Vermont University here: https://arts.augo.au.dk/Institution/Evaluation/4751. They also received a grant for their exhange semester.
 
 https://arts.augo.au.dk/Institutions
 {{< /details >}}
-{{< details title="Freemover vs. mover (?)" open=false >}}
+{{< details title="Freemover" open=false >}}
 If you go to a partner university, you pay the same price as in Denmark (often free) for tuition. Then you pay for housing, food, etc. If you become a freemover (outside the partner universities) then you pay for the tuition youself as well. This can of course be done with scholarships, grants (Danish, EU, or international), etc.
+
+An example of the process for a freemover can be seen here: https://arts.augo.au.dk/Institution/Evaluation/1773. This BSS student applied for Berkeley.
+
+{{< /details >}}
+{{< details title="Money and grants" open=false >}}
+Henry Shaws legat
 
 {{< /details >}}
 {{< details title="AU Application Page" open=false >}}
@@ -52,6 +60,14 @@ https://au.adv-pub.moveon4.de/home-page-1591/
 ## ITTU graduates from Cognitive Science
 
 {{< details title="Sebastian: Canada" open=false >}}
+
+{{< /details >}}
+
+{{< details title="Anna Agermose: Vermont" open=false >}}
+https://arts.augo.au.dk/Institution/Evaluation/4751
+{{< /details >}}
+
+{{< details title="Maris: NUS" open=false >}}
 
 {{< /details >}}
 
