@@ -11,8 +11,4 @@ bookHidden: true
 
 The first part of the blog post becomes the summary / description on the blog page.
 
-# This is my title
-
 ### [Read instructions here](/content/docs/contribute/writing-on-the-cogsite.md)
-
-And this is my text.
