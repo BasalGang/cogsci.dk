@@ -17,7 +17,7 @@ Write to [Esben Kran](../contact/) or [Sebastian Engen](../contact/) if you wish
 
 Main online course sources: [Udacity](https://www.udacity.com/),
 [EdX](https://www.edx.org/), and [Coursera](https://www.coursera.org/). See more
-on [online platforms](online-platforms.md).
+on [online platforms](docs/learning/platforms.md).
 
 # Data science
 

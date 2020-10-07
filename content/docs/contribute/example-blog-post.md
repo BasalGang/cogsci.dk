@@ -13,4 +13,4 @@ bookHidden: true
 
 ## [Instruction](writing-a-blog-post.md)
 
-Above are two different sizes of headings based on the amount of pound (#) signs. See the [instructions](writing-on-the-cogsite.md) for an extensive guide on writing a blog post.
+Above are two different sizes of headings based on the amount of pound (#) signs. See the [instructions](docs/contribute/writing-a-blog-post.md) for an extensive guide on writing a blog post.

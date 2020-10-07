@@ -8,7 +8,7 @@ Note that courses may be renamed or moved to different semesters. Older papers m
 
 ## Contribute
 
-Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](snuggle.hogwarts@gmail.com)
+Contact [Ludvig Olsen](mailto:mail@ludvigolsen.dk) & [Sebastian Engen](mailto:snuggle.hogwarts@gmail.com)
 
 ## Bachelor
 
