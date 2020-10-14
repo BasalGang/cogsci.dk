@@ -39,7 +39,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
     - remind that online things are found by plagiarism detectors
     - add cognitive semiotics exams
     - add "old exams" category
-- [ ] CogProductions: Have newest talks first
 - [ ] Career Path: Add Millie's stuff
 - [ ] Learning: Book Recommendations: sort by topic
 - [ ] Social: AU Environment: sort by topic
@@ -48,11 +47,9 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 - [ ] Help and Support: Useful Links: Academic Regulations link, make it link to the search page
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
-- [ ] Make online calendars synchable
 
 ### Critical: Content creation
 
-- [ ] Update the front page
 - [ ] Add online courses to the online courses list
 - [ ] Write the reinforced learning front page
 - [ ] Write Social System front page
