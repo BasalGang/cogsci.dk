@@ -2,6 +2,7 @@
 title: "Cognitive Science"
 type: docs
 bookFlatSection: true
+bookToC: false
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
@@ -17,7 +18,7 @@ Get inspired by your fellow cognitive science students at the [blog](posts) or e
 ![Inspiration](icons/inspiration.png)
 ## Get inspiration for your exam
 
-Go through [earlier exam projects](docs/cogsci-productions/exam-projects.md), look at [_real publications_ by students at cognitive science](docs/cogsci-productions/student-publications.md), or watch some of the amaazing [CogTalks](docs/cogsci-productions/cogtalks.md) about a vast array of incredibly fascinating topics!
+Go through [earlier exam projects](docs/cogsci-productions/exam-projects), look at [_*real publications*_ by students at cognitive science](docs/cogsci-productions/student-publications), or watch some of the amaazing [CogTalks](docs/cogsci-productions/cogtalks) about a vast array of incredibly fascinating topics!
 
 {{< /columns >}}
 
@@ -26,14 +27,14 @@ Go through [earlier exam projects](docs/cogsci-productions/exam-projects.md), lo
 ![Become](icons/become.png)
 ## Find out what you can become at Cognitive Science
 
-Read some [examples](docs/careers/job-inspiration.md) of what people are doing beyond studying at cognitive science, like [careers](docs/careers/job-inspiration.md), [exhange semesters](exhange-semester.md), [research](docs/social/au-environment.md), and [publishing](docs/cogsci-productions/student-publications.md).
+Read some [examples](docs/careers/job-inspiration) of what people are doing beyond studying at cognitive science, like [careers](docs/careers/job-inspiration), [exhange semesters](docs/support/exhange-semester), [research](docs/social/au-environment), and [publishing](docs/cogsci-productions/student-publications).
 
 <--->
 
 ![Smarter](icons/smarter.png)
 ## Get smarter and smarter
 
-Check out the fantastic lists of [courses](docs/learning/online-courses.md), [programming help](docs/programming-and-statistics), and [books](docs/learning/books.md) or drop by the [blog](posts) and [CogTalks](docs/cogsci-productions/cogtalks.md) for some fantastic local production of knowledge!
+Check out the fantastic lists of [courses](docs/learning/online-courses), [programming help](docs/programming-and-statistics), and [books](docs/learning/books) or drop by the [blog](posts) and [CogTalks](docs/cogsci-productions/cogtalks) for some fantastic local production of knowledge!
 
 {{< /columns >}}
 
