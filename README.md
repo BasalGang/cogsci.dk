@@ -40,14 +40,12 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
     - add cognitive semiotics exams
     - add "old exams" category
 - [ ] CogProductions: Have newest talks first
-- [ ] Career Path: Add Karrierebrochure
-- [ ] Career Path: Add Companies/Inspiration
+- [ ] Career Path: Add Millie's stuff
 - [ ] Learning: Book Recommendations: sort by topic
 - [ ] Social: AU Environment: sort by topic
 
 ### Critical: Technical issues
 
-- [ ] Fix the extra link to the blog
 - [ ] Help and Support: Useful Links: Academic Regulations link, make it link to the search page
 - [ ] Set up the upload/download structure for the Exam Database Shiny script
 - [ ] Make online calendars synchable
@@ -73,8 +71,6 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Correspondence
 
 - [ ] Assign some CogBloggers
-- [ ] Create the domain: cogsci.dk
-- [ ] Check if its okay to share the online courses/platforms
 
 ### Ideas for the future
 
