@@ -6,6 +6,37 @@ bookFlatSection: true
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
 
+COVER IMAGE
+
+## Get updated at Cognitive Science
+
+
+- Blog
+- Calendar
+
+## Get inspiration for your exam
+
+- Inspiration page
+- Examples page
+
+## Find out what you can become at Cognitive Science
+
+- International exhange
+- Internship
+- Career
+- Student jobs
+- Science careers
+
+## Get sm0rter and sm0rter
+
+- Online courses
+- Interesting videos
+- Podcasts
+- Programming tutorials
+- Cheatsheets
+- Book recommendations
+
+<!--
 # What is cogsci.dk?
 
 Cogsci.dk is the website for all information relevant
@@ -103,3 +134,4 @@ opportunity to get lost in all of the possibilities that
 Cognitive Science brings you. With everything from
 [job inspiration](docs/careers/job-inspiration.md) (for cogsci students) to a 
 [career brochure](docs/careers/career-brochure.md) (to show others what we can do) and in the future a job bank.
+-->
