@@ -8,22 +8,22 @@ title: "CogTalks"
 
 ## CogTalks
 
-{{< details title="Psychedelics with Lasse D. Hansen" open=false >}}
-{{< youtube 2qp2Hltyn4w >}}
+{{< details title="Code Optimization with Lasse L. Hansen" open=false >}}
+
+
+{{< details title="Noam Chomsky and Generative Linguistics with Johanne K. Nedergård" open=false >}}
+
+
+{{< details title="Art Perception with Pernille B. Lassen" open=false >}}
+
+
+{{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
+{{< youtube SeXONznYB0s >}}
 {{< /details >}}
 
-{{< details title="Citizen Science with Blanka Palfi" open=false >}}
-{{< youtube J6Tw4D3MKYA >}}
-{{< /details >}}
-
-{{< details title="Casual Causality with Jonathan Rystrøm" open=false >}}
-{{< youtube xMvI4bLWoSU >}}
-{{< /details >}}
 
 {{< details title="Brain-Machine Interfacing with Esben Kran" open=false >}}
-
 {{< youtube nDDIAIdYCoc >}}
-
 [Download slides](../../../cogtalks/brain-machine/slides.pdf)
 
 ### Notes
@@ -43,6 +43,19 @@ title: "CogTalks"
 
 {{< /details >}}
 
-{{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
-{{< youtube SeXONznYB0s >}}
+
+{{< details title="Casual Causality with Jonathan Rystrøm" open=false >}}
+{{< youtube xMvI4bLWoSU >}}
 {{< /details >}}
+
+
+{{< details title="Citizen Science with Blanka Palfi" open=false >}}
+{{< youtube J6Tw4D3MKYA >}}
+{{< /details >}}
+
+
+{{< details title="Psychedelics with Lasse D. Hansen" open=false >}}
+{{< youtube 2qp2Hltyn4w >}}
+{{< /details >}}
+
+
