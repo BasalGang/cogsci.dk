@@ -8,7 +8,7 @@ title: "Career Path"
 # Careers
 This section contains information related to having a career as a CogSci graduate. 
 
-## [Job Inspiration](job-inspiration.md)
+## [Inspiration for companies](company-inspiration.md)
 This is an overview of the types of jobs and internships that other students at Cognitive Science have had. The purpose is to provide some inspiration 
 
 ## [Career Brochure](career-brochure.md)

@@ -5,5 +5,4 @@ title: "Career Brochure"
 ---
 
 # Career Brochure
-
-<iframe id="career brochure" src="static/career/karrierebrochure.pdf"></iframe>
+<iframe id="career brochure" src="../../../career/karrierebrochure.pdf" width="100%" height="700px"></iframe>
