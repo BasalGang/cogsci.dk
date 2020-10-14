@@ -9,13 +9,13 @@ title: "CogTalks"
 ## CogTalks
 
 {{< details title="Code Optimization with Lasse L. Hansen" open=false >}}
-
+{{< /details >}}
 
 {{< details title="Noam Chomsky and Generative Linguistics with Johanne K. Nedergård" open=false >}}
-
+{{< /details >}}
 
 {{< details title="Art Perception with Pernille B. Lassen" open=false >}}
-
+{{< /details >}}
 
 {{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
 {{< youtube SeXONznYB0s >}}
