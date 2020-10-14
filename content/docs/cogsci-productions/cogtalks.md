@@ -12,9 +12,11 @@ title: "CogTalks"
 {{< /details >}}
 
 {{< details title="Noam Chomsky and Generative Linguistics with Johanne K. Nedergård" open=false >}}
+{{< youtube sTC9gugg8h4 >}}
 {{< /details >}}
 
 {{< details title="Art Perception with Pernille B. Lassen" open=false >}}
+{{< youtube t9uRdeUGF7c >}}
 {{< /details >}}
 
 {{< details title="Consciousness with Christoffer L. Olesen" open=false >}}
