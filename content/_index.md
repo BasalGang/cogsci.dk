@@ -2,6 +2,7 @@
 title: "Cognitive Science"
 type: docs
 bookFlatSection: true
+bookToC: false
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
@@ -17,7 +18,7 @@ Get inspired by your fellow cognitive science students at the [blog](posts) or e
 ![Inspiration](icons/inspiration.png)
 ## Get inspiration for your exam
 
-Go through [earlier exam projects](docs/cogsci-productions/exam-projects.md), look at [_real publications_ by students at cognitive science](docs/cogsci-productions/student-publications.md), or watch some of the amaazing [CogTalks](docs/cogsci-productions/cogtalks.md) about a vast array of incredibly fascinating topics!
+Go through [earlier exam projects](docs/cogsci-productions/exam-projects.md), look at [_*real publications*_ by students at cognitive science](docs/cogsci-productions/student-publications.md), or watch some of the amaazing [CogTalks](docs/cogsci-productions/cogtalks.md) about a vast array of incredibly fascinating topics!
 
 {{< /columns >}}
 
