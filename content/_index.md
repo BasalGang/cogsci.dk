@@ -5,29 +5,35 @@ bookFlatSection: true
 ---
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
-
+<div style="text-align: center;">
+{{< columns >}}
 ![Updated](icons/updated.png)
 ## Get updated at Cognitive Science
 
 Get inspired by your fellow cognitive science students at the [blog](posts) or explore the [social and scientific calendar](calendar) and integrate it into your favourite calendar app.
 
+<--->
+
 ![Inspiration](icons/inspiration.png)
 ## Get inspiration for your exam
 
-- Inspiration page
-- Examples page
+Go through [earlier exam projects](docs/cogsci-productions/exam-projects.md), look at [_real publications_ by students at cognitive science](docs/cogsci-productions/student-publications.md), or watch some of the amaazing [CogTalks](docs/cogsci-productions/cogtalks.md) about a vast array of incredibly fascinating topics!
+
+{{< /columns >}}
+
+{{< columns >}}
 
 ![Become](icons/become.png)
 ## Find out what you can become at Cognitive Science
 
-- International exhange
-- Internship
-- Career
-- Student jobs
-- Science careers
+Read some [examples](docs/careers/job-inspiration.md) of what people are doing beyond studying at cognitive science, like [careers](docs/careers/job-inspiration.md), [exhange semesters](exhange-semester.md), [research](docs/social/au-environment.md), and [publishing](docs/cogsci-productions/student-publications.md).
+
+<--->
 
 ![Smarter](icons/smarter.png)
 ## Get smarter and smarter
+
+
 
 - Online courses
 - Interesting videos
@@ -35,6 +41,10 @@ Get inspired by your fellow cognitive science students at the [blog](posts) or e
 - Programming tutorials
 - Cheatsheets
 - Book recommendations
+
+{{< /columns >}}
+
+</div>
 
 <!--
 # What is cogsci.dk?
