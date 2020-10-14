@@ -33,14 +33,7 @@ Read some [examples](docs/careers/job-inspiration.md) of what people are doing b
 ![Smarter](icons/smarter.png)
 ## Get smarter and smarter
 
-
-
-- Online courses
-- Interesting videos
-- Podcasts
-- Programming tutorials
-- Cheatsheets
-- Book recommendations
+Check out the fantastic lists of [courses](docs/learning/online-courses.md), [programming help](docs/programming-and-statistics), and [books](docs/learning/books.md) or drop by the [blog](posts) and [CogTalks](docs/cogsci-productions/cogtalks.md) for some fantastic local production of knowledge!
 
 {{< /columns >}}
 
