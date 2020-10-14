@@ -6,19 +6,18 @@ bookFlatSection: true
 
 <!-- ![Cognitive science cover image](../cover.jpg)-->
 
-COVER IMAGE
-
+![Updated](icons/updated.png)
 ## Get updated at Cognitive Science
 
+Get inspired by your fellow cognitive science students at the [blog](posts) or explore the [social and scientific calendar](calendar) and integrate it into your favourite calendar app.
 
-- Blog
-- Calendar
-
+![Inspiration](icons/inspiration.png)
 ## Get inspiration for your exam
 
 - Inspiration page
 - Examples page
 
+![Become](icons/become.png)
 ## Find out what you can become at Cognitive Science
 
 - International exhange
@@ -27,7 +26,8 @@ COVER IMAGE
 - Student jobs
 - Science careers
 
-## Get sm0rter and sm0rter
+![Smarter](icons/smarter.png)
+## Get smarter and smarter
 
 - Online courses
 - Interesting videos
