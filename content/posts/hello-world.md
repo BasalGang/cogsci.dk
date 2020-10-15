@@ -19,7 +19,7 @@ We all have different strengths, so when we (the more website-technically-orient
 
 
 #### You can already find on here:
-* Inspiration and experience from [studying abroad](docs/support/international-exhange.md), or getting better at [programming](docs/programming-and-statistics/).
+* Inspiration and experience from [studying abroad](docs/support/exhange-semester.md), or getting better at [programming](docs/programming-and-statistics/).
 * Social activity [clubs](docs/social/social-groups.md) operating across the years.
 * A curated list of learning [materials](docs/learning/), free and paid.
 * Exam projects, publications, and CogTalks by [students](docs/cogsci-productions/)
