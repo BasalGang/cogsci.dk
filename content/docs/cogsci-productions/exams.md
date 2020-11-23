@@ -1,7 +1,7 @@
 ---
 weight: 9
 # bookFlatSection: true
-title: "Earlier Student Exam Projects"
+title: "Exam Projects"
 ---
 
 # Earlier exam projects
@@ -13,4 +13,3 @@ title: "Earlier Student Exam Projects"
 - [Mikkel & Carl]()
 - [Sebastian & Nina]()
 - [Thea, Signe & Kiri]()
-
