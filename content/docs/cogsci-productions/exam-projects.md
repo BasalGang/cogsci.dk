@@ -6,7 +6,7 @@ runtime: shiny
 ---
 
 # Earlier exam projects
-- [Anders & Laurits]()
+- [Anders & Laurits](https://gitlab.com/aucogseers/CogSite/-/blob/master/static/Old%20Assignments/CogCom/Anders%20&%20Laurits.pdf)
 - [Arnold & AnnaMaya]()
 - [Kathrine & Frederikke]()
 - [Lasse & Pernille]()
