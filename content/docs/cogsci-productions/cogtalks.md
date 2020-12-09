@@ -8,7 +8,20 @@ title: "CogTalks"
 
 ## CogTalks
 
-{{< details title="Code Optimization with Lasse L. Hansen" open=false >}}
+{{< details title="Industry Adventures with Jonathan H. Rystrøm" open=false >}}
+{{< youtube unudHAKMC9A >}}
+
+What does a data scientist actually do? Is it all awesome state-of-the-art neural network tuning, mainly powerpoints, or a mix of the two? This CogTalk will let you in on the secret! I will explain what I learned (and didn't learn) from working 1,5 years as a junior data science consultant. It will be a story of awesome models, stupid models, annoying cleaning personnel (what?) and much more. I will go through some (hopefully) interesting cases so you don't have to make all the (many) mistakes I did :))
+
+[Get the slides here](/cogtalks/jonathan-industry.pptx)
+{{< /details >}}
+
+{{< details title="Spider Cognition with Arnault-Quentin Vermillet" open=false >}}
+{{< youtube xMI8UY5tRiE >}}
+{{< /details >}}
+
+{{< details title="Linear Regression with Kenneth Enevoldsen" open=false >}}
+{{< youtube pa5uvi0WDpI >}}
 {{< /details >}}
 
 {{< details title="Noam Chomsky and Generative Linguistics with Johanne K. Nedergård" open=false >}}
@@ -61,3 +74,7 @@ title: "CogTalks"
 {{< /details >}}
 
 
+## CogSeminars
+{{< details title="Gambling Agents with Joshua Charles Skewes" open=false >}}
+{{< youtube NMsXMLL-CEc >}}
+{{< /details >}}
