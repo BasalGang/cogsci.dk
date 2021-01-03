@@ -73,6 +73,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Ideas for the future
 
+- Check out Usersnap for bug reporting https://usersnap.com/qa
 - Mental Health page [Blanka]
 - List of interesting papers (Zotero-based)
 - Lecture recordings
