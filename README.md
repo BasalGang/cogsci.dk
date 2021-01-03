@@ -36,7 +36,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
-- [ ] Update exam database shiny:
+- [ ] Update exam database shiny: (OR MAYBE MAKE A SIMPLE GITLAB_BASED ONE)
     - remove "bunden eksamen"
     - remind that online things are found by plagiarism detectors
     - add cognitive semiotics exams
@@ -70,6 +70,11 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 ### Critical: Correspondence
 
 - [ ] Assign some CogBloggers
+
+### Decisions
+
+- [ ] Gitlab vs Github
+- [ ] Grades on exam projects ? 
 
 ### Ideas for the future
 
