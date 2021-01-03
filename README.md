@@ -31,6 +31,8 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Implementation and design
 
+- [ ] Make a 'contribute to this page' button that links to the gitlab page for editing without using RStudio etc
+- [ ] Make tutorial gifs for contributing to webpage
 - [ ] Set up the blog structure (tags, categories etc.)
 - [ ] Fix the interesting videos list (split it into tutorials and talks)
 - [ ] Add dollar signs to paid courses (split in free, cheap and expensive)
