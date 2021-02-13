@@ -31,6 +31,7 @@ be created but beyond that, they are mostly created (from the CogSite SideStrukt
 
 ### Critical: Implementation and design
 
+- [ ] Set up analytics
 - [ ] Make a 'contribute to this page' button that links to the gitlab page for editing without using RStudio etc
 - [ ] Make tutorial gifs for contributing to webpage
 - [ ] Set up the blog structure (tags, categories etc.)
