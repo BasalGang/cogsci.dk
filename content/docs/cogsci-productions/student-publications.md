@@ -153,37 +153,3 @@ of Ames, and as a proof of concept that bridges can be built across times, cultu
 traditions
 
 {{< /details >}}
-
-{{< details title="Criticism of the paper \“The association between early career informal mentorship in academic collaborations and junior author performance\”" open=false >}}
-
-[Link](https://psyarxiv.com/cngmy)
-
-By [Esben Kran](https://kran.ai), 59 students, and 10 professors.
-
-2020
-
-Science of Science
-
----
-
-This article is a critique of the article “The association between early career informal mentorship in academic collaborations and junior author performance” published by Nature Communications that show relatively sexist conclusions based on spurious correlations and bad methods in general. The letter was sent to Dr. Elisa De Ranieri, editor of the journal.
-
-{{< /details >}}
-
-{{< details title="EMMA: Danish Natural-Language Processing of Emotion in Text" open=false >}}
-
-[Link](https://tidsskrift.dk/lwo/article/view/121221)
-
-By Søren Orm and [Esben Kran](https://kran.ai)
-
-2020
-
-Natural Language Processing
-
----
-
-Sentiment analysis (SA) is the research and development field of computationally analysing emotion in text. One usage example of SA could be to track the sentiment of a company’s mentions on Twitter or to analyse a book’s positivity level. In this paper, we attempt to add to this work in two ways. First, we further develop the current tool Sentida (Lauridsen et al., 2019), which was originally developed to score valence in text. Valence is the amount of positivity in a text, e.g. a review. Our new version has a higher awareness of punctuation and syntax compared to the earlier version and shows significant improvement in classifying valence compared to the previous version in three different validation datasets (p < 0.01). Second, we develop a test dataset which future developers of SA can use called Emma (Emotional Multidimensional Analysis). In Emma, we supplement the dimension valence with a further three emotional dimensions: Intensity, dominance, and utility in a dataset of sentences scored by human coders on these four dimensions. The emotional dimensions are based on cognitive psychology work throughout the last 65 years.
-
-With Emma, we present both a more reliable validation dataset and the possibility of further improving the Danish SA field by using the dataset to train a neural network with machine learning for analysing more complex emotions in text. The current standard is the 1-dimensional classification of positivity in text, but with this approach, we allow for a classification in the four dimensions of the Emma dataset that reveals much more complex emotions in texts. To allow others to work with Sentida and Emma, we help update the currently available Sentida optimized for Python and publish Emma on Github.
-
-{{< /details >}}
