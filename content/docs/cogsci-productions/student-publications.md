@@ -154,7 +154,7 @@ traditions
 
 {{< /details >}}
 
-{{< details title='Criticism of the paper “The association between early career informal mentorship in academic collaborations and junior author performance”' open=false >}}
+{{< details title="Criticism of the paper \“The association between early career informal mentorship in academic collaborations and junior author performance\”" open=false >}}
 
 [Link](https://psyarxiv.com/cngmy)
 
