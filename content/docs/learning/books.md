@@ -89,6 +89,26 @@ Sometimes a correlation does imply causation. When, how, WTF? A little book with
 ### Henrich. The secret of our success 
 [link](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success)
 
+### Centola - Change: How to Make Big Things Happen
+[Link](https://www.goodreads.com/book/show/53369466-change?from_search=true&from_srp=true&qid=qhYmUyiaLj&rank=1)
+
+### Christian - The Alignment Problem: Machine Learning and Human Values
+[Link](https://www.goodreads.com/book/show/50489349-the-alignment-problem?from_search=true&from_srp=true&qid=deQopgnhqe&rank=1)
+
+### Lindsay - Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain
+[Link](https://www.goodreads.com/book/show/50884536-models-of-the-mind?from_search=true&from_srp=true&qid=HwRTAxfEMI&rank=1)
+
+### Cobb -  The Idea of the Brain: The Past and Future of Neuroscience
+[Link](https://www.goodreads.com/book/show/51719771-the-idea-of-the-brain?from_search=true&from_srp=true&qid=tL2yifVHtZ&rank=1)
+
+Wonderful stories where people are flawed in more interesting ways and magic is mostly about learning how not to use it:
+### Pratchett - the Tiffany series
+[Link](https://www.goodreads.com/book/show/34494.The_Wee_Free_Men?from_search=true&from_srp=true&qid=so431SdZGQ&rank=1)
+
+### LeGuin - Earthsea series
+[Link](https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea?from_search=true&from_srp=true&qid=G8GahkHXPm&rank=1)
+
+
 ## Rebekah Brita Baglini
 
 ### Algorithms to Live By (Brian Christian and Tom Griffiths) 
