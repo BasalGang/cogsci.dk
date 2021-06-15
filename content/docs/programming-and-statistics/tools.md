@@ -4,37 +4,34 @@ title: "Tools"
 ---
 # Coding Programs
 
-{{< details title="Rstudio" open=false >}}
-RStudio provides free and open source tools for R
 
-https://rstudio.com/
-{{< /details >}}
+[RStudio provides free and open source tools for R](https://rstudio.com/)
 
-{{< details title="JASP" open=false >}}
-The JASP interface allows you to conduct statistical analyses in seconds, and
-without having to learn programming or risking a programming mistake.
 
-https://jasp-stats.org/
-{{< /details >}}
+[The JASP interface allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake.](https://jasp-stats.org/)
 
-{{< details title="Psychopy" open=false >}}
-Python builder (Perfect for scientific experiments)
+[Python builder (Perfect for scientific experiments)](https://www.psychopy.org/index.html)
 
-https://www.psychopy.org/index.html
-{{< /details >}}
+[Pavlovia (Psychopy In The Sky)](https://pavlovia.org/)
 
-{{< details title="Pavlovia" open=false >}}
-Pavlovia (Psychopy In The Sky)
+# Workflows
 
-https://pavlovia.org/
-{{< /details >}}
+<iframe 
+    border=0
+    frameborder=0
+    height=800
+    width=800 src="<iframe 
+    border=0
+    frameborder=0
+    height=800
+    width=800 src="XXX"></iframe>"></iframe>
+
 
 # Other Tools
 
-{{< details title="Github & Gitlab" open=false >}}
-Software development version control
+## Software development version control
 
-- http://github.com/
-- http://gitlab.com/
-{{< /details >}}
+- [Github](http://github.com/)
+- [Gitlab](http://gitlab.com/)
+
 
