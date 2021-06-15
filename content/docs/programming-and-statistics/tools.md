@@ -14,14 +14,6 @@ title: "Tools"
 
 [Pavlovia (Psychopy In The Sky)](https://pavlovia.org/)
 
-# Workflows
-
-<iframe 
-    border=0
-    frameborder=0
-    height=800
-    width=800 src="https://share.streamlit.io/victor-m-p/bayesworkflow/main/BayesWorkflow.py"></iframe>
-
 
 # Other Tools
 
