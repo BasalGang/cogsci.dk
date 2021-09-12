@@ -120,3 +120,29 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 #### The Linguistics Wars (Randy Allen Harris) 
 [link](https://www.goodreads.com/book/show/567061.The_Linguistics_Wars) 
 {{< /details >}}
+
+
+{{< details titel=”Student Recommendations” open=false >}}
+## Sebastian Scott Engen 
+### Non-Fiction
+-‘LiveWired’ will invigorate your deepest desires to do CogSci research 💖 It’s a catalog of exciting anecdotes related to Brain Plasticity (or rather “livewiring”)
+- ‘Surfaces and Essences’ is a looonnnnggggg book for the few who likes getting one idea hammered into their head with Thor’s thunder⚡ In this case, it’s that one idea is ‘Analogies are the fuel and fire of everything we hold dear’ 💗 Additionally, one of the chapters (basically a separate book) turned out being the best thing I’ve ever read on Einstein 🍬 
+- ‘The Most Human Human’ will give you a wacky introduction to grim parts of people’s personalities by exploring just how chatbots have been built to trick us into believing they’re real humans 🥳🥳🥳🤖🥳🥳🥳
+- ‘How Emotions Are Made’ will give you a sensible introduction to the finetuning of emotions across cultures and wrecks a lot of outdated research in the process 🔥
+- In ‘The Secret To Our Success,’ one of Havard’s epic evolutionary thinkers will take you on a ride that will make you appreciate new sides of life 🌄
+- ‘Becoming Human’ is a beautiful introduction to Tomasello that I enjoyed while instructing the CogCom classes 🌅🌇🌅
+- ‘Models of the mind’ is high on my To-Read List, and so is anything by Melanie Mitchel ✨✨✨
+
+### Fiction
+- ‘Childhood’s End’ has an intriguing take on emergence 🍀
+- ‘To be taught if fortunate’ will make you fall in love with anthropology 💗 It’s beautiful 💝
+{{< /details >}}
+
+
+
+
+
+
+
+
+
