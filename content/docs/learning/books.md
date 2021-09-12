@@ -122,7 +122,7 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 {{< /details >}}
 
 
-{{< details titel=”Student Recommendations” open=false >}}
+{{< details title=”Student Recommendations” open=false >}}
 ## Sebastian Scott Engen 
 ### Non-Fiction
 - ‘LiveWired’ will invigorate your deepest desires to do CogSci research 💖 It’s a catalog of exciting anecdotes related to Brain Plasticity (or rather “livewiring”)
