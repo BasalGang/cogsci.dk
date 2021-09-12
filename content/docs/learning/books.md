@@ -25,7 +25,7 @@ title: "Books"
 [link](https://ademos.people.uic.edu/index.html)
 {{< /details >}}
 
-{{< details title="Teacher Recomendations" open=false >}}
+{{< details title="Teacher Recommendations" open=false >}}
 ## Savhannah Schulz
 ### The Predictive Mind by Jakob Hohwy
 [link](https://www.goodreads.com/book/show/18012311-the-predictive-mind)
@@ -122,7 +122,8 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 {{< /details >}}
 
 
-{{< details title=”Student Recommendations” open=false >}}
+{{< details title="Student Recommendations" open=false >}}
+
 ## Sebastian Scott Engen 
 ### Non-Fiction
 - ‘LiveWired’ will invigorate your deepest desires to do CogSci research 💖 It’s a catalog of exciting anecdotes related to Brain Plasticity (or rather “livewiring”)
@@ -136,6 +137,7 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 ### Fiction
 - ‘Childhood’s End’ has an intriguing take on emergence 🍀
 - ‘To be taught if fortunate’ will make you fall in love with anthropology 💗 It’s beautiful 💝
+
 {{< /details >}}
 
 
