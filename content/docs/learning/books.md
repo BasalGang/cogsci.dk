@@ -138,6 +138,24 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 - ‘Childhood’s End’ has an intriguing take on emergence 🍀
 - ‘To be taught if fortunate’ will make you fall in love with anthropology 💗 It’s beautiful 💝
 
+## Esben Kran
+### Non-Fiction
+- How to Create a Mind
+- Politics and the English Language
+- Blueprint: The Evolutionary Origins of a Good Society
+- How to Actually Change Your Mind
+- I Am a Strange Loop
+- Elon Musk by Ashlee Vance
+- The Alignment Problem by Brian Christian
+- Blueprint for Revolution
+- The Book of Joy
+- Black Swan by Nassim Nicolas Taleb
+
+### Fiction
+- The Fifth Science by Exurb1a. A fantastic collection of short sci-fi stories about consciousness.
+- Logic Beach by Exurb1a. Awesome sci-fi story of computational physics.
+
+
 {{< /details >}}
 
 
