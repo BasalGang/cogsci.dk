@@ -73,8 +73,10 @@ What does a data scientist actually do? Is it all awesome state-of-the-art neura
 {{< youtube 2qp2Hltyn4w >}}
 {{< /details >}}
 
+{{< details title="When Reality Breaks (Brain Anomalies) with Lasse D. Elholm" open=false >}}
+{{< youtube 8v615pEHmzg >}}
+{{< /details >}}
 
-## CogSeminars
-{{< details title="Gambling Agents with Joshua Charles Skewes" open=false >}}
-{{< youtube NMsXMLL-CEc >}}
+{{< details title="Making Safe AI with Cognitive Science and with Jonathan H. Rystrøm" open=false >}}
+{{< youtube WE1w49x0Gnk >}}
 {{< /details >}}
