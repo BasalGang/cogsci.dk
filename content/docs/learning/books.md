@@ -155,6 +155,21 @@ Wonderful stories where people are flawed in more interesting ways and magic is 
 - The Fifth Science by Exurb1a. A fantastic collection of short sci-fi stories about consciousness.
 - Logic Beach by Exurb1a. Awesome sci-fi story of computational physics.
 
+## Luke Ring
+
+### Non-Fiction
+
+<span style="width:150px; height:100px; float: left; margin-right: 15px;">
+
+![Book cover for Carl Sagan's "The Demon-Haunted World"](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553691804l/17349._SX318_.jpg)
+
+</span>
+
+[The Demon-Haunted World](https://www.goodreads.com/book/show/17349.The_Demon_Haunted_World) by Carl Sagan
+
+A wonderful book, which is still relevant. The Demon-Haunted World discusses how prone we are as humans to misinterpret our perceptions. It's a soft approach to scientific skepticism that doesn't attack those who fall prey to logicial fallacies and cognitive biases, instead Sagan points out the problems and offers ways to avoid them. He has an writing style that often approaches the poetic. It's likely you may even know a quote of his from another work "Pale Blue Dot".
+<span style="clear: both;"></span>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GO5FwsblpT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{< /details >}}
 
