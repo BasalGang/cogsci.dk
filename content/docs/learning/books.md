@@ -171,6 +171,13 @@ A wonderful book, which is still relevant. The Demon-Haunted World discusses how
 <span style="clear: both;"></span>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GO5FwsblpT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Jonathan Rystrøm
+### Non-Fiction
+- [The Age Of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism): An extremely smart of how tech companies are creating a new kind of capitalism - a must read if you want to work in tech without destroying humanity :))
+- [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence): **The Bible** of AI Safety! Bostrom takes you on a tour de force of why making AI safe is an incredibly difficult and important problem.
+
+### Fiction
+- [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World): A Classic for a reason - it really highlights how difficult it is to create a pleasing utopia
 {{< /details >}}
 
 
