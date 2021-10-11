@@ -153,3 +153,19 @@ of Ames, and as a proof of concept that bridges can be built across times, cultu
 traditions
 
 {{< /details >}}
+
+{{< details title="SEIZ Matters: Modelling the spread of concepts on Twitter" open=false >}}
+
+[Link](https://tidsskrift.dk/lwo/article/view/121220)
+
+By Jonathan H. Rystrøm
+
+2020/07/03
+
+Language-Works
+
+---
+
+How do different concepts spread on social media? This question is becoming increasingly important as much of our time, discussion, and news consumption move online. This paper investigates the use of two models from epidemiology, namely the classical SI-model and the sociology-inspired SEIZ-model, to model and understand this phenomenon. I study the spread of two concepts during the 2019 Danish national election, klimatosse (climate fool) and Paludan on Twitter, both of which played key roles in the election season and had epidemic qualities in their usage throughout social media.  I find that although both models can provide decent fits of the data, the SEIZ-model outperforms the SI-model by a wide margin. Furthermore, the parameters can be interpreted to provide a deeper understanding of the two phenomena and how they spread.
+
+{{< /details >}}
