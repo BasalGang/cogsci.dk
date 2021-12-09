@@ -20,7 +20,7 @@ title: "CogTalks"
 {{< /details >}}
 
 {{< details title="Emotions with Sebastian Scott Engen" open=false >}}
-{{< youtube qFhw3qd-n1g >}}
+{{< youtube 1PK-gpzx5f8 >}}
 {{< /details >}}
 
 {{< details title="When Reality Breaks (Brain Anomalies) with Lasse D. Elholm" open=false >}}
