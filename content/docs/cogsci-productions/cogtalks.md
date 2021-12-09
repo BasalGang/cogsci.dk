@@ -7,6 +7,21 @@ title: "CogTalks"
 # Cog Productions
 
 ## CogTalks
+{{< details title="Social Compliance during Covid-19 with Lasse Hyldig Hansen" open=false >}}
+{{< youtube aVBTCX3iCDw >}}
+{{< /details >}}
+
+{{< details title="Neuroimaging & Machine Learning with Esben Kran" open=false >}}
+{{< youtube O8DaiK2Dm-A >}}
+{{< /details >}}
+
+{{< details title="Experience Engineering with Aleksandrs Baskakovs" open=false >}}
+{{< youtube ZVkmnXEN2ys >}}
+{{< /details >}}
+
+{{< details title="Emotions with Sebastian Scott Engen" open=false >}}
+{{< youtube qFhw3qd-n1g >}}
+{{< /details >}}
 
 {{< details title="When Reality Breaks (Brain Anomalies) with Lasse D. Elholm" open=false >}}
 {{< youtube 8v615pEHmzg >}}
