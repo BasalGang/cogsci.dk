@@ -28,7 +28,7 @@ Your Sebber 💗
 ![[static/Old Assignments/CogCom/How to write CogCom copy.pdf]]
 
 ## Old Assignments
-![[static/Old Assignments/CogCom/Anders & Laurits.pdf]]
+![Anders & Laurits](static/Old Assignments/CogCom/Anders & Laurits.pdf)
 
 ![[static/Old Assignments/CogCom/Arnold & AnnaMaya.pdf]]
 
