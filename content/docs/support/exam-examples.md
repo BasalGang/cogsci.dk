@@ -24,22 +24,4 @@ In general, I would say that your focus should be less on presenting your own vi
 All the best,
 Your Sebber 💗
 
-## How To Write A CogCom
-![[static/Old Assignments/CogCom/How to write CogCom copy.pdf]]
 
-## Old Assignments
-![Anders & Laurits](static/Old Assignments/CogCom/Anders & Laurits.pdf)
-
-![[static/Old Assignments/CogCom/Arnold & AnnaMaya.pdf]]
-
-![[static/Old Assignments/CogCom/Lasse & Pernille.pdf]]
-
-![[static/Old Assignments/CogCom/Lisa & Line.pdf]]
-
-![[static/Old Assignments/CogCom/Mikkel & Carl.pdf]]
-
-![[static/Old Assignments/CogCom/Sebastian & Nina.pdf]]
-
-![[static/Old Assignments/CogCom/Thea, Signe, Kiri.pdf]]
-
-![[static/Old Assignments/CogCom/kathrine & Frederikke.pdf]]
