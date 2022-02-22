@@ -19,3 +19,6 @@ Here students can find examples for the bound exam assignments in order to get a
 
 ## [Writing Tools](writing-tools.md)
 Here are various tools and guides to help students with writing academic papers.
+
+## [IV application guide](preapproval.md)
+A guide for how to apply for courses outside of arts.
