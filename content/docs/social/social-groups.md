@@ -129,3 +129,12 @@ FB Contact: https://www.facebook.com/mia.jacobsen.96
 
 FB group: https://www.facebook.com/groups/378584212822785/
 
+{{< /details >}}
+
+{{< details title="BrainWaves" open=false >}}
+
+FB contact: https://www.facebook.com/emma.olsen.35
+
+FB group: https://www.facebook.com/groups/723145074907046
+
+{{< /details >}}
