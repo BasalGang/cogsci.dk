@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Shortcodes"
 weight: 10
 ---
@@ -26,16 +26,16 @@ Buttons are styled links that can lead to local page or external link.
 Columns help organize shorter pieces of content horizontally for readability.
 
 ```html
-{{</* columns */>}} <!-- begin columns block -->
+{{</* columns */>}} 
 # Left Content
 Lorem markdownum insigne...
 
-<---> <!-- magic sparator, between columns -->
+
 
 # Mid Content
 Lorem markdownum insigne...
 
-<---> <!-- magic sparator, between columns -->
+
 
 # Right Content
 Lorem markdownum insigne...
@@ -44,7 +44,7 @@ Lorem markdownum insigne...
 
 ### Example
 
-{{< columns >}}
+{{% columns %}}
 
 ### Left Content
 
@@ -53,14 +53,14 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
 Miseratus fonte Ditis conubia.
 
-<--->
+
 
 ### Mid Content
 
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter!
 
-<--->
+
 
 ### Right Content
 
@@ -68,7 +68,7 @@ Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 protulit, sed sed aere valvis inhaesuro Pallas animam: qui _quid_, ignes.
 Miseratus fonte Ditis conubia.
-{{< /columns >}}
+{{% /columns %}}
 
 ## Details
 
@@ -136,21 +136,17 @@ KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX
 
 ### Example
 
-{{< columns >}}
-
 ```latex
 {{</* katex [display] [class="text-center"]  */>}}
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{</* /katex */>}}
 ```
 
-<--->
 
 {{< katex display >}}
 f(x) = \int\_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 {{< /katex >}}
 
-{{< /columns >}}
 
 ### Display Mode Example
 
@@ -166,7 +162,7 @@ Text continues here.
 
 ### Example
 
-{{< columns >}}
+{{% columns %}}
 
 ```tpl
 {{</* mermaid [class="text-center"]*/>}}
@@ -183,7 +179,7 @@ sequenceDiagram
 {{</* /mermaid */>}}
 ```
 
-<--->
+
 
 {{< mermaid >}}
 sequenceDiagram
@@ -198,7 +194,7 @@ Bob->>Alice: Thanks for asking
 end
 {{< /mermaid >}}
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Tabs
 
@@ -254,4 +250,4 @@ Miseratus fonte Ditis conubia.
 
 # Software
 
-Search for the markdown extension on VSCODE to make your life much easier when writing markdown. It highlights and helps you automatically create the correct syntax.
+Search for the markdown extension on VSCODE to make your life much easier when writing markdown. It highlights and helps you automatically create the correct syntax. -->
