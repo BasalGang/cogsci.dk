@@ -19,6 +19,10 @@ build_site()
 #### Run
 blogdown::serve_site()
 #### Terminate
-servr::daemon_stop(1)
+#servr::daemon_stop(1)
+#blogdown::stop_server()
+```
+```{r}
+blogdown::stop_server()
 ```
 
