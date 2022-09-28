@@ -1,7 +1,7 @@
 # provide your domain here
 baseURL = "https://cogsci.dk/"
 # theme
-theme = "hugo-book-local"
+theme = "hugo-book"
 # site title
 title = ""
 
