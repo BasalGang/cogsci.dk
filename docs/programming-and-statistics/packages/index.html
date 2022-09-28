@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="R Packages Basic utilities Package Description By dplyr A grammar of data manipulation tidyverse tidyr Tidy data with spread and gather functions tidyverse purrr A functional programming toolkit tidyverse plyr llply() and ldply() as for-loop replacements Hadley Wickham tibble Modern reimagining of the data.frame tidyverse data.table Alternative data frame. Quicker for big datasets Tyson Barrett recipes Preprocessing pipelines tidyverse groupdata2 Create groups, folds and partitions Ludvig Olsen rearrr Transform and rearrrange data Ludvig Olsen Text manipulation Package Description By stringr String manipulation tidyverse tidytext Tidy text analysis Julia Silge, David Robinson quanteda Quantitative analysis of text quanteda spacyr spaCy API for R quanteda sentida Sentiment analysis Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen Modeling Package Description By lme4 Linear mixed-effects models Douglas Bates, et al.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Useful packages" />
+<meta property="og:description" content="R Packages Basic utilities Package Description By dplyr A grammar of data manipulation tidyverse tidyr Tidy data with spread and gather functions tidyverse purrr A functional programming toolkit tidyverse plyr llply() and ldply() as for-loop replacements Hadley Wickham tibble Modern reimagining of the data.frame tidyverse data.table Alternative data frame. Quicker for big datasets Tyson Barrett recipes Preprocessing pipelines tidyverse groupdata2 Create groups, folds and partitions Ludvig Olsen rearrr Transform and rearrrange data Ludvig Olsen Text manipulation Package Description By stringr String manipulation tidyverse tidytext Tidy text analysis Julia Silge, David Robinson quanteda Quantitative analysis of text quanteda spacyr spaCy API for R quanteda sentida Sentiment analysis Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen Modeling Package Description By lme4 Linear mixed-effects models Douglas Bates, et al." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cogsci.dk/docs/programming-and-statistics/packages/" /><meta property="article:section" content="docs" />
+
+<meta property="article:modified_time" content="2022-09-28T15:16:36+02:00" />
+
+<title>Useful packages | </title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.a6b819be2858f4e40a7bbe9927a4f1058650c22653338756c45704213af53190.css" integrity="sha256-prgZvihY9OQKe76ZJ6TxBYZQwiZTM4dWxFcEITr1MZA=">
+<script defer src="/en.search.min.e691d07a87d3eab83d68b40f60c79ad03cd4a2d93746114170422d5b9ab39b35.js" integrity="sha256-5pHQeofT6rg9aLQPYMea0DzUotk3RhFBcEItW5qzmzU="></script>
+
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><img src="/logo.jpg" alt="Logo" /><span></span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+  <li>
+    <a href="/calendar/" >
+        CogSci Calendar
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+    <a href="/docs/social/" class="collapsed ">Social Hub</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/careers/" class="collapsed ">Career Path</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/cogsci-productions/" class="collapsed ">CogSci Productions</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/learning/" class="collapsed ">Extended learning</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/" class="collapsed ">Programming and statistics</a>
+  
+
+          
+  
+  
+  
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/cheat-sheet/" class="">Programming Cheatsheets</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/packages/" class="active">Useful packages</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/guides/" class="">Guides</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/tools/" class="">Tools</a>
+  
+
+        </li>
+      
+    
+  </ul>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/support/" class="collapsed ">Help and Support</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+    <a href="/docs/about/" class="">About this site</a>
+  
+
+          
+  
+  
+  
+
+  
+  <ul>
+    
+  </ul>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contact/" class="collapsed ">Contact</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contribute/" class="collapsed ">Contribute</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+  </ul>
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/docs/issues/" target="_blank" rel="noopener">
+        Found an error? Report it here!
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+<script>
+  {
+    {
+      . | safeJS
+    }
+  }
+</script>
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Useful packages</strong>
+
+  <label for="toc-control">
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+  </label>
+</div>
+
+
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="r-packages">R Packages</h1>
+<details >
+  <summary>Basic utilities</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/dplyr"><code>dplyr</code></a></td>
+<td style="text-align:left">A grammar of data manipulation</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/tidyr"><code>tidyr</code></a></td>
+<td style="text-align:left">Tidy data with spread and gather functions</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/purrr"><code>purrr</code></a></td>
+<td style="text-align:left">A functional programming toolkit</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/hadley/plyr"><code>plyr</code></a></td>
+<td style="text-align:left"><code>llply()</code> and <code>ldply()</code> as for-loop replacements</td>
+<td style="text-align:left">Hadley Wickham</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/tibble/"><code>tibble</code></a></td>
+<td style="text-align:left">Modern reimagining of the <code>data.frame</code></td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/Rdatatable/data.table"><code>data.table</code></a></td>
+<td style="text-align:left">Alternative data frame. Quicker for big datasets</td>
+<td style="text-align:left">Tyson Barrett</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidymodels/recipes"><code>recipes</code></a></td>
+<td style="text-align:left">Preprocessing pipelines</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/LudvigOlsen/groupdata2"><code>groupdata2</code></a></td>
+<td style="text-align:left">Create groups, folds and partitions</td>
+<td style="text-align:left">Ludvig Olsen</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/LudvigOlsen/rearrr"><code>rearrr</code></a></td>
+<td style="text-align:left">Transform and <em>rearrrange</em> data</td>
+<td style="text-align:left">Ludvig Olsen</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>Text manipulation</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/stringr"><code>stringr</code></a></td>
+<td style="text-align:left">String manipulation</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/juliasilge/tidytext"><code>tidytext</code></a></td>
+<td style="text-align:left">Tidy text analysis</td>
+<td style="text-align:left">Julia Silge, David Robinson</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/quanteda/quanteda"><code>quanteda</code></a></td>
+<td style="text-align:left">Quantitative analysis of text</td>
+<td style="text-align:left">quanteda</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/quanteda/spacyr"><code>spacyr</code></a></td>
+<td style="text-align:left">spaCy API for R</td>
+<td style="text-align:left">quanteda</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/Guscode/Sentida"><code>sentida</code></a></td>
+<td style="text-align:left">Sentiment analysis</td>
+<td style="text-align:left">Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>Modeling</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/lme4/lme4"><code>lme4</code></a></td>
+<td style="text-align:left">Linear mixed-effects models</td>
+<td style="text-align:left">Douglas Bates, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/paul-buerkner/brms"><code>brms</code></a></td>
+<td style="text-align:left">Bayesian modeling</td>
+<td style="text-align:left">Paul-Christian Bürkner</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/LudvigOlsen/cvms"><code>cvms</code></a></td>
+<td style="text-align:left">Evaluation and cross-validation of models</td>
+<td style="text-align:left">Ludvig Olsen</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidymodels/parsnip"><code>parsnip</code></a></td>
+<td style="text-align:left">Tidy, unified interface to model functions</td>
+<td style="text-align:left">tidymodels</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/ecpolley/SuperLearner"><code>superlearner</code></a></td>
+<td style="text-align:left">Ensemble methods</td>
+<td style="text-align:left">Eric Polley, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://keras.rstudio.com/"><code>keras</code></a></td>
+<td style="text-align:left">Deep learning framework</td>
+<td style="text-align:left">Daniel Falbel, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://tensorflow.rstudio.com/"><code>tensorflow</code></a></td>
+<td style="text-align:left">Deep learning framework</td>
+<td style="text-align:left">Daniel Falbel, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/mlr-org/mlr3/"><code>mlr3</code></a></td>
+<td style="text-align:left">Object-oriented machine learning framework</td>
+<td style="text-align:left">Michel Lang, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://cran.r-project.org/package=e1071"><code>e1071</code></a></td>
+<td style="text-align:left">Different model functions</td>
+<td style="text-align:left">David Meyer, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/easystats/performance"><code>performance</code></a></td>
+<td style="text-align:left">Evaluating performance of models</td>
+<td style="text-align:left">easystats</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidymodels/yardstick/"><code>yardstick</code></a></td>
+<td style="text-align:left">Evaluation metrics</td>
+<td style="text-align:left">tidymodels</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/easystats/insight"><code>insight</code></a></td>
+<td style="text-align:left">Extract model attributes</td>
+<td style="text-align:left">easystats</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://cran.r-project.org/package=MuMIn"><code>MuMIn</code></a></td>
+<td style="text-align:left">Model object metrics</td>
+<td style="text-align:left">Kamil Bartoń</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>Visualization</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/tidyverse/ggplot2"><code>ggplot2</code></a></td>
+<td style="text-align:left">Make plots</td>
+<td style="text-align:left">tidyverse</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/thomasp85/patchwork"><code>patchwork</code></a></td>
+<td style="text-align:left">Combine separate ggplots</td>
+<td style="text-align:left">Thomas Lin Pedersen</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/thomasp85/ggforce"><code>ggforce</code></a></td>
+<td style="text-align:left">Accelerating ggplot2</td>
+<td style="text-align:left">Thomas Lin Pedersen</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/easystats/see"><code>see</code></a></td>
+<td style="text-align:left">Visualisation toolbox</td>
+<td style="text-align:left">easystats</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/GuangchuangYu/ggimage"><code>ggimage</code></a></td>
+<td style="text-align:left">Add images to ggplots</td>
+<td style="text-align:left">Guangchuang YU</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/marcusvolz/mathart"><code>mathart</code></a></td>
+<td style="text-align:left">Create mathematical art</td>
+<td style="text-align:left">Marcus Volz</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>R development</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/r-lib/usethis"><code>usethis</code></a></td>
+<td style="text-align:left">Automate package and project setup tasks</td>
+<td style="text-align:left">Hadley Wickham, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://testthat.r-lib.org/"><code>testthat</code></a></td>
+<td style="text-align:left">Framework for unit-testing functions</td>
+<td style="text-align:left">Hadley Wickham</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/LudvigOlsen/xpectr"><code>xpectr</code></a></td>
+<td style="text-align:left">Generate <code>testthat</code> tests</td>
+<td style="text-align:left">Ludvig Olsen</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/mllg/checkmate"><code>checkmate</code></a></td>
+<td style="text-align:left">Fast input checks in functions</td>
+<td style="text-align:left">Michel Lang</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<h1 id="python-packages">Python Packages</h1>
+<details >
+  <summary>Basic utilities</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://numpy.org/"><code>numpy</code></a></td>
+<td style="text-align:left">Numerical computing (arrays and math operations)</td>
+<td style="text-align:left">Travis Oliphant, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://pandas.pydata.org/docs/"><code>pandas</code></a></td>
+<td style="text-align:left">Data frames</td>
+<td style="text-align:left">Wes McKinney, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://www.scipy.org"><code>scipy</code></a></td>
+<td style="text-align:left">Scientific computing</td>
+<td style="text-align:left">Pauli Virtanen, et al.</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>Modeling</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://scikit-learn.org/stable/">scikit-learn (<code>sklearn</code>)</a></td>
+<td style="text-align:left">Everything in machine learning</td>
+<td style="text-align:left">Pedregosa, F., et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://www.tensorflow.org/"><code>tensorflow</code></a></td>
+<td style="text-align:left">Deep learning framework</td>
+<td style="text-align:left">Martín Abadi, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://pytorch.org/"><code>pytorch</code></a></td>
+<td style="text-align:left">Deep learning framework</td>
+<td style="text-align:left">Adam Paszke, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/google/jax/"><code>jax</code></a></td>
+<td style="text-align:left">High-performance machine learning research</td>
+<td style="text-align:left">James Bradbury, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://pystan.readthedocs.io/en/latest/"><code>PyStan</code></a></td>
+<td style="text-align:left">Bayesian inference (<em>stan</em> interface)</td>
+<td style="text-align:left">PyStan</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/pymc-devs/pymc3"><code>PyMC3</code></a></td>
+<td style="text-align:left">Bayesian statistical modeling and Probabilistic Machine Learning</td>
+<td style="text-align:left">Salvatier J., et al.</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>Neuro</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/mne-tools/mne-python"><code>mne</code></a></td>
+<td style="text-align:left">M/EEG analysis and visualization</td>
+<td style="text-align:left">Alexandre Gramfort, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="http://nipy.org/nipy/"><code>nipy</code></a></td>
+<td style="text-align:left">Neuroimaging tools</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="http://nipy.org/nitime/"><code>nitime</code></a></td>
+<td style="text-align:left">Timeseries analysis for neuroscience data</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="http://nilearn.github.io/"><code>nilearn</code></a></td>
+<td style="text-align:left">scikit-learn for neuroimaging data</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://nipy.org/nibabel/"><code>nibabel</code></a></td>
+<td style="text-align:left">Read / write common neuroimaging file formats</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/nipy/nipype"><code>nilearn</code></a></td>
+<td style="text-align:left">Workflows and interfaces for neuroimaging packages</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/nipy/PySurfer"><code>PySurfer</code></a></td>
+<td style="text-align:left">Neuroimaging visualization</td>
+<td style="text-align:left">NiPy</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="http://www.pymvpa.org/"><code>PyMVPA</code></a></td>
+<td style="text-align:left">Multivariate pattern analysis</td>
+<td style="text-align:left">Michael Hanke, et al.</td>
+</tr>
+<tr>
+<td style="text-align:left">
+  <a href="https://fmriprep.org/en/stable/"><code>fMRIPrep</code></a></td>
+<td style="text-align:left">Robust Preprocessing Pipeline for fMRI Data</td>
+<td style="text-align:left">Oscar Esteban, et al.</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+<details >
+  <summary>NLP</summary>
+  <div class="markdown-inner">
+    <table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">By</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">
+  <a href="https://github.com/makcedward/nlpaug"><code>nlpaug</code></a></td>
+<td style="text-align:left">Text and audio augmentation</td>
+<td style="text-align:left">Edward Ma</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+</details>
+
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

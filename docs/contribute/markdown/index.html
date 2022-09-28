@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Writing in markdown Software basics One of the absolute best ways to write markdown files is to use Visual Studio Code and install the Markdown All in One plugin that adds highlighting and assistive features when you&rsquo;re editing a .md file. This is extremely useful. Some usage examples are shown on the link.
+Text basics Writing text and clicking enter to get to the next line just continues your current line.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Markdown" />
+<meta property="og:description" content="Writing in markdown Software basics One of the absolute best ways to write markdown files is to use Visual Studio Code and install the Markdown All in One plugin that adds highlighting and assistive features when you&rsquo;re editing a .md file. This is extremely useful. Some usage examples are shown on the link.
+Text basics Writing text and clicking enter to get to the next line just continues your current line." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cogsci.dk/docs/contribute/markdown/" /><meta property="article:section" content="docs" />
+
+<meta property="article:modified_time" content="2022-09-28T15:16:36+02:00" />
+
+<title>Markdown | </title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.a6b819be2858f4e40a7bbe9927a4f1058650c22653338756c45704213af53190.css" integrity="sha256-prgZvihY9OQKe76ZJ6TxBYZQwiZTM4dWxFcEITr1MZA=">
+<script defer src="/en.search.min.e691d07a87d3eab83d68b40f60c79ad03cd4a2d93746114170422d5b9ab39b35.js" integrity="sha256-5pHQeofT6rg9aLQPYMea0DzUotk3RhFBcEItW5qzmzU="></script>
+
+<script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><img src="/logo.jpg" alt="Logo" /><span></span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Blog
+      </a>
+  </li>
+  
+  <li>
+    <a href="/calendar/" >
+        CogSci Calendar
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+    <a href="/docs/social/" class="collapsed ">Social Hub</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/careers/" class="collapsed ">Career Path</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/cogsci-productions/" class="collapsed ">CogSci Productions</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/learning/" class="collapsed ">Extended learning</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/programming-and-statistics/" class="collapsed ">Programming and statistics</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/support/" class="collapsed ">Help and Support</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+    <a href="/docs/about/" class="">About this site</a>
+  
+
+          
+  
+  
+  
+
+  
+  <ul>
+    
+  </ul>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contact/" class="collapsed ">Contact</a>
+  
+
+          
+  
+  
+  
+
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contribute/" class="collapsed ">Contribute</a>
+  
+
+          
+  
+  
+  
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contribute/adding-content/" class="">Adding content</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contribute/markdown/" class="active">Markdown</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+    <a href="/docs/contribute/writing-a-blog-post/" class="">Writing a blog post</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+  
+
+        </li>
+      
+    
+  </ul>
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/docs/issues/" target="_blank" rel="noopener">
+        Found an error? Report it here!
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+<script>
+  {
+    {
+      . | safeJS
+    }
+  }
+</script>
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Markdown</strong>
+
+  <label for="toc-control">
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+  </label>
+</div>
+
+
+  
+    <input type="checkbox" class="hidden" id="toc-control" />
+    <aside class="hidden clearfix">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#writing-in-markdown">Writing in markdown</a>
+      <ul>
+        <li><a href="#software-basics">Software basics</a></li>
+        <li><a href="#text-basics">Text basics</a></li>
+        <li><a href="#headings">Headings</a></li>
+        <li><a href="#normal-formatting">Normal formatting</a></li>
+        <li><a href="#special-text-formatting">Special text formatting</a></li>
+        <li><a href="#emojis">Emojis</a></li>
+        <li><a href="#advanced-structure-formatting">Advanced structure formatting</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+    </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="writing-in-markdown">Writing in markdown</h1>
+<h2 id="software-basics">Software basics</h2>
+<p>One of the absolute best ways to write markdown files is to
+use Visual Studio Code and install the
+
+  <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">Markdown All in One</a>
+plugin that adds highlighting and assistive features when
+you&rsquo;re editing a .md file. This is <em>extremely</em> useful. Some
+usage examples are shown on 
+  <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">the link</a>.</p>
+<h2 id="text-basics">Text basics</h2>
+<p>Writing text and clicking <code>enter</code> to get to the next line just continues your current line. If you write two spaces at the end of the line
+and click <code>enter</code>, it becomes a new line.</p>
+<p>However, to get a new paragraph like I just did, you have to leave a whole empty line between this text and the previous.</p>
+<h2 id="headings">Headings</h2>
+<p>You write headings from level 1 to 6 (size and hierarchy) by preceding these headings with the pound (#) symbol X amount of times:</p>
+<p># Title of my blog post</p>
+<p>## A heading 2 in my blog post</p>
+<p>### And, wow, a heading 3!</p>
+<p>These headings show up in the right hand menu.</p>
+<h2 id="normal-formatting">Normal formatting</h2>
+<p>Additionally, there&rsquo;s these normal awesome text formatting things:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <em>This is italicized</em></li>
+<li><input disabled="" type="checkbox"> <strong>This is phatt</strong>**</li>
+<li><input disabled="" type="checkbox"> <del>This is crossed out</del></li>
+<li><input disabled="" type="checkbox"> Oh my, there&rsquo;s also a list in the middle of it all
+<ul>
+<li><input disabled="" type="checkbox"> Sub points 2 spaces in</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> with checkmarks!</li>
+</ul>
+<p>These are written as such:</p>
+<pre tabindex="0"><code>\- \[ \] \*This is italicized\*
+\- \[ \] \*\*This is phatt\*\*
+\- \[ \] \~\~This is crossed out\~\~
+\- \[ \] Oh my, there&#39;s also a list in the middle of it all
+\- \[ \] Sub points 2 spaces in
+\- \[x\] with checkmarks!
+</code></pre><p>Ordered list:</p>
+<pre tabindex="0"><code>\1 Text
+\2 Text
+\3 Text
+</code></pre><p>I might want to write other stuff as well. Maybe even a 
+  <a href="https://gitlab.com/aucogseers/CogSite">link to some cool stuff</a> by writing [text](link). To quickly create links from URLs like this 
+  <a href="https://gitlab.com/aucogseers/CogSite">https://gitlab.com/aucogseers/CogSite</a>, write <code>&lt;https://gitlab.com/aucogseers/CogSite&gt;</code>.
+You can also reference other sections on the post by referring to their titles like this: 
+  <a href="/#writing-in-markdown">Writing in markdown</a> <code>[Writing in markdown](#writing-in-markdown)</code></p>
+<p>You might also want an image like this in your post:</p>
+<p>
+  <img src="https://p1.pxfuel.com/preview/441/719/609/animal-themes-animal-one-animal-mammal-animal-wildlife-panda-animal-plant.jpg" alt="Lazy blog animal" /></p>
+<p>You can get this by writing ![Text shown if image doesn&rsquo;t load](/posts/your-blog-post/link-to-image.jpg).</p>
+<p>You can see how these characters are used by the formatting (*, [], ()). If you want to use them without affecting formatting, just but a backslash in front of the symbol as such: \*, \[\], \(\).</p>
+<p>To create a line like this&hellip;</p>
+<hr>
+<p>&hellip;write either <code>***</code>, <code>---</code> or <code>________</code>. The output will look the same. And remember to put blank lines before and after the line.</p>
+<h2 id="special-text-formatting">Special text formatting</h2>
+<p>I can write in-line code like this <code>in-line code</code> by writing `in-line code` and create a code block like this&hellip;</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#a6e22e">This</span> <span style="color:#a6e22e">is</span> <span style="color:#a6e22e">a</span> <span style="color:#a6e22e">code</span> <span style="color:#a6e22e">block</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">WriteBlogPost</span>(<span style="color:#66d9ef">new</span> <span style="color:#a6e22e">DateTime</span>(<span style="color:#a6e22e">DateTime</span>.<span style="color:#a6e22e">now</span>()));
+</span></span></code></pre></div><p>&hellip;by writing it like this:</p>
+<p>```javascript
+// Put your javascript code here
+// Replace the &ldquo;javascript&rdquo; tag with another language (like &ldquo;python&rdquo;) and it will create syntax highlighting
+```</p>
+<p>Quotes like this&hellip;</p>
+<blockquote>
+<p>This is a multi-line
+quote text</p>
+</blockquote>
+<p>&hellip;are written like this:</p>
+<pre tabindex="0"><code>\&gt; This is a multi-line
+\&gt; quote text
+</code></pre><h2 id="emojis">Emojis</h2>
+<p>You can write emojis like these:</p>
+<table>
+<thead>
+<tr>
+<th>Smiley</th>
+<th>Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>:innocent:</td>
+<td>:innocent:</td>
+</tr>
+<tr>
+<td>:star_struck:</td>
+<td>:star_struck:</td>
+</tr>
+</tbody>
+</table>
+<p>See more smiley codes 
+  <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">here</a>.</p>
+<h2 id="advanced-structure-formatting">Advanced structure formatting</h2>
+<p>You can write a table like this&hellip;</p>
+<table>
+<thead>
+<tr>
+<th>First row item</th>
+<th>Another one!</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>This is some content, though</td>
+<td>Even more! When will it stop?</td>
+</tr>
+</tbody>
+</table>
+<p>&hellip;by writing:</p>
+<pre tabindex="0"><code>\| First row item               | Another one!                  |
+\| ---------------------------- | ----------------------------- |
+\| This is some content, though | Even more! When will it stop? |
+</code></pre></article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#writing-in-markdown">Writing in markdown</a>
+      <ul>
+        <li><a href="#software-basics">Software basics</a></li>
+        <li><a href="#text-basics">Text basics</a></li>
+        <li><a href="#headings">Headings</a></li>
+        <li><a href="#normal-formatting">Normal formatting</a></li>
+        <li><a href="#special-text-formatting">Special text formatting</a></li>
+        <li><a href="#emojis">Emojis</a></li>
+        <li><a href="#advanced-structure-formatting">Advanced structure formatting</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
