@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming and statistics on </title>
+    <link>https://cogsci.dk/docs/programming-and-statistics/</link>
+    <description>Recent content in Programming and statistics on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://cogsci.dk/docs/programming-and-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Cheatsheets</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/cheat-sheet/</guid>
+      <description>Cheatsheet for R Please contribute additional tasks and solutions.
+Read/write files File format Package Function(s) Tutorial xls(x) readxl read_excel() Overview Transforming data frames Task Package Function(s) Tutorial Wide-to-long tidyr gather(), pivot_longer() Long-to-wide tidyr spread(), pivot_wider() Summarize columns dplyr summarize(), count() Order data frame base order() dplyr arrange() Summarize data frame skimr skim() base str() Merge data frames dplyr bind_cols(), bind_rows(), left_join(), right_join() + other *_join()s Select rows base df[..., ] dplyr filter() Select columns base df[, .</description>
+    </item>
+    
+    <item>
+      <title>Useful packages</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/packages/</guid>
+      <description>R Packages Basic utilities Package Description By dplyr A grammar of data manipulation tidyverse tidyr Tidy data with spread and gather functions tidyverse purrr A functional programming toolkit tidyverse plyr llply() and ldply() as for-loop replacements Hadley Wickham tibble Modern reimagining of the data.frame tidyverse data.table Alternative data frame. Quicker for big datasets Tyson Barrett recipes Preprocessing pipelines tidyverse groupdata2 Create groups, folds and partitions Ludvig Olsen rearrr Transform and rearrrange data Ludvig Olsen Text manipulation Package Description By stringr String manipulation tidyverse tidytext Tidy text analysis Julia Silge, David Robinson quanteda Quantitative analysis of text quanteda spacyr spaCy API for R quanteda sentida Sentiment analysis Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen Modeling Package Description By lme4 Linear mixed-effects models Douglas Bates, et al.</description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/guides/</guid>
+      <description>Plotting guides ggplot2 A Tutorial for Beautiful Plotting in R
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+STHDA Guides for &amp;lsquo;Statistical tools for high-throughput data analysis&amp;rsquo;
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
+Workflows </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/tools/</guid>
+      <description>Coding Programs Rstudio RStudio provides free and open source tools for R
+https://rstudio.com/
+JASP The JASP interface allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake.
+https://jasp-stats.org/
+Psychopy Python builder (Perfect for scientific experiments)
+https://www.psychopy.org/index.html
+Pavlovia Pavlovia (Psychopy In The Sky)
+https://pavlovia.org/
+Other Tools Github &amp;amp; Gitlab Software development version control
+http://github.com/ http://gitlab.com/ </description>
+    </item>
+    
+  </channel>
+</rss>

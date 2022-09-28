@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Science on </title>
+    <link>https://cogsci.dk/</link>
+    <description>Recent content in Cognitive Science on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://cogsci.dk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>https://cogsci.dk/docs/hidden/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/table-of-contents/with-toc/</guid>
+      <description>Caput vino delphine in tamen vias Cognita laeva illo fracta Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
+Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    
+    <item>
+      <title>Without ToC</title>
+      <link>https://cogsci.dk/docs/hidden/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/table-of-contents/without-toc/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus Tanto oblite Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
+Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title>Company Inspiration</title>
+      <link>https://cogsci.dk/docs/careers/company-inspiration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/careers/company-inspiration/</guid>
+      <description>Inspiration for companies Where Cogs Go CogSci Career </description>
+    </item>
+    
+    <item>
+      <title>Internships</title>
+      <link>https://cogsci.dk/docs/careers/internships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/careers/internships/</guid>
+      <description>Internships On the 3rd semester of the Master&amp;rsquo;s degree in Cognitive Science at Aarhus University, we go through an internship program. We have collected some of the experiences and outcomes here.
+Prior experiences Hedonia (Research group, Aarhus and Oxford) Name: Camilla Eva Andersen Contact: CamEvaAndersen@gmail.com How did you get your internship?
+I worked on a project in the same group as an RA.
+What was your &amp;lsquo;job role&amp;rsquo;?
+Researcher
+What did you end up doing/creating?</description>
+    </item>
+    
+    <item>
+      <title>Learning platforms</title>
+      <link>https://cogsci.dk/docs/learning/platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/platforms/</guid>
+      <description>Online Learning Platforms Coursera Take an extra degree with an online course.
+https://www.coursera.org/
+Codeacademy Learn to code
+https://www.codecademy.com
+MIT MIT OpenCourseware - Take An MIT course online
+https://ocw.mit.edu/index.htm
+EDX Take an extra degree with an online course
+https://www.edx.org/
+Udacity Nanodegrees https://eu.udacity.com/
+Udemy Take an extra degree with an online course
+https://www.udemy.com/
+Brilliant Brilliant Bite-sized courses for STEM topics
+https://brilliant.org/
+Spinning Up An educational resource that makes it easier to learn about deep reinforcement learning (deep RL)</description>
+    </item>
+    
+    <item>
+      <title>Programming Cheatsheets</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/cheat-sheet/</guid>
+      <description>Cheatsheet for R Please contribute additional tasks and solutions.
+Read/write files File format Package Function(s) Tutorial xls(x) readxl read_excel() Overview Transforming data frames Task Package Function(s) Tutorial Wide-to-long tidyr gather(), pivot_longer() Long-to-wide tidyr spread(), pivot_wider() Summarize columns dplyr summarize(), count() Order data frame base order() dplyr arrange() Summarize data frame skimr skim() base str() Merge data frames dplyr bind_cols(), bind_rows(), left_join(), right_join() + other *_join()s Select rows base df[..., ] dplyr filter() Select columns base df[, .</description>
+    </item>
+    
+    <item>
+      <title>Teacher list</title>
+      <link>https://cogsci.dk/docs/social/all-teachers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/social/all-teachers/</guid>
+      <description>Bachelor 1st Semester Kristian Tylén (Teacher in Cognition &amp;amp; Communication) Sebastian Scott Engen (Student Instructor in Cognition &amp;amp; Communication) Fabio Trecca (Teacher in Methods 1) Jonathan Hvithamar Rystrøm (Student Instructor in Methods 1) Daina Crafa (Teacher in Introduction to Cognitive Science) Anders Weile Larsen (Student Instructor in Introduction to Cognitive Science) 3rd Semester Byurakn Ishkhanyan (Teacher in Methods 3) Victor Poulsen (Student Instructor in Methods 3) Daina Crafa (Teacher in Mind &amp;amp; Conciousness) Master 1st Semester Chris Mathys (Teacher in Deciosionmaking) Rebekah Brita Baglini (Teacher in Natural Language Processing) Mads Jensen (Teacher in Advanced Cognitive Neuroscience) Aarhus University Cognitive Science Staff Joshua Charles Skewes (Head of Department at Linguistics, Cognitive Science and Semiotics) Blanka Sara Palfi (Instructor of Study Techniques) Sofie Nødskov Ditmer Sørensen (Student Instructor) </description>
+    </item>
+    
+    <item>
+      <title>AU environment</title>
+      <link>https://cogsci.dk/docs/social/au-environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/social/au-environment/</guid>
+      <description>The Environment at Aarhus University Aarhus University&amp;rsquo;s Entrepreneurial Incubator The Kitchen At The Kitchen, they support students who want to work on entrepreneurial projects while studying. Some of their activities are in Danish, but if you are an AU-student and you have a business idea, they will be happy to help you move it forward. Link Research groups Crafa Lab Her research investigates the effects of culture and social contexts on human development, brain processes, and genetics.</description>
+    </item>
+    
+    <item>
+      <title>Career Brochure</title>
+      <link>https://cogsci.dk/docs/careers/career-brochure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/careers/career-brochure/</guid>
+      <description>Career Brochure </description>
+    </item>
+    
+    <item>
+      <title>Online courses</title>
+      <link>https://cogsci.dk/docs/learning/online-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/online-courses/</guid>
+      <description>Online Courses Database Curated by Aarhus University, Cognitive Science, Esben Kran and Sebastian Engen
+This contains a list of many online courses. Originally curated for preliminary approval of courses outside Aarhus University (this is not possible for many of them). See a complete list of the content below. You are welcome to add an online course to the list according to the current structure. Try to ensure the quality of the course (e.</description>
+    </item>
+    
+    <item>
+      <title>Publications by students</title>
+      <link>https://cogsci.dk/docs/cogsci-productions/student-publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/cogsci-productions/student-publications/</guid>
+      <description>Publications by students Analysing political biases in danish newspapers using sentiment analysis Link
+By Kenneth C Enevoldsen, Lasse Hansen
+2017
+Language-Works
+Traditionally, the evaluation of political biases in Danish newspapers has been carried out through highly subjective methods. The conventional approach has been surveys asking samples of the population to place various newspapers on the political spectrum, coupled with analysing voting habits of the newspapers’ readers (Hjarvard, 2007). This paper seeks to examine whether it is possible to use sentiment analysis to objectively assess political biases in Danish newspapers.</description>
+    </item>
+    
+    <item>
+      <title>Useful packages</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/packages/</guid>
+      <description>R Packages Basic utilities Package Description By dplyr A grammar of data manipulation tidyverse tidyr Tidy data with spread and gather functions tidyverse purrr A functional programming toolkit tidyverse plyr llply() and ldply() as for-loop replacements Hadley Wickham tibble Modern reimagining of the data.frame tidyverse data.table Alternative data frame. Quicker for big datasets Tyson Barrett recipes Preprocessing pipelines tidyverse groupdata2 Create groups, folds and partitions Ludvig Olsen rearrr Transform and rearrrange data Ludvig Olsen Text manipulation Package Description By stringr String manipulation tidyverse tidytext Tidy text analysis Julia Silge, David Robinson quanteda Quantitative analysis of text quanteda spacyr spaCy API for R quanteda sentida Sentiment analysis Lars Kjartan Bacher Svendsen, Jacob Aarup Dalsgaard, Gustav Aarup Lauridsen Modeling Package Description By lme4 Linear mixed-effects models Douglas Bates, et al.</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://cogsci.dk/docs/learning/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/books/</guid>
+      <description>Books Meta Sites Archive - Online Archive of almost anything you could imagine link
+Gutenberg - Non-profit digital library offering millions of free public domain books (Almost all the classics) link
+LibriVox - Non-profit digital volunteer-run initiative that aims to release public domain audiobooks. Meta Books R for data scientists - This book will teach you how to do data science with R link
+A Language, not a Letter: Learning Statistics in R link</description>
+    </item>
+    
+    <item>
+      <title>CogTalks</title>
+      <link>https://cogsci.dk/docs/cogsci-productions/cogtalks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/cogsci-productions/cogtalks/</guid>
+      <description>Cog Productions CogTalks Social Compliance during Covid-19 with Lasse Hyldig Hansen Neuroimaging &amp;amp; Machine Learning with Esben Kran Experience Engineering with Aleksandrs Baskakovs Emotions with Sebastian Scott Engen When Reality Breaks (Brain Anomalies) with Lasse D. Elholm Making Safe AI with Cognitive Science and with Jonathan H. Rystrøm Escaping the AI Chasm with Malte Højmark-Bertelsen Vocal Markers in ASD and Schizophrenia with Riccardo Fusaroli Cognitive Semiotics and Neuroscience with Jannik Wiggers Disinformation &amp;amp; Democracies with Maris Sala Explainable AI &amp;amp; Cognitive Science with Millie Søndergaard Computational Modeling of Gambling Decisions with Simon Hansen Code Optimization in R with Lasse Letager Hansen Quest into Uncertainty with Savhannah Schulz Radiators &amp;amp; Communication with Mikkel Wallentin Industry Adventures with Jonathan H.</description>
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/guides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/guides/</guid>
+      <description>Plotting guides ggplot2 A Tutorial for Beautiful Plotting in R
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+STHDA Guides for &amp;lsquo;Statistical tools for high-throughput data analysis&amp;rsquo;
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
+Workflows </description>
+    </item>
+    
+    <item>
+      <title>Social groups</title>
+      <link>https://cogsci.dk/docs/social/social-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/social/social-groups/</guid>
+      <description>Social Groups CogChess We do cogs on chess boards! Join us please! Pleease?
+FB Contact: https://www.facebook.com/anders.haagerup
+FB group: https://www.facebook.com/groups/347525079305702/
+CogClimbers We climb on cogs as true heroes! We have enough cogs to climb but feel free to join!
+FB Contact: https://www.facebook.com/danielelmstom
+FB group: https://www.facebook.com/groups/2092521237743477/
+CogKnition FB Contact: https://www.facebook.com/sigrid.a.nielsen
+FB group: https://www.facebook.com/groups/713170942483009/
+Cogs who squat (a lot) We squat. That&amp;rsquo;s what we do! DEAL WITH IT!
+FB Contact: https://www.facebook.com/julie.s.nielsen
+FB group: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Exam Paper Examples</title>
+      <link>https://cogsci.dk/docs/support/exam-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/exam-examples/</guid>
+      <description>Cognition and Communication General Pointers ☝. Please have a look at Tylen&amp;rsquo;s guide for good reports by following this link: https://drive.google.com/.../1bo1kjdBGXPphYHrShMQ.../view&amp;hellip;. It will help you know to structure your document ❤ Some of you had switched around discussions and conclusions, others forgot to state their hypotheses, and so on. I believe this guide will be really helpful for a lot of you! 💗
+🤘. Remember to add your names in the header, as well as page numbers.</description>
+    </item>
+    
+    <item>
+      <title>Helpful Links</title>
+      <link>https://cogsci.dk/docs/support/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/links/</guid>
+      <description>Links to study relevant links AU Studypedia Checklist for new students Get timetables for courses Academic regulations Academic regulations (da) </description>
+    </item>
+    
+    <item>
+      <title>International Exhange</title>
+      <link>https://cogsci.dk/docs/support/exhange-semester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/exhange-semester/</guid>
+      <description>ITTU ITTU is the Bachelor degree&amp;rsquo;s 5th semester elective (15 ECTS) during the Bachelor&amp;rsquo;s thesis and the exhange 6th semester (30 ECTS) where international exhange is possible.
+Information Process Apply at AU with a prioritized list (~5 prioritized universities, see ITTU files) Get the list accepted Apply at target university, possibly get accepted If not accepted, go to next university or if the list is exhausted, go to step 1 It&amp;rsquo;s mostly pretty tough work.</description>
+    </item>
+    
+    <item>
+      <title>International Exhange</title>
+      <link>https://cogsci.dk/docs/support/preapproval/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/preapproval/</guid>
+      <description>Guide to IV courses This page will guide you through the (often convoluted) process of applying for IV-courses outside fo
+Pre Approval Find you dream course (you can look here for some excellent cog-reviews) Actually find multiple ones and kill all the birds with one application stone NB: Some of the people at the administration are a bit touchy about you not using your pre-approval - so only find stuff courses you actually wanna take!</description>
+    </item>
+    
+    <item>
+      <title>Writing Tools</title>
+      <link>https://cogsci.dk/docs/support/writing-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/writing-tools/</guid>
+      <description>Tools Zotero Personal Reference Library
+https://www.zotero.org/support/quick_start_guide</description>
+    </item>
+    
+    <item>
+      <title>Exam Projects</title>
+      <link>https://cogsci.dk/docs/cogsci-productions/exams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/cogsci-productions/exams/</guid>
+      <description>Earlier exam projects Cognition &amp;amp; Communication Anders &amp;amp; Laurits Arnold &amp;amp; AnnaMaya Kathrine &amp;amp; Frederikke Lasse &amp;amp; Pernille Lisa &amp;amp; Line Mikkel &amp;amp; Carl Sebastian &amp;amp; Nina Thea, Signe &amp;amp; Kiri </description>
+    </item>
+    
+    <item>
+      <title>Other Productions</title>
+      <link>https://cogsci.dk/docs/cogsci-productions/other-productions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/cogsci-productions/other-productions/</guid>
+      <description> Student packages and models Ludvig&amp;rsquo;s R packages: groupdata2 cvms xpectr rearrr Peter and Kenneth&amp;rsquo;s Tomsup theory of mind simulation Kenneth&amp;rsquo;s DaCy Danish language model Gustav and Jakob&amp;rsquo;s Sentida Danish sentiment tool Malte&amp;rsquo;s Ælæctra model Student apps Sofie and Astrid&amp;rsquo;s NLP for Humanities learning app Seb and Esben&amp;rsquo;s beta for an ideas page Student misc. Lasse&amp;rsquo;s fantastic card game CogFight Lasse and Lasse&amp;rsquo;s Cognitive Disorder Atlas poster Esben&amp;rsquo;s depressed flower game Cool games Universal Paperclips Game Can&amp;rsquo;t Unsee </description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://cogsci.dk/docs/learning/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/podcasts/</guid>
+      <description>Podcast recommendations Student Recommendations Luke Ring Brain-Related Brain Science with Ginger Campbell
+Interesting topics and some amazing guests. Also I once emailed the host for clarification and she took the time to reply and was just very nice.
+Tech Darknet Diaries
+Hands down the best made podcast on cyber security. Episodes are well produced and have a storytelling narrative that is engaging and entertaining, often interviewees are hackers, criminals, and security professionals.</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://cogsci.dk/docs/programming-and-statistics/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/programming-and-statistics/tools/</guid>
+      <description>Coding Programs Rstudio RStudio provides free and open source tools for R
+https://rstudio.com/
+JASP The JASP interface allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake.
+https://jasp-stats.org/
+Psychopy Python builder (Perfect for scientific experiments)
+https://www.psychopy.org/index.html
+Pavlovia Pavlovia (Psychopy In The Sky)
+https://pavlovia.org/
+Other Tools Github &amp;amp; Gitlab Software development version control
+http://github.com/ http://gitlab.com/ </description>
+    </item>
+    
+    <item>
+      <title>Adding content</title>
+      <link>https://cogsci.dk/docs/contribute/adding-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/adding-content/</guid>
+      <description>Adding content First, you have to fork the repository as shown in this guide.
+Adding to lists If you want to add to a list on the website, note how that list is currently set up and copy the elements to make your addition adhere to the current formatting.
+For many of the lists, a specific shortcode is important. This shortcode is the ` ` shortcode. It is structured as shown below:</description>
+    </item>
+    
+    <item>
+      <title>Broca&#39;s next event</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/brocas-next-event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/brocas-next-event/</guid>
+      <description>Broca&amp;rsquo;s next event </description>
+    </item>
+    
+    <item>
+      <title>Broca&#39;s next event</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/next-academic-event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/next-academic-event/</guid>
+      <description>Broca&amp;rsquo;s next event </description>
+    </item>
+    
+    <item>
+      <title>CogSci productions</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/cogsci-productions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/cogsci-productions/</guid>
+      <description>New productions CogTalks CogPodcasts </description>
+    </item>
+    
+    <item>
+      <title>Formal projects</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/participate/personal-student-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/participate/personal-student-projects/</guid>
+      <description>Sign up for participation in COBE/CFINN/ConAmore - SONA APP Sample text with a sample list:
+Sample list item with checkbox Sample list item with unchecked checkbox? # Just some sample code block </description>
+    </item>
+    
+    <item>
+      <title>International support</title>
+      <link>https://cogsci.dk/docs/support/international-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/support/international-support/</guid>
+      <description>International support </description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://cogsci.dk/docs/contribute/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/markdown/</guid>
+      <description>Writing in markdown Software basics One of the absolute best ways to write markdown files is to use Visual Studio Code and install the Markdown All in One plugin that adds highlighting and assistive features when you&amp;rsquo;re editing a .md file. This is extremely useful. Some usage examples are shown on the link.
+Text basics Writing text and clicking enter to get to the next line just continues your current line.</description>
+    </item>
+    
+    <item>
+      <title>Neural Network (academic) event calendar</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/the-calendar/neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/the-calendar/neural-network/</guid>
+      <description>The Neural Network calendar The hub for up-to-date Aarhus CogSci information! The Neural Network is a newsletter and an event calendar for the most interesting cognitive science-related events happening in Aarhus University and beyond.
+Links to the Neural Network: Sign up for the newsletter here Previous Neural Network newsletter Calendar link </description>
+    </item>
+    
+    <item>
+      <title>Newest CogTalks</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/participate/formal-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/participate/formal-projects/</guid>
+      <description>Newest CogTalks Sample text with a sample list:
+Sample list item with checkbox Sample list item with unchecked checkbox? # Just some sample code block </description>
+    </item>
+    
+    <item>
+      <title>Newest Neural Network newsletter</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/news/newest-nn-newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/news/newest-nn-newsletter/</guid>
+      <description>Newest Neural Network newsletter Sample text with a sample list:
+Sample list item with checkbox Sample list item with unchecked checkbox? # Just some sample code block </description>
+    </item>
+    
+    <item>
+      <title>Next academic event</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/gazzanigas-next-event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/upcoming-events/gazzanigas-next-event/</guid>
+      <description>Next academic event </description>
+    </item>
+    
+    <item>
+      <title>Social event calendar</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/the-calendar/social-event-calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/the-calendar/social-event-calendar/</guid>
+      <description>Social event calendar Sample text with a sample list:
+Sample list item with checkbox Sample list item with unchecked checkbox? # Just some sample code block </description>
+    </item>
+    
+    <item>
+      <title>Study Café</title>
+      <link>https://cogsci.dk/docs/hidden/study-cafe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/study-cafe/</guid>
+      <description>Study Café </description>
+    </item>
+    
+    <item>
+      <title>The attention spotlight</title>
+      <link>https://cogsci.dk/docs/hidden-the-attention-spotlight/news/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden-the-attention-spotlight/news/blog/</guid>
+      <description>The Blog TODO: Figure out the technicalities of getting the blog instantiated here instead of in the blog area (should be pretty easy)
+Sample text with a sample list:
+Sample list item with checkbox Sample list item with unchecked checkbox? # Just some sample code block </description>
+    </item>
+    
+    <item>
+      <title>Tutor list</title>
+      <link>https://cogsci.dk/docs/hidden/tutor-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/tutor-list/</guid>
+      <description>Tutor list This is an assembly of people who find it fun to help out with Statistics, Coding, Designing Experiments &amp;amp; Data Visualisation Here you can get in contact with knowledgeful Cognitive Science Students if you need help with your work. It might be for shorter consultations or for help with larger projects where you&amp;rsquo;d like to pay someone for assisting you with all the nitty-gritty details. Moreover, I&amp;rsquo;ve also been asked by other students to be their private tutor and this could also be a place to find such a friend :) Sign-Up below or look through the list to find yourself a tutor, programmer, statistician, web-designer or any other type of PC Pirate Sebastian Scott Engen Qualifications R and python: Data Visualisation, Statistical Modelling, Experiment design+implementation</description>
+    </item>
+    
+    <item>
+      <title>Writing a blog post</title>
+      <link>https://cogsci.dk/docs/contribute/writing-a-blog-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/writing-a-blog-post/</guid>
+      <description>Writing a blog post File and folder setup You write a .md file which stands for .markdown. Markdown is an established way to write with formatting. You can find instructions on how to write it on this page.
+The name of the file has to be in the following syntax: **my-blog-post.md with dashes instead of spaces and in all lower-case. This ensures that we can link between pages optimally.
+By following this guide, you have access to the file structure of the website.</description>
+    </item>
+    
+    <item>
+      <title>Interesting videos</title>
+      <link>https://cogsci.dk/docs/learning/video-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/video-talks/</guid>
+      <description>#Language Video Lectures BOLD TITLE one-liner explanation link
+BOLD TITLE one-liner explanation link
+Video Tutorials BOLD TITLE one-liner explanation link
+BOLD TITLE one-liner explanation link
+Podcasts title link
+title link
+#Emotion
+Language Steven Pinker: What Our Language Habits Reveal Psycholinguist Steven Pinker talks about how language both transmits information and reflects social relations.
+https://www.ted.com/talks/steven_pinker_what_our_language_habits_reveal/up-next?language=en
+Lera Boroditsky: How Language Shapes the Way We Think Cognitive linguist Lera Boroditsky talks about the influence of our language on our mind.</description>
+    </item>
+    
+    <item>
+      <title>Video tutorials</title>
+      <link>https://cogsci.dk/docs/learning/video-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/learning/video-tutorial/</guid>
+      <description>UNSORTED The Chinese Room Experiment (BBC) Mary’s Room Thought Experiment Crash Course: Action potential Crash Course: Synapses Crash Course: Vision 2-Minute Neuroscience: Membrane potential 2-Minute Neuroscience: Action Potential 2-Minute Neuroscience: Synaptic transmission 2-Minute Neuroscience: Release of neurotransmitters 2-Minute Neuroscience: Vision Psychopy: Build Your First Experiment 3Blue1Brown. Neural Networks https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi </description>
+    </item>
+    
+    <item>
+      <title>Cogsci.dk is going live!</title>
+      <link>https://cogsci.dk/posts/hello-world/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/posts/hello-world/</guid>
+      <description>by Malte, Peter, and Esben
+Welcome to the launch of cogsci.dk!
+Our vision with this website is that we can have a shared space across the years in the bsc and msc. We think this can be part of shaping the identity of this wonderful programme we&amp;rsquo;re in.
+We all have different strengths, so when we (the more website-technically-oriented bunch) create this website, it&amp;rsquo;s in the hope that those who know their ways through the bureaucracy, those with experience with industry careers, those who are good at programming or incredible with statistics, those deeply integrated in the social life, those with deep and/or broad knowledge of a literature, or just those who know where to find interesting stuff to read and watch &amp;ndash; we hope that all of you will contribute your strengths to make this a great shared resource.</description>
+    </item>
+    
+    <item>
+      <title>My title</title>
+      <link>https://cogsci.dk/docs/contribute/example-blog-post/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/example-blog-post/</guid>
+      <description>Example blog post Instruction Above are two different sizes of headings based on the amount of pound (#) signs. See the instructions for an extensive guide on writing a blog post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cogsci.dk/docs/contribute/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cogsci.dk/docs/hidden/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/collapsed/3rd-level/4th-level/</guid>
+      <description>4th Level of Menu Caesorum illa tu sentit micat vestes papyriferi Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
+Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto! Sedes ante dum superest extrema.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cogsci.dk/docs/hidden/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/hidden/hidden/</guid>
+      <description>Disclaimer: In general, the academic level (e.g. statistical abilities) of the papers should be expected to increase by semester. The current state-of-the-art (SOTA) model of this is goodness ~ semester + num_broca_parties * num_lockdowns + (1|year) (10-fold repeated cross-validation). This disclaimer is not meant to degrade papers from earlier semesters (that are most likely awesome (our model has a high intercept)) but just an honest note that we all get drastically better with time, and we shouldn&amp;rsquo;t be afraid of sharing our imperfect work.</description>
+    </item>
+    
+    <item>
+      <title>CogSci Calendar</title>
+      <link>https://cogsci.dk/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/calendar/</guid>
+      <description>Academic Events Calendar iCal link for integrating with other calendars:
+https://calendar.google.com/calendar/embed?src=waade.net_g1s9lthnsk8q4rp6b71ha53ti0%40group.calendar.google.com&amp;amp;ctz=Europe%2FCopenhagen Social Events Calendar iCal link for integrating with other calendars:
+https://calendar.google.com/calendar/embed?src=waade.net_g1s9lthnsk8q4rp6b71ha53ti0%40group.calendar.google.com&amp;amp;ctz=Europe%2FCopenhagen </description>
+    </item>
+    
+  </channel>
+</rss>
