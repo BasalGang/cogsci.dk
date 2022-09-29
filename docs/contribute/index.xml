@@ -46,5 +46,14 @@ By following this guide, you have access to the file structure of the website.</
       <description>Example blog post Instruction Above are two different sizes of headings based on the amount of pound (#) signs. See the instructions for an extensive guide on writing a blog post.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://cogsci.dk/docs/contribute/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cogsci.dk/docs/contribute/shortcodes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
