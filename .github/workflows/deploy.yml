@@ -16,7 +16,7 @@ jobs:
       - name: Install rmarkdown and blogdown
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
       - name: Install Hugo
-        run: Rscript -e 'blogdown::install_hugo(extended = TRUE, version = "0.104.1")'
+        run: Rscript -e 'blogdown::install_hugo(version = "0.104.1")'
       - name: Look at files
         run: Rscript -e 'dir()'
       - name: Run hugo_build()
