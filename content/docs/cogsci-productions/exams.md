@@ -6,6 +6,8 @@ title: "Exam Projects"
 
 # Earlier exam projects
 
+<iframe src="https://drive.google.com/drive/u/3/folders/16O6E-fygidU59waHE98AzMpNIv-Htnwp" width="600" height="500" frameborder="0"></iframe>
+
 ## Cognition & Communication
 - [Anders & Laurits](https://gitlab.com/aucogseers/CogSite/-/blob/master/static/Old%20Assignments/CogCom/Anders%20&%20Laurits.pdf)
 - [Arnold & AnnaMaya](https://gitlab.com/aucogseers/CogSite/-/blob/master/static/Old%20Assignments/CogCom/Arnold%20&%20AnnaMaya.pdf)
